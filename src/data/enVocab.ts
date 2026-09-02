@@ -365,7 +365,6 @@ export const EN_CATEGORIES: EnCategory[] = [
       w('rambutan', 'rambutan', 'ram-bu-tan', 'rambutan', '🍒', 'menengah', 'The rambutan has hairy red skin.', 'Rambutan punya kulit merah berbulu.', 'Rambutan berasal dari Asia Tenggara.'),
       w('date', 'date', 'deyt', 'kurma', '🟤', 'menengah', 'The date grows on palm trees.', 'Kurma tumbuh di pohon palem.', 'Kurma kaya energi dan gula alami.'),
       w('longan', 'longan', 'long-gan', 'kelengkeng', '🟤', 'menengah', 'The longan has smooth brown skin.', 'Kelengkeng punya kulit cokelat halus.', 'Dagingnya bening dan manis.'),
-      w('rambutan', 'rambutan', 'ram-bu-tan', 'rambutan', '🍒', 'menengah', 'The rambutan has hairy red skin.', 'Rambutan punya kulit merah berbulu.', 'Sangat populer di Indonesia.'),
       w('mangosteen', 'mangosteen', 'man-gos-tin', 'manggis', '🟣', 'menengah', 'The mangosteen has purple skin.', 'Manggis punya kulit ungu tebal.', 'Dagingnya putih dan manis.'),
       w('longan', 'longan', 'long-gan', 'kelengkeng', '🟤', 'menengah', 'The longan has smooth brown skin.', 'Kelengkeng punya kulit cokelat halus.', 'Dagingnya bening dan manis.'),
       w('starfruit', 'starfruit', 'star-frut', 'belimbing', '⭐', 'menengah', 'The starfruit looks like a star.', 'Belimbing berbentuk bintang saat dipotong.', 'Bisa dimakan langsung atau dibuat rujak.'),
