@@ -350,7 +350,6 @@ export const EN_CATEGORIES: EnCategory[] = [
       w('pear', 'pear', 'per', 'pir', '🍐', 'pemula', 'The pear is shaped like a bell.', 'Pir bentuknya seperti lonceng.', 'Pir dagingnya renyah dan kaya serat.'),
       w('papaya', 'papaya', 'pa-pa-ya', 'pepaya', '🟠', 'pemula', 'The papaya has orange flesh.', 'Pepaya punya daging berwarna oranye.', 'Pepaya membantu pencernaan dan kaya vitamin A.'),
       w('plum', 'plum', 'plam', 'plum', '🟣', 'menengah', 'The plum has smooth skin.', 'Plum punya kulit halus.', 'Plum rasanya manis dan sedikit asam.'),
-      w('mango', 'mango', 'meng-go', 'mangga', '🥭', 'pemula', 'The mango is sweet and juicy.', 'Mangga manis dan berair.', 'Mangga disebut raja buah di negara tropis.'),
       w('kiwi', 'kiwi', 'ki-wi', 'kiwi', '🥝', 'pemula', 'The kiwi has brown fuzzy skin.', 'Kiwi punya kulit cokelat berbulu.', 'Kiwi berasal dari Tiongkok dan populer di Selandia Baru.'),
       w('blueberry', 'blueberry', 'blu-be-ri', 'beri biru', '🫐', 'pemula', 'The blueberry is small and dark blue.', 'Beri biru kecil dan berwarna biru tua.', 'Beri biru sangat baik untuk mata dan otak.'),
       w('lime', 'lime', 'la-im', 'jeruk nipis', '🍋', 'pemula', 'The lime is green and sour.', 'Jeruk nipis berwarna hijau dan rasanya asam.', 'Jeruk nipis sering digunakan untuk minuman dan masakan.'),
@@ -364,9 +363,7 @@ export const EN_CATEGORIES: EnCategory[] = [
       w('longan', 'longan', 'long-gan', 'kelengkeng', '🟤', 'menengah', 'The longan has smooth brown skin.', 'Kelengkeng punya kulit cokelat halus.', 'Longan berarti "mata naga" dalam bahasa Tiongkok.'),
       w('rambutan', 'rambutan', 'ram-bu-tan', 'rambutan', '🍒', 'menengah', 'The rambutan has hairy red skin.', 'Rambutan punya kulit merah berbulu.', 'Rambutan berasal dari Asia Tenggara.'),
       w('date', 'date', 'deyt', 'kurma', '🟤', 'menengah', 'The date grows on palm trees.', 'Kurma tumbuh di pohon palem.', 'Kurma kaya energi dan gula alami.'),
-      w('longan', 'longan', 'long-gan', 'kelengkeng', '🟤', 'menengah', 'The longan has smooth brown skin.', 'Kelengkeng punya kulit cokelat halus.', 'Dagingnya bening dan manis.'),
       w('mangosteen', 'mangosteen', 'man-gos-tin', 'manggis', '🟣', 'menengah', 'The mangosteen has purple skin.', 'Manggis punya kulit ungu tebal.', 'Dagingnya putih dan manis.'),
-      w('longan', 'longan', 'long-gan', 'kelengkeng', '🟤', 'menengah', 'The longan has smooth brown skin.', 'Kelengkeng punya kulit cokelat halus.', 'Dagingnya bening dan manis.'),
       w('starfruit', 'starfruit', 'star-frut', 'belimbing', '⭐', 'menengah', 'The starfruit looks like a star.', 'Belimbing berbentuk bintang saat dipotong.', 'Bisa dimakan langsung atau dibuat rujak.'),
       w('guava', 'guava', 'gwa-va', 'jambu batu', '🟢', 'menengah', 'The guava has green skin.', 'Jambu batu punya kulit hijau.', 'Kaya vitamin C dan sangat sehat.')
 
