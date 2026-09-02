@@ -358,7 +358,7 @@ export const EN_CATEGORIES: EnCategory[] = [
       w('apricot', 'apricot', 'e-pri-kot', 'aprikot', '🟠', 'menengah', 'The apricot is orange and soft.', 'Aprikot berwarna oranye dan lembut.', 'Aprikot bisa dimakan segar atau dikeringkan.'),
       w('fig', 'fig', 'fig', 'tin', '🟣', 'menengah', 'The fig has sweet pulp.', 'Tin punya daging manis.', 'Tin sering dikeringkan atau dibuat selai.'),
       w('olive', 'olive', 'o-liv', 'zaitun', '🟢', 'menengah', 'The olive is used to make oil.', 'Zaitun digunakan untuk membuat minyak.', 'Minyak zaitun sangat sehat untuk jantung.'),
-      w('pomegranate', 'pomegranate', 'po-me-gra-net', 'delima', '🟥', 'menengah', 'The pomegranate has many red seeds.', 'Delima punya banyak biji merah.', 'Satu delima bisa berisi ratusan biji.'),
+      w('pomegranate', 'pomegranate', 'po-me-gra-net', 'delima', '🟥', 'mahir', 'The pomegranate has many red seeds.', 'Delima punya banyak biji merah.', 'Satu delima bisa berisi ratusan biji.'),
       w('lychee', 'lychee', 'lai-ci', 'leci', '🍒', 'menengah', 'The lychee has red bumpy skin.', 'Leci punya kulit merah kasar.', 'Dagingnya putih bening, manis dan harum.'),
       w('longan', 'longan', 'long-gan', 'kelengkeng', '🟤', 'menengah', 'The longan has smooth brown skin.', 'Kelengkeng punya kulit cokelat halus.', 'Longan berarti "mata naga" dalam bahasa Tiongkok.'),
       w('rambutan', 'rambutan', 'ram-bu-tan', 'rambutan', '🍒', 'menengah', 'The rambutan has hairy red skin.', 'Rambutan punya kulit merah berbulu.', 'Rambutan berasal dari Asia Tenggara.'),
@@ -389,15 +389,15 @@ export const EN_CATEGORIES: EnCategory[] = [
       w('pistachio', 'pistachio', 'pis-ta-syo', 'kacang pistasi', '🟢', 'menengah', 'The pistachio has a hard shell that opens.', 'Kacang pistasi punya kulit keras yang terbuka.', 'Dagingnya hijau dan sangat sehat.'),
       w('sugar_apple', 'sugar apple', 'su-gar ap-pl', 'srikaya', '🟢', 'menengah', 'The sugar apple has bumpy skin.', 'Srikaya punya kulit berbenjol-benjol.', 'Dagingnya putih, lembut, dan manis seperti gula.'),
       w('salak', 'salak', 'sa-lak', 'salak', '🟤', 'menengah', 'The snake fruit has scaly skin.', 'Salak punya kulit bersisik seperti ular.', 'Dagingnya kuning, segar, dan rasanya unik.'),
-      w('sugarcane', 'sugarcane', 'su-ger-keyn', 'tebu', '🟢', 'menengah', 'The sugarcane is tall and sweet.', 'Tebu tumbuh tinggi dan rasanya manis.', 'Sumber gula alami dan minuman segar.'),
+      w('sugarcane', 'sugarcane', 'su-ger-keyn', 'tebu', '🟢', 'mahir', 'The sugarcane is tall and sweet.', 'Tebu tumbuh tinggi dan rasanya manis.', 'Sumber gula alami dan minuman segar.'),
       w('bignay', 'bignay', 'big-nay', 'wuni', '🟣', 'menengah', 'The bignay grows in clusters.', 'Buah wuni tumbuh berkelompok di pohon.', 'Warnanya ungu hitam dan rasanya manis asam.'),
       w('rose_myrtle', 'rose myrtle', 'ro-z mer-tel', 'kemejing', '🟣', 'menengah', 'The rose myrtle has purple skin.', 'Kemejing punya kulit ungu dan berbulu halus.', 'Rasanya manis dan segar saat matang.'),
       w('white_sapote', 'white sapote', 'wait sa-po-te', 'kesemek', '🟠', 'menengah', 'The persimmon is orange and sweet.', 'Kesemek berwarna oranye dan rasanya manis.', 'Teksturnya lembut dan kaya vitamin.'),
       w('black_berry_lily', 'black berry lily', 'blek be-ri li-li', 'kacang koro', '🟤', 'menengah', 'The fruit has black seeds inside.', 'Buah kacang koro punya biji hitam di dalamnya.', 'Bisa dimakan setelah diolah dengan benar.'),
-      w('canistel', 'canistel', 'ka-nis-tel', 'telur buah', '🟡', 'menengah', 'The canistel has yellow flesh like egg yolk.', 'Buah telur punya daging kuning seperti kuning telur.', 'Teksturnya lembut dan rasanya manis.'),
+      w('canistel', 'canistel', 'ka-nis-tel', 'telur buah', '🟡', 'mahir', 'The canistel has yellow flesh like egg yolk.', 'Buah telur punya daging kuning seperti kuning telur.', 'Teksturnya lembut dan rasanya manis.'),
       w('mamey', 'mamey', 'ma-mey', 'alpukat krimi', '🟤', 'menengah', 'The mamey has sweet orange flesh.', 'Alpukat krimi punya daging oranye yang manis.', 'Biasanya dibuat es krim dan minuman.'),
-      w('cupuacu', 'cupuacu', 'ku-pu-a-ku', 'kakao hutan', '🟤', 'menengah', 'The cupuacu has creamy white pulp.', 'Kakao hutan punya daging putih kental dan manis.', 'Sering dibuat minuman dan cokelat.'),
-      w('candlenut', 'candlenut', 'kan-del-nat', 'kemiri', '🟤', 'menengah', 'The candlenut is round and oily.', 'Kemiri berbentuk bulat dan kaya minyak.', 'Sangat penting untuk bumbu masakan Indonesia.')
+      w('cupuacu', 'cupuacu', 'ku-pu-a-ku', 'kakao hutan', '🟤', 'mahir', 'The cupuacu has creamy white pulp.', 'Kakao hutan punya daging putih kental dan manis.', 'Sering dibuat minuman dan cokelat.'),
+      w('candlenut', 'candlenut', 'kan-del-nat', 'kemiri', '🟤', 'mahir', 'The candlenut is round and oily.', 'Kemiri berbentuk bulat dan kaya minyak.', 'Sangat penting untuk bumbu masakan Indonesia.')
       ],
   },
   {
