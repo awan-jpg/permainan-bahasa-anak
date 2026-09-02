@@ -1,4 +1,4 @@
-/**
+  /**
  * Kosakata Bahasa Inggris yang diperkaya, khusus untuk halaman /inggris/vocab.
  * Berbeda dari data lintas-bahasa di src/data/curriculum.ts: di sini tiap kata
  * punya contoh kalimat, fakta seru ramah anak, dan tingkat kesulitan.
@@ -174,6 +174,22 @@ export const EN_CATEGORIES: EnCategory[] = [
       w('brown', 'brown', 'braun', 'cokelat', '🟤', 'menengah', 'The bear is brown.', 'Beruang itu cokelat.', 'Cokelat berasal dari biji kakao berwarna cokelat.'),
       w('gray', 'gray', 'grei', 'abu-abu', '🩶', 'mahir', 'The elephant is gray.', 'Gajah berwarna abu-abu.', 'Abu-abu adalah campuran hitam dan putih.'),
       w('gold', 'gold', 'gold', 'emas', '🟨', 'mahir', 'The crown is gold.', 'Mahkota itu emas.', 'Emas tidak pernah berkarat, jadi selalu berkilau.'),
+      w('silver', 'silver', 'sil-ver', 'perak', '⚪', 'menengah', 'The ring is silver.', 'Cincin itu berwarna perak.', 'Perak menghantarkan panas dan listrik paling baik.'),
+      w('bronze', 'bronze', 'bronz', 'perunggu', '🟤', 'menengah', 'The medal is bronze.', 'Medali itu berwarna perunggu.', 'Perunggu adalah campuran tembaga dan timah.'),
+      w('copper', 'copper', 'ko-per', 'tembaga', '🟠', 'menengah', 'The wire is copper.', 'Kawat itu berwarna tembaga.', 'Tembaga berwarna merah kecokelatan dan sangat berguna.'),
+      w('violet', 'violet', 'vai-o-let', 'ungu muda', '🟣', 'menengah', 'The violet flower is violet.', 'Bunga violet berwarna ungu muda.', 'Warna ungu muda adalah warna bunga violet asli.'),
+      w('indigo', 'indigo', 'in-di-go', 'nila', '🔵', 'mahir', 'Indigo is between blue and purple.', 'Nila ada di antara biru dan ungu.', 'Nila adalah salah satu dari 7 warna pelangi.'),
+      w('turquoise', 'turquoise', 'ter-kuois', 'biru kehijauan', '🩵', 'menengah', 'The stone is turquoise.', 'Batu itu berwarna biru kehijauan.', 'Batu pirus sering dipakai untuk perhiasan cantik.'),
+      w('cyan', 'cyan', 'sa-yan', 'biru muda', '🔵', 'menengah', 'Cyan is a bright blue.', 'Biru muda adalah biru yang cerah.', 'Warna ini ada di antara biru dan hijau.'),
+      w('lime', 'lime', 'laim', 'hijau muda', '🟢', 'menengah', 'Lime is a light green.', 'Hijau muda adalah hijau yang terang.', 'Nama diambil dari warna buah jeruk nipis.'),
+      w('olive', 'olive', 'o-lif', 'hijau zaitun', '🟢', 'menengah', 'Olive is a dark green.', 'Hijau zaitun adalah hijau yang gelap.', 'Diambil dari warna buah pohon zaitun.'),
+      w('beige', 'beige', 'bej', 'krem', '🟫', 'pemula', 'The wall is beige.', 'Dinding itu berwarna krem.', 'Warna krem terlihat lembut dan hangat.'),
+      w('maroon', 'maroon', 'ma-run', 'merah tua', '🔴', 'menengah', 'Maroon is dark red.', 'Merah tua adalah merah yang gelap.', 'Kata maroon berasal dari bahasa Prancis yang berarti kastanye.'),
+      w('navy', 'navy', 'ne-vi', 'biru tua', '🔵', 'menengah', 'Navy is dark blue.', 'Biru tua adalah biru yang gelap.', 'Dulu dipakai untuk seragam pelaut angkatan laut.'),
+      w('lavender', 'lavender', 'la-ven-der', 'ungu muda lembut', '🟣', 'menengah', 'Lavender is soft purple.', 'Ungu muda lembut seperti bunga lavender.', 'Diambil dari warna bunga lavender yang harum.'),
+      w('magenta', 'magenta', 'ma-gen-ta', 'merah keunguan', '🟣', 'mahir', 'Magenta is bright pinkish purple.', 'Merah keunguan adalah warna yang sangat cerah.', 'Warna ini juga disebut fuksi atau merah muda tua.'),
+      w('tan', 'tan', 'ten', 'cokelat muda', '🟫', 'pemula', 'The sand is tan.', 'Pasir itu berwarna cokelat muda.', 'Warna ini mirip dengan warna kulit manusia.'),
+      w('amber', 'amber', 'am-ber', 'kuning keemasan', '🟡', 'menengah', 'Amber is golden yellow.', 'Kuning keemasan seperti batu amber.', 'Warna ini sama dengan warna getah pohon yang membatu.')
     ],
   },
   {
