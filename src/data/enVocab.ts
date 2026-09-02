@@ -68,7 +68,7 @@ export const EN_CATEGORIES: EnCategory[] = [
       w('lion', 'lion', 'lai-on', 'singa', '🦁', 'mahir', 'The lion is very strong.', 'Singa sangat kuat.', 'Auman singa terdengar sampai 8 kilometer jauhnya.'),
       w('tiger', 'tiger', 'tai-ger', 'harimau', '🐯', 'mahir', 'The tiger has orange fur.', 'Harimau berbulu oranye.', 'Corak belang tiap harimau berbeda, seperti sidik jari.'),
       w('penguin', 'penguin', 'peng-gwin', 'penguin', '🐧', 'mahir', 'The penguin cannot fly.', 'Penguin tidak bisa terbang.', 'Penguin berenang secepat lumba-lumba kecil.'),
-      w('zebra', 'zebra', 'zi-bra', 'zebra', '🦓', 'menengah', 'The zebra has black and white stripes.', 'Zebra punya garis hitam putih.'),
+      w('zebra', 'zebra', 'zi-bra', 'zebra', '🦓', 'menengah', 'The zebra has black and white stripes.', 'Zebra punya garis hitam putih.', 'Setiap pola garis zebra unik dan tidak sama.'),
     ],
   },
   {
