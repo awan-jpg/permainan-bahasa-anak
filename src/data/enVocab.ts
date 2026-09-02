@@ -419,8 +419,7 @@ export const EN_CATEGORIES: EnCategory[] = [
       w('eggplant', 'eggplant', 'eg-plant', 'terong', '🍆', 'mahir', 'The eggplant is purple.', 'Terong itu ungu.', 'Terong berwarna ungu mengkilap.'),
       w('lettuce', 'lettuce', 'le-tis', 'selada', '🥬', 'mahir', 'Lettuce is crunchy.', 'Selada itu renyah.', 'Selada sering dipakai untuk salad.'),
       w('garlic', 'garlic', 'gar-lik', 'bawang putih', '🧄', 'mahir', 'Garlic smells strong.', 'Bawang putih baunya kuat.', 'Bawang putih dipakai untuk memasak.'),
-      w('carrot', 'ca-rrot', 'wortel', '🥕', 'pemula', 'The carrot is orange.', 'Wortel berwarna oranye.', 'Bagus untuk mata.'),
-    
+         
     ],
   },
   {
