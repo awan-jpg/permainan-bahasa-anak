@@ -365,7 +365,10 @@ export const EN_CATEGORIES: EnCategory[] = [
       w('date', 'date', 'deyt', 'kurma', '🟤', 'menengah', 'The date grows on palm trees.', 'Kurma tumbuh di pohon palem.', 'Kurma kaya energi dan gula alami.'),
       w('mangosteen', 'mangosteen', 'man-gos-tin', 'manggis', '🟣', 'menengah', 'The mangosteen has purple skin.', 'Manggis punya kulit ungu tebal.', 'Dagingnya putih dan manis.'),
       w('starfruit', 'starfruit', 'star-frut', 'belimbing', '⭐', 'menengah', 'The starfruit looks like a star.', 'Belimbing berbentuk bintang saat dipotong.', 'Bisa dimakan langsung atau dibuat rujak.'),
-      w('guava', 'guava', 'gwa-va', 'jambu batu', '🟢', 'menengah', 'The guava has green skin.', 'Jambu batu punya kulit hijau.', 'Kaya vitamin C dan sangat sehat.')
+      w('guava', 'guava', 'gwa-va', 'jambu batu', '🟢', 'menengah', 'The guava has green skin.', 'Jambu batu punya kulit hijau.', 'Kaya vitamin C dan sangat sehat.'),
+        w('dragon_fruit', 'dragon fruit', 'dra-gon frut', 'buah naga', '🔴', 'menengah', 'The dragon fruit has pink skin.', 'Buah naga punya kulit merah muda.', 'Tumbuh di tanaman kaktus dan sangat sehat.'),
+w('soursop', 'soursop', 'sau-sop', 'sirsak', '🟢', 'menengah', 'The soursop has soft spiky skin.', 'Sirsak punya kulit hijau berduri lunak.', 'Sering dibuat jus dan es krim yang enak.'),
+w('passion_fruit', 'passion fruit', 'pa-syen frut', 'markisa', '🟣', 'menengah', 'The passion fruit has gelatinous pulp.', 'Markisa punya daging seperti jelly.', 'Sering dibuat sirup dan minuman segar.'),
 
  ],
   },
