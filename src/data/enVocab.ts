@@ -1,4 +1,4 @@
-  /**
+    /**
  * Kosakata Bahasa Inggris yang diperkaya, khusus untuk halaman /inggris/vocab.
  * Berbeda dari data lintas-bahasa di src/data/curriculum.ts: di sini tiap kata
  * punya contoh kalimat, fakta seru ramah anak, dan tingkat kesulitan.
@@ -211,6 +211,35 @@ export const EN_CATEGORIES: EnCategory[] = [
       w('ten', 'ten', 'ten', 'sepuluh', '🔟', 'menengah', 'I have ten toes.', 'Aku punya sepuluh jari kaki.', 'Kita berhitung dengan sepuluh jari.'),
       w('eleven', 'eleven', 'i-le-ven', 'sebelas', '➕', 'mahir', 'A soccer team has eleven players.', 'Tim sepak bola punya sebelas pemain.', 'Sebelas adalah angka dua digit pertama.'),
       w('twelve', 'twelve', 'twelv', 'dua belas', '🕛', 'mahir', 'A year has twelve months.', 'Satu tahun punya dua belas bulan.', 'Jam dinding punya dua belas angka.'),
+      w('thirteen', 'thirteen', 'ter-tin', 'tiga belas', '1️⃣3️⃣', 'pemula', 'Thirteen is between twelve and fourteen.', 'Tiga belas ada di antara dua belas dan empat belas.', 'Angka tiga belas sering dianggap angka pembawa sial.'),
+      w('fourteen', 'fourteen', 'for-tin', 'empat belas', '1️⃣4️⃣', 'pemula', 'Fourteen plus one is fifteen.', 'Empat belas ditambah satu sama dengan lima belas.', 'Empat belas adalah angka genap setelah dua belas.'),
+      w('fifteen', 'fifteen', 'fif-tin', 'lima belas', '1️⃣5️⃣', 'pemula', 'Fifteen minutes is a quarter of an hour.', 'Lima belas menit sama dengan seperempat jam.', 'Lima belas bisa dibagi dengan angka tiga dan lima.'),
+      w('sixteen', 'sixteen', 'siks-tin', 'enam belas', '1️⃣6️⃣', 'pemula', 'Sixteen is double eight.', 'Enam belas sama dengan dua kali delapan.', 'Enam belas adalah angka kuadrat dari empat.'),
+      w('seventeen', 'seventeen', 'se-ven-tin', 'tujuh belas', '1️⃣7️⃣', 'pemula', 'Seventeen is a prime number.', 'Tujuh belas adalah bilangan prima.', 'Hanya bisa dibagi dengan angka satu dan dirinya sendiri.'),
+      w('eighteen', 'eighteen', 'ei-tin', 'delapan belas', '1️⃣8️⃣', 'pemula', 'Eighteen is ten plus eight.', 'Delapan belas sama dengan sepuluh ditambah delapan.', 'Saat berusia delapan belas tahun seseorang dianggap dewasa.'),
+      w('nineteen', 'nineteen', 'nain-tin', 'sembilan belas', '1️⃣9️⃣', 'pemula', 'Nineteen is the last teen number.', 'Sembilan belas adalah angka belas yang terakhir.', 'Sembilan belas adalah angka terbesar di belasan.'),
+      w('twenty', 'twenty', 'twen-ti', 'dua puluh', '2️⃣0️⃣', 'pemula', 'Twenty is two times ten.', 'Dua puluh sama dengan dua kali sepuluh.', 'Dua puluh sama dengan satu skor.'),
+      w('twenty-one', 'twenty-one', 'twen-ti wan', 'dua puluh satu', '2️⃣1️⃣', 'pemula', 'Twenty-one is twenty plus one.', 'Dua puluh satu sama dengan dua puluh ditambah satu.', 'Usia dua puluh satu tahun sering dianggap dewasa penuh.'),
+      w('twenty-two', 'twenty-two', 'twen-ti tu', 'dua puluh dua', '2️⃣2️⃣', 'pemula', 'Two times eleven is twenty-two.', 'Dua kali sebelas sama dengan dua puluh dua.', 'Dua puluh dua adalah angka bilangan bulat.'),
+      w('twenty-three', 'twenty-three', 'twen-ti ter', 'dua puluh tiga', '2️⃣3️⃣', 'pemula', 'Twenty-three is a prime number.', 'Dua puluh tiga adalah bilangan prima.', 'Tidak bisa dibagi dengan angka lain selain satu dan dirinya.'),
+      w('twenty-four', 'twenty-four', 'twen-ti for', 'dua puluh empat', '2️⃣4️⃣', 'pemula', 'There are twenty-four hours in a day.', 'Ada dua puluh empat jam dalam satu hari.', 'Dua puluh empat bisa dibagi dengan banyak angka.'),
+      w('twenty-five', 'twenty-five', 'twen-ti faiv', 'dua puluh lima', '2️⃣5️⃣', 'pemula', 'Twenty-five is five times five.', 'Dua puluh lima sama dengan lima kali lima.', 'Dua puluh lima adalah angka kuadrat dari lima.'),
+      w('twenty-six', 'twenty-six', 'twen-ti siks', 'dua puluh enam', '2️⃣6️⃣', 'pemula', 'Twenty-six is double thirteen.', 'Dua puluh enam sama dengan dua kali tiga belas.', 'Dua puluh enam adalah angka genap.'),
+      w('twenty-seven', 'twenty-seven', 'twen-ti se-ven', 'dua puluh tujuh', '2️⃣7️⃣', 'pemula', 'Twenty-seven is three cubed.', 'Dua puluh tujuh sama dengan tiga pangkat tiga.', 'Tiga kali tiga kali tiga sama dengan dua puluh tujuh.'),
+      w('twenty-eight', 'twenty-eight', 'twen-ti eit', 'dua puluh delapan', '2️⃣8️⃣', 'pemula', 'Twenty-eight is a perfect number.', 'Dua puluh delapan adalah angka sempurna.', 'Jumlah pembaginya sama dengan angka itu sendiri.'),
+      w('twenty-nine', 'twenty-nine', 'twen-ti nain', 'dua puluh sembilan', '2️⃣9️⃣', 'pemula', 'Twenty-nine comes after twenty-eight.', 'Dua puluh sembilan datang setelah dua puluh delapan.', 'Dua puluh sembilan adalah bilangan prima.'),
+      w('thirty', 'thirty', 'ter-ti', 'tiga puluh', '3️⃣0️⃣', 'pemula', 'Thirty is three times ten.', 'Tiga puluh sama dengan tiga kali sepuluh.', 'Tiga puluh menit sama dengan setengah jam.'),
+      w('thirty-one', 'thirty-one', 'ter-ti wan', 'tiga puluh satu', '3️⃣1️⃣', 'pemula', 'Thirty-one days in many months.', 'Tiga puluh satu hari ada di banyak bulan.', 'Tiga puluh satu adalah bilangan prima.'),
+      w('forty', 'forty', 'for-ti', 'empat puluh', '4️⃣0️⃣', 'pemula', 'Forty is four tens.', 'Empat puluh sama dengan empat kali sepuluh.', 'Empat puluh adalah angka yang ditulis tanpa huruf u.'),
+      w('fifty', 'fifty', 'fif-ti', 'lima puluh', '5️⃣0️⃣', 'pemula', 'Fifty is half of one hundred.', 'Lima puluh adalah setengah dari seratus.', 'Lima puluh persen sama dengan setengah.'),
+      w('sixty', 'sixty', 'siks-ti', 'enam puluh', '6️⃣0️⃣', 'pemula', 'Sixty seconds is one minute.', 'Enam puluh detik sama dengan satu menit.', 'Enam puluh menit sama dengan satu jam.'),
+      w('seventy', 'seventy', 'se-ven-ti', 'tujuh puluh', '7️⃣0️⃣', 'pemula', 'Seventy is seven times ten.', 'Tujuh puluh sama dengan tujuh kali sepuluh.', 'Tujuh puluh tahun disebut umur tujuh puluh.'),
+      w('eighty', 'eighty', 'ei-ti', 'delapan puluh', '8️⃣0️⃣', 'pemula', 'Eighty is eight times ten.', 'Delapan puluh sama dengan delapan kali sepuluh.', 'Delapan puluh persen berarti sebagian besar.'),
+      w('ninety', 'ninety', 'nain-ti', 'sembilan puluh', '9️⃣0️⃣', 'pemula', 'Ninety is nine times ten.', 'Sembilan puluh sama dengan sembilan kali sepuluh.', 'Sembilan puluh adalah angka sebelum seratus.'),
+      w('one hundred', 'one hundred', 'wan han-dred', 'seratus', '💯', 'menengah', 'One hundred is ten tens.', 'Seratus sama dengan sepuluh kali sepuluh.', 'Seratus persen berarti semuanya, tidak ada yang kurang.'),
+      w('zero', 'zero', 'zi-ro', 'nol', '0️⃣', 'pemula', 'Zero means nothing.', 'Nol berarti tidak ada apa-apa.', 'Nol ditambah angka lain tidak mengubah angka itu.'),
+      w('half', 'half', 'haf', 'setengah', '½', 'menengah', 'Half is one of two equal parts.', 'Setengah adalah satu dari dua bagian yang sama.', 'Setengah dari dua sama dengan satu.'),
+      w('dozen', 'dozen', 'do-zen', 'lusin', '📦', 'menengah', 'A dozen is twelve.', 'Satu lusin sama dengan dua belas buah.', 'Satu lusin telur sama dengan dua belas butir telur.')
     ],
   },
   {
