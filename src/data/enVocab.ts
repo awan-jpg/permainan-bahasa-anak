@@ -364,6 +364,16 @@ export const EN_CATEGORIES: EnCategory[] = [
       w('longan', 'longan', 'long-gan', 'kelengkeng', '🟤', 'menengah', 'The longan has smooth brown skin.', 'Kelengkeng punya kulit cokelat halus.', 'Longan berarti "mata naga" dalam bahasa Tiongkok.'),
       w('rambutan', 'rambutan', 'ram-bu-tan', 'rambutan', '🍒', 'menengah', 'The rambutan has hairy red skin.', 'Rambutan punya kulit merah berbulu.', 'Rambutan berasal dari Asia Tenggara.'),
       w('date', 'date', 'deyt', 'kurma', '🟤', 'menengah', 'The date grows on palm trees.', 'Kurma tumbuh di pohon palem.', 'Kurma kaya energi dan gula alami.'),
+      w('longan', 'longan', 'long-gan', 'kelengkeng', '🟤', 'menengah', 'The longan has smooth brown skin.', 'Kelengkeng punya kulit cokelat halus.', 'Dagingnya bening dan manis.'),
+      w('rambutan', 'rambutan', 'ram-bu-tan', 'rambutan', '🍒', 'menengah', 'The rambutan has hairy red skin.', 'Rambutan punya kulit merah berbulu.', 'Sangat populer di Indonesia.'),
+      w('mangosteen', 'mangosteen', 'man-gos-tin', 'manggis', '🟣', 'menengah', 'The mangosteen has purple skin.', 'Manggis punya kulit ungu tebal.', 'Dagingnya putih dan manis.'),
+      w('durian', 'durian', 'du-ri-an', 'durian', '🟡', 'sulit', 'The durian has a strong smell.', 'Durian punya bau menyengat.', 'Disebut raja buah di Asia Tenggara.'),
+      w('jackfruit', 'jackfruit', 'jak-frut', 'nangka', '🟡', 'menengah', 'The jackfruit is very large.', 'Nangka ukurannya sangat besar.', 'Dagingnya kuning dan manis.'),
+      w('starfruit', 'starfruit', 'star-frut', 'belimbing', '⭐', 'menengah', 'The starfruit looks like a star.', 'Belimbing berbentuk bintang saat dipotong.', 'Bisa dimakan langsung atau dibuat rujak.'),
+      w('dragon_fruit', 'dragon fruit', 'dra-gon frut', 'buah naga', '🔴', 'menengah', 'The dragon fruit has pink skin.', 'Buah naga punya kulit merah muda.', 'Tumbuh di tanaman kaktus.'),
+      w('soursop', 'soursop', 'sau-sop', 'sirsak', '🟢', 'menengah', 'The soursop has soft spiky skin.', 'Sirsak punya kulit hijau berduri lunak.', 'Sering dibuat jus dan es krim.'),
+      w('sapodilla', 'sapodilla', 'sa-po-di-la', 'sawo', '🟤', 'menengah', 'The sapodilla has brown sweet flesh.', 'Sawo punya daging cokelat yang manis.', 'Teksturnya lembut dan enak.'),
+      w('guava', 'guava', 'gwa-va', 'jambu batu', '🟢', 'menengah', 'The guava has green skin.', 'Jambu batu punya kulit hijau.', 'Kaya vitamin C dan sangat sehat.')
       
         ],
   },
