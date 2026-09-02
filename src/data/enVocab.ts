@@ -372,7 +372,7 @@ export const EN_CATEGORIES: EnCategory[] = [
       w('lime', 'lime', 'la-im', 'jeruk nipis', '🍋', 'pemula', 'The lime is green and sour.', 'Jeruk nipis berwarna hijau dan rasanya asam.', 'Sering dipakai untuk minuman dan masakan.'),
       w('lemon', 'lemon', 'le-mon', 'lemon', '🍋', 'pemula', 'The lemon is yellow and sour.', 'Lemon berwarna kuning dan rasanya asam.', 'Kaya vitamin C dan segar untuk minuman.'),
       w('pomelo', 'pomelo', 'po-me-lo', 'jeruk bali', '🟡', 'menengah', 'The pomelo is the largest citrus fruit.', 'Jeruk bali adalah buah sitrus terbesar.', 'Dagingnya tebal, manis, dan sangat segar.'),
-      w('cantaloupe', 'cantaloupe', 'kan-ta-lup', 'melon oranye', '🍈', 'menengah', 'The cantaloupe has orange flesh.', 'Melon oranye punya daging berwarna oranye.', 'Kaya vitamin A dan rasanya manis segar.'),
+      w('melon', 'melon', 'me-lon', 'melon', '🍈', 'pemula', 'The melon has sweet flesh and many seeds.', 'Melon punya daging manis dan banyak biji.', 'Melon termasuk keluarga semangka dan sangat segar.'),
 
  ],
   },
