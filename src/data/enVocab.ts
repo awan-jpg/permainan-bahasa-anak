@@ -367,8 +367,6 @@ export const EN_CATEGORIES: EnCategory[] = [
       w('longan', 'longan', 'long-gan', 'kelengkeng', '🟤', 'menengah', 'The longan has smooth brown skin.', 'Kelengkeng punya kulit cokelat halus.', 'Dagingnya bening dan manis.'),
       w('rambutan', 'rambutan', 'ram-bu-tan', 'rambutan', '🍒', 'menengah', 'The rambutan has hairy red skin.', 'Rambutan punya kulit merah berbulu.', 'Sangat populer di Indonesia.'),
       w('mangosteen', 'mangosteen', 'man-gos-tin', 'manggis', '🟣', 'menengah', 'The mangosteen has purple skin.', 'Manggis punya kulit ungu tebal.', 'Dagingnya putih dan manis.'),
-      w('durian', 'durian', 'du-ri-an', 'durian', '🟡', 'sulit', 'The durian has a strong smell.', 'Durian punya bau menyengat.', 'Disebut raja buah di Asia Tenggara.'),
-      w('sapodilla', 'sapodilla', 'sa-po-di-la', 'sawo', '🟤', 'menengah', 'The sapodilla has brown sweet flesh.', 'Sawo punya daging cokelat yang manis.', 'Teksturnya lembut dan enak.'),
 
  ],
   },
