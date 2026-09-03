@@ -419,7 +419,10 @@ export const EN_CATEGORIES: EnCategory[] = [
       w('eggplant', 'eggplant', 'eg-plant', 'terong', '🍆', 'mahir', 'The eggplant is purple.', 'Terong itu ungu.', 'Terong berwarna ungu mengkilap.'),
       w('lettuce', 'lettuce', 'le-tis', 'selada', '🥬', 'mahir', 'Lettuce is crunchy.', 'Selada itu renyah.', 'Selada sering dipakai untuk salad.'),
       w('garlic', 'garlic', 'gar-lik', 'bawang putih', '🧄', 'mahir', 'Garlic smells strong.', 'Bawang putih baunya kuat.', 'Bawang putih dipakai untuk memasak.'),
-      w('spinach', 'spinach', 'spi-nac', 'bayam', '🥬', 'pemula', 'Spinach is green.', 'Bayam berwarna hijau.', 'Bayam sangat kaya zat besi.'),  
+      w('spinach', 'spinach', 'spi-nac', 'bayam', '🥬', 'pemula', 'Spinach is green.', 'Bayam berwarna hijau.', 'Bayam sangat kaya zat besi.'),
+      w('chili', 'chili', 'chi-li', 'cabe', '🌶️', 'pemula', 'Chili is spicy.', 'Cabe rasanya pedas.', 'Sangat penting untuk masakan Indonesia.'),
+      w('bean sprout', 'bean sprout', 'bin spraut', 'tauge', '🟢', 'pemula', 'Bean sprouts are white.', 'Tauge berwarna putih.', 'Tumbuh dari kacang hijau dan kaya gizi.'),
+      w('water spinach', 'water spinach', 'kang-kung', 'kangkung', '🌿', 'pemula', 'Water spinach grows in water.', 'Kangkung tumbuh di air.', 'Sering ditumis terasi dan sangat enak.'),
     ],
   },
   {
