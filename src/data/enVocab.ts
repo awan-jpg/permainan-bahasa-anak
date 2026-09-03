@@ -423,7 +423,6 @@ export const EN_CATEGORIES: EnCategory[] = [
       w('chili', 'chili', 'chi-li', 'cabe', '🌶️', 'pemula', 'Chili is spicy.', 'Cabe rasanya pedas.', 'Sangat penting untuk masakan Indonesia.'),
       w('bean sprout', 'bean sprout', 'bin spraut', 'tauge', '🟢', 'pemula', 'Bean sprouts are white.', 'Tauge berwarna putih.', 'Tumbuh dari kacang hijau dan kaya gizi.'),
       w('water spinach', 'water spinach', 'kang-kung', 'kangkung', '🌿', 'pemula', 'Water spinach grows in water.', 'Kangkung tumbuh di air.', 'Sering ditumis terasi dan sangat enak.'),
-      w('water spinach', 'water spinach', 'kang-kung', 'kangkung', '🌿', 'pemula', 'Water spinach grows in water.', 'Kangkung tumbuh di air.', 'Sering ditumis terasi dan sangat enak.'),
       w('radish', 'radish', 'ra-dis', 'lobak', '🔴', 'pemula', 'Radish is white and crunchy.', 'Lobak berwarna putih dan renyah.', 'Rasanya sedikit pedas dan segar.'),
       w('pumpkin', 'pumpkin', 'pamp-kin', 'labu kuning', '🎃', 'pemula', 'Pumpkin is orange and sweet.', 'Labu kuning berwarna oranye dan manis.', 'Bisa dibuat kolak, sayur, atau kue.'),
       w('long bean', 'long bean', 'long bin', 'kacang panjang', '🟢', 'pemula', 'Long bean is long and green.', 'Kacang panjang berwarna hijau dan panjang.', 'Sering dimasak sayur bening atau lodeh.'),
@@ -439,7 +438,6 @@ export const EN_CATEGORIES: EnCategory[] = [
       w('garlic chives', 'garlic chives', 'ga-lik chayvs', 'kucai', '🟢', 'pemula', 'Garlic chives have long green leaves.', 'Kucai punya daun hijau panjang.', 'Sering dipakai untuk masakan dan gorengan.'),
       w('cauliflower', 'cauliflower', 'ko-li-fla-ver', 'kembang kol', '⚪', 'pemula', 'Cauliflower is white and round.', 'Kembang kol berwarna putih dan bulat.', 'Bisa ditumis, direbus, atau digoreng.'),
       w('bamboo shoot', 'bamboo shoot', 'bam-bu sut', 'rebung', '🎋', 'pemula', 'Bamboo shoot grows underground.', 'Rebung tumbuh di bawah tanah.', 'Sering dimasak sayur lodeh atau tumis.'),
-      w('luffa', 'luffa', 'lu-fa', 'gambas', '🟢', 'pemula', 'Luffa is long and green.', 'Gambas berbentuk panjang dan hijau.', 'Sering dimasak sayur bening yang segar.'),
       w('sponge gourd', 'sponge gourd', 'sponj gord', 'oyong', '🟢', 'pemula', 'Sponge gourd is long and smooth.', 'Oyong panjang dan kulitnya halus.', 'Sering dimasak sayur bening yang manis.')
     ],
   },
