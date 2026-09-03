@@ -431,7 +431,16 @@ export const EN_CATEGORIES: EnCategory[] = [
       w('bamboo shoot', 'bamboo shoot', 'bam-bu sut', 'rebung', '🎋', 'pemula', 'Bamboo shoot grows from the ground.', 'Rebung tumbuh dari bawah tanah.', 'Sering dimasak sayur lodeh atau tumis.'),
       w('soybean', 'soybean', 'soy-bin', 'kacang kedelai', '🟤', 'pemula', 'Soybean is round and yellow.', 'Kacang kedelai bulat dan berwarna kuning.', 'Bahan utama tahu dan tempe.'),
       w('mung bean', 'mung bean', 'mung bin', 'kacang hijau', '🟢', 'pemula', 'Mung bean is small and green.', 'Kacang hijau kecil dan berwarna hijau.', 'Sering dibuat bubur dan tauge.'),
-      w('peanut', 'peanut', 'pi-nat', 'kacang tanah', '🥜', 'pemula', 'Peanut grows underground.', 'Kacang tanah tumbuh di dalam tanah.', 'Bisa digoreng, direbus, atau dibuat selai.')
+      w('peanut', 'peanut', 'pi-nat', 'kacang tanah', '🥜', 'pemula', 'Peanut grows underground.', 'Kacang tanah tumbuh di dalam tanah.', 'Bisa digoreng, direbus, atau dibuat selai.'),
+      w('bitter melon', 'bitter melon', 'bi-ter me-lon', 'pare', '🟢', 'pemula', 'Bitter melon tastes bitter.', 'Pare rasanya pahit.', 'Sering dimasak sayur atau dibuat obat.'),
+      w('chayote', 'chayote', 'che-yo-te', 'labu siam', '🟢', 'pemula', 'Chayote is light green.', 'Labu siam berwarna hijau muda.', 'Sering dimasak sayur bening atau tumis.'),
+      w('celery', 'celery', 'se-le-ri', 'seledri', '🌿', 'pemula', 'Celery has green leaves.', 'Seledri punya daun hijau yang wangi.', 'Sering dipakai untuk taburan dan bumbu.'),
+      w('scallion', 'scallion', 'ska-li-yen', 'daun bawang', '🟢', 'pemula', 'Scallion is green and white.', 'Daun bawang berwarna hijau dan putih.', 'Sering dipakai untuk sup dan tumisan.'),
+      w('garlic chives', 'garlic chives', 'ga-lik chayvs', 'kucai', '🟢', 'pemula', 'Garlic chives have long green leaves.', 'Kucai punya daun hijau panjang.', 'Sering dipakai untuk masakan dan gorengan.'),
+      w('cauliflower', 'cauliflower', 'ko-li-fla-ver', 'kembang kol', '⚪', 'pemula', 'Cauliflower is white and round.', 'Kembang kol berwarna putih dan bulat.', 'Bisa ditumis, direbus, atau digoreng.'),
+      w('bamboo shoot', 'bamboo shoot', 'bam-bu sut', 'rebung', '🎋', 'pemula', 'Bamboo shoot grows underground.', 'Rebung tumbuh di bawah tanah.', 'Sering dimasak sayur lodeh atau tumis.'),
+      w('luffa', 'luffa', 'lu-fa', 'gambas', '🟢', 'pemula', 'Luffa is long and green.', 'Gambas berbentuk panjang dan hijau.', 'Sering dimasak sayur bening yang segar.'),
+      w('sponge gourd', 'sponge gourd', 'sponj gord', 'oyong', '🟢', 'pemula', 'Sponge gourd is long and smooth.', 'Oyong panjang dan kulitnya halus.', 'Sering dimasak sayur bening yang manis.')
     ],
   },
   {
