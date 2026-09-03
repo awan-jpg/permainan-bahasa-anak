@@ -423,6 +423,15 @@ export const EN_CATEGORIES: EnCategory[] = [
       w('chili', 'chili', 'chi-li', 'cabe', '🌶️', 'pemula', 'Chili is spicy.', 'Cabe rasanya pedas.', 'Sangat penting untuk masakan Indonesia.'),
       w('bean sprout', 'bean sprout', 'bin spraut', 'tauge', '🟢', 'pemula', 'Bean sprouts are white.', 'Tauge berwarna putih.', 'Tumbuh dari kacang hijau dan kaya gizi.'),
       w('water spinach', 'water spinach', 'kang-kung', 'kangkung', '🌿', 'pemula', 'Water spinach grows in water.', 'Kangkung tumbuh di air.', 'Sering ditumis terasi dan sangat enak.'),
+      w('water spinach', 'water spinach', 'kang-kung', 'kangkung', '🌿', 'pemula', 'Water spinach grows in water.', 'Kangkung tumbuh di air.', 'Sering ditumis terasi dan sangat enak.'),
+      w('radish', 'radish', 'ra-dis', 'lobak', '🔴', 'pemula', 'Radish is white and crunchy.', 'Lobak berwarna putih dan renyah.', 'Rasanya sedikit pedas dan segar.'),
+      w('pumpkin', 'pumpkin', 'pamp-kin', 'labu kuning', '🎃', 'pemula', 'Pumpkin is orange and sweet.', 'Labu kuning berwarna oranye dan manis.', 'Bisa dibuat kolak, sayur, atau kue.'),
+      w('long bean', 'long bean', 'long bin', 'kacang panjang', '🟢', 'pemula', 'Long bean is long and green.', 'Kacang panjang berwarna hijau dan panjang.', 'Sering dimasak sayur bening atau lodeh.'),
+      w('watercress', 'watercress', 'wo-ter-kres', 'selada air', '🥗', 'pemula', 'Watercress is fresh and green.', 'Selada air segar dan berwarna hijau.', 'Sering dimakan mentah sebagai lalapan.'),
+      w('bamboo shoot', 'bamboo shoot', 'bam-bu sut', 'rebung', '🎋', 'pemula', 'Bamboo shoot grows from the ground.', 'Rebung tumbuh dari bawah tanah.', 'Sering dimasak sayur lodeh atau tumis.'),
+      w('soybean', 'soybean', 'soy-bin', 'kacang kedelai', '🟤', 'pemula', 'Soybean is round and yellow.', 'Kacang kedelai bulat dan berwarna kuning.', 'Bahan utama tahu dan tempe.'),
+      w('mung bean', 'mung bean', 'mung bin', 'kacang hijau', '🟢', 'pemula', 'Mung bean is small and green.', 'Kacang hijau kecil dan berwarna hijau.', 'Sering dibuat bubur dan tauge.'),
+      w('peanut', 'peanut', 'pi-nat', 'kacang tanah', '🥜', 'pemula', 'Peanut grows underground.', 'Kacang tanah tumbuh di dalam tanah.', 'Bisa digoreng, direbus, atau dibuat selai.')
     ],
   },
   {
