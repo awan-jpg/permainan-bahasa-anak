@@ -935,6 +935,7 @@ export const EN_CATEGORIES: EnCategory[] = [
     color2: '#FFECB3',
     words: [
 ]
+ },       
 
 export const LEVELS: { id: Level; label: string; emoji: string }[] = [
   { id: 'pemula', label: 'Pemula', emoji: '🌱' },
