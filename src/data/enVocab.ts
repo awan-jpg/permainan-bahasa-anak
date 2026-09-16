@@ -939,7 +939,9 @@ export const EN_CATEGORIES: EnCategory[] = [
       w('Simple Future', 'Simple Future', 'sim-pel fyu-cer', 'Bentuk Nanti', '📖', 'menengah', 'I will study tomorrow.', 'Saya akan belajar besok.', 'Akan datang. (+) S+will+V1 | (-) will+not+V1 | (?) Will+S+V1?'),
       w('Present Continuous', 'Present Continuous', 'pre-sent kon-ti-nyu-es', 'Sedang Terjadi', '📖', 'menengah', 'I am studying now.', 'Saya sedang belajar.', 'Sedang berlangsung. (+) S+am/is/are+V-ing'),
       w('Present Perfect', 'Present Perfect', 'pre-sent per-fect', 'Sudah Selesai', '📖', 'menengah', 'I have finished.', 'Saya sudah selesai.', 'Selesai, hasil terasa sekarang. (+) S+have/has+V3'),
-      
+      w('Present Perfect Continuous', 'Present Perfect Continuous', 'pre-sent per-fect kon-ti-nyu-es', 'Sudah & Masih Berlangsung', '📖', 'menengah', 'I have been studying 2 jam.', 'Sudah belajar 2 jam & masih lanjut.', 'Sudah mulai, belum selesai. (+) S+have/has+been+V-ing'),
+      w('Past Continuous', 'Past Continuous', 'pest kon-ti-nyu-es', 'Sedang Lampau', '📖', 'menengah', 'I was studying tadi malam.', 'Saya sedang belajar tadi malam.', 'Sedang terjadi di masa lalu. (+) S+was/were+V-ing'),
+      w('Past Perfect', 'Past Perfect', 'pest per-fect', 'Sudah Sebelum Lampau', '📖', 'menengah', 'I had finished before you came.', 'Sudah selesai lebih dulu.', 'Selesai sebelum kejadian lain. (+) S+had+V3'),
     ]
   },
 ]
