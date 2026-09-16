@@ -927,9 +927,7 @@ export const EN_CATEGORIES: EnCategory[] = [
       w('restaurant', 'restaurant', 'res-to-ran', 'restoran', '🍽️', 'mahir', 'We eat at the restaurant.', 'Kita makan di restoran.', 'Restoran tempat membeli makanan siap saji.'),
    ],
   },
-]
- },       
-
+      
 export const LEVELS: { id: Level; label: string; emoji: string }[] = [
   { id: 'pemula', label: 'Pemula', emoji: '🌱' },
   { id: 'menengah', label: 'Menengah', emoji: '🌤️' },
