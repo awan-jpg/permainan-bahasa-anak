@@ -904,7 +904,7 @@ export const EN_CATEGORIES: EnCategory[] = [
       w('hour', 'hour', 'a-wer', 'jam', '⏳', 'mahir', 'An hour has sixty minutes.', 'Satu jam ada enam puluh menit.', 'Enam puluh menit sama dengan satu jam.'),
       w('minute', 'minute', 'mi-nit', 'menit', '⏱️', 'mahir', 'Wait one minute.', 'Tunggu satu menit.', 'Satu menit ada enam puluh detik.'),
       w('year', 'year', 'yir', 'tahun', '🎆', 'mahir', 'A year has twelve months.', 'Satu tahun ada dua belas bulan.', 'Kita berulang tahun setiap tahun.'),
-    ],
+     ],
   },
   {
     id: 'tempat',
@@ -927,7 +927,8 @@ export const EN_CATEGORIES: EnCategory[] = [
       w('restaurant', 'restaurant', 'res-to-ran', 'restoran', '🍽️', 'mahir', 'We eat at the restaurant.', 'Kita makan di restoran.', 'Restoran tempat membeli makanan siap saji.'),
    ],
   },
-      
+]
+
 export const LEVELS: { id: Level; label: string; emoji: string }[] = [
   { id: 'pemula', label: 'Pemula', emoji: '🌱' },
   { id: 'menengah', label: 'Menengah', emoji: '🌤️' },
