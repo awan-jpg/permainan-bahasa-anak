@@ -938,7 +938,8 @@ export const EN_CATEGORIES: EnCategory[] = [
       w('Simple Past', 'Simple Past', 'sim-pel pest', 'Bentuk Lampau', '📖', 'menengah', 'I studied yesterday.', 'Saya belajar kemarin.', 'Sudah lewat. (+) S+V2 | (-) did+not+V1 | (?) Did+S+V1?'),
       w('Simple Future', 'Simple Future', 'sim-pel fyu-cer', 'Bentuk Nanti', '📖', 'menengah', 'I will study tomorrow.', 'Saya akan belajar besok.', 'Akan datang. (+) S+will+V1 | (-) will+not+V1 | (?) Will+S+V1?'),
       w('Present Continuous', 'Present Continuous', 'pre-sent kon-ti-nyu-es', 'Sedang Terjadi', '📖', 'menengah', 'I am studying now.', 'Saya sedang belajar.', 'Sedang berlangsung. (+) S+am/is/are+V-ing'),
-  
+      w('Present Perfect', 'Present Perfect', 'pre-sent per-fect', 'Sudah Selesai', '📖', 'menengah', 'I have finished.', 'Saya sudah selesai.', 'Selesai, hasil terasa sekarang. (+) S+have/has+V3'),
+      w('Present Perfect Continuous', 'Present Perfect Continuous', 'Sudah & Masih', 'Sudah & Masih', '📖', 'menengah', 'I have been studying 2 jam.', 'Sudah belajar 2 jam & masih lanjut.', 'Sudah mulai, belum selesai. (+) S+have/has+been+V-ing')
     ]
   },
 ]
