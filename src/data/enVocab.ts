@@ -934,7 +934,10 @@ export const EN_CATEGORIES: EnCategory[] = [
     color: '#FFF8E1',
     color2: '#FFECB3',
     words: [
-      w('Simple Present', 'Simple Present', 'sim-pel pre-sent', 'Bentuk Sekarang', '📖', 'menengah', 'I study every day.', 'Saya belajar setiap hari.', 'Kebiasaan. (+) S+V1 | (-) do/does+not+V1 | (?) Do/Does+S+V1?'),
+      w('Simple Present', 'Simple Present', 'sim-pel pre-sent', 'Bentuk Sekarang', '📖', 'pemula', 
+'I study every day.', 
+'Saya belajar setiap hari.', 
+'Aturan PENTING: ✅ I/You/We/They → kata kerja TANPA s | ⚡ He/She/It → kata kerja WAJIB +s. Contoh: I study ✅ / He studies ✅. Digunakan untuk kebiasaan & fakta. (+) S+V1 | (-) do/does+not+V1 | (?) Do/Does+S+V1?'),
       w('Simple Past', 'Simple Past', 'sim-pel pest', 'Bentuk Lampau', '📖', 'menengah', 'I studied yesterday.', 'Saya belajar kemarin.', 'Sudah lewat. (+) S+V2 | (-) did+not+V1 | (?) Did+S+V1?'),
       w('Simple Future', 'Simple Future', 'sim-pel fyu-cer', 'Bentuk Nanti', '📖', 'menengah', 'I will study tomorrow.', 'Saya akan belajar besok.', 'Akan datang. (+) S+will+V1 | (-) will+not+V1 | (?) Will+S+V1?'),
       w('Present Continuous', 'Present Continuous', 'pre-sent kon-ti-nyu-es', 'Sedang Terjadi', '📖', 'menengah', 'I am studying now.', 'Saya sedang belajar.', 'Sedang berlangsung. (+) S+am/is/are+V-ing'),
