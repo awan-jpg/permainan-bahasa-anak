@@ -934,6 +934,65 @@ export const EN_CATEGORIES: EnCategory[] = [
     color: '#FFF8E1',
     color2: '#FFECB3',
     words: [
+        w('Simple Present', 'Simple Present', 'sim-pel pre-sent', 'Bentuk Sekarang Sederhana', '📖', 'menengah', 
+'I study English every day.', 
+'Saya belajar bahasa Inggris setiap hari.', 
+'Kebiasaan/fakta. (+) S+V1 | I/You/We/They=V1 biasa | He/She/It=V1+s/es | (-) do/does+not+V1 | (?) Do/Does+S+V1?'),
+
+      w('Simple Past', 'Simple Past', 'sim-pel pest', 'Bentuk Lampau Sederhana', '📖', 'menengah', 
+'I studied English yesterday.', 
+'Saya belajar bahasa Inggris kemarin.', 
+'Sudah selesai di masa lalu. (+) S+V2 | (-) did+not+V1 | (?) Did+S+V1? Semua pakai did, kata kerja balik ke V1'),
+
+      w('Simple Future', 'Simple Future', 'sim-pel fyu-cer', 'Bentuk Masa Depan Sederhana', '📖', 'menengah', 
+'I will study English tomorrow.', 
+'Saya akan belajar bahasa Inggris besok.', 
+'Akan terjadi nanti. (+) S+will+V1 | (-) will+not+V1 | (?) Will+S+V1? Semua pakai will, tidak berubah'),
+
+      w('Present Continuous', 'Present Continuous', 'pre-sent kon-ti-nyu-es', 'Sedang Berlangsung', '📖', 'menengah', 
+'I am studying English now.', 
+'Saya sedang belajar bahasa Inggris sekarang.', 
+'Sedang terjadi saat ini. (+) S+am/is/are+V-ing | I=am | He/She/It=is | You/We/They=are | (-) tambah not | (?) Am/Is/Are di depan'),
+
+      w('Present Perfect', 'Present Perfect', 'pre-sent per-fect', 'Sudah Terjadi', '📖', 'menengah', 
+'I have finished my work.', 
+'Saya sudah menyelesaikan pekerjaan saya.', 
+'Sudah selesai, hasilnya terasa sekarang. (+) S+have/has+V3 | I/You/We/They=have | He/She/It=has | (-) tambah not | (?) Have/Has di depan'),
+
+      w('Present Perfect Continuous', 'Present Perfect Continuous', 'pre-sent per-fect kon-ti-nyu-es', 'Sudah & Masih Berlangsung', '📖', 'menengah', 
+'I have been studying for 2 hours.', 
+'Saya sudah belajar selama 2 jam (dan masih lanjut).', 
+'Sudah mulai, belum selesai, masih jalan. (+) S+have/has+been+V-ing | (-) tambah not | (?) Have/Has di depan'),
+
+      w('Past Continuous', 'Past Continuous', 'pest kon-ti-nyu-es', 'Sedang Terjadi di Masa Lalu', '📖', 'menengah', 
+'I was studying at 8 last night.', 
+'Saya sedang belajar jam 8 tadi malam.', 
+'Sedang terjadi di waktu tertentu di masa lalu. (+) S+was/were+V-ing | I/He/She/It=was | You/We/They=were | (-) tambah not | (?) Was/Were di depan'),
+
+      w('Past Perfect', 'Past Perfect', 'pest per-fect', 'Sudah Selesai Sebelum Masa Lalu', '📖', 'menengah', 
+'I had finished before you came.', 
+'Saya sudah selesai sebelum kamu datang.', 
+'Selesai DULU sebelum kejadian lain di masa lalu. (+) S+had+V3 | Semua pakai had | (-) had+not+V3 | (?) Had+S+V3?'),
+
+      w('Past Perfect Continuous', 'Past Perfect Continuous', 'pest per-fect kon-ti-nyu-es', 'Sudah & Masih Sebelum Masa Lalu', '📖', 'menengah', 
+'I had been studying for 1 hour before you came.', 
+'Saya sudah belajar 1 jam sebelum kamu datang.', 
+'Sudah berlangsung sebelum kejadian lain di masa lalu. (+) S+had+been+V-ing | Semua pakai had | (-) tambah not | (?) Had di depan'),
+
+      w('Future Continuous', 'Future Continuous', 'fyu-cer kon-ti-nyu-es', 'Akan Sedang Berlangsung', '📖', 'menengah', 
+'I will be studying at 8 tomorrow.', 
+'Saya akan sedang belajar jam 8 besok.', 
+'Akan sedang terjadi di waktu tertentu nanti. (+) S+will+be+V-ing | Semua pakai will | (-) will+not+be+V-ing | (?) Will di depan'),
+
+      w('Future Perfect', 'Future Perfect', 'fyu-cer per-fect', 'Akan Sudah Selesai', '📖', 'menengah', 
+'I will have finished by tomorrow.', 
+'Saya akan sudah selesai pada besok.', 
+'Akan sudah selesai di waktu mendatang. (+) S+will+have+V3 | Semua pakai will have | (-) will+not+have+V3 | (?) Will di depan'),
+
+      w('Future Perfect Continuous', 'Future Perfect Continuous', 'fyu-cer per-fect kon-ti-nyu-es', 'Akan Sudah & Masih Berlangsung', '📖', 'tingkat-lanjut', 
+'I will have been studying for 3 hours by 8.', 
+'Saya akan sudah belajar selama 3 jam pada jam 8 nanti.', 
+'Akan sudah berlangsung sampai waktu tertentu nanti. (+) S+will+have+been+V-ing | (-) tambah not | (?) Will di depan'),
 ]
  },       
 
