@@ -925,12 +925,20 @@ export const EN_CATEGORIES: EnCategory[] = [
       w('shop', 'shop', 'syop', 'toko', '🏬', 'mahir', 'I buy toys at the shop.', 'Aku membeli mainan di toko.', 'Toko menjual berbagai barang.'),
       w('airport', 'airport', 'er-port', 'bandara', '🛫', 'mahir', 'Planes fly from the airport.', 'Pesawat terbang dari bandara.', 'Bandara tempat pesawat lepas landas dan mendarat.'),
       w('restaurant', 'restaurant', 'res-to-ran', 'restoran', '🍽️', 'mahir', 'We eat at the restaurant.', 'Kita makan di restoran.', 'Restoran tempat membeli makanan siap saji.'),
-        // === KATEGORI: TENSES ===
+   ],
+  },
+    {
+    id: 'tenses',
+    title: 'Tenses',
+    emoji: '📖',
+    color: '#FFF8E1',
+    color2: '#FFECB3',
+    words: [
       w('Simple Present', 'Simple Present', 'sim-pel pre-sent', 'Bentuk Sekarang Sederhana', '📖', 'menengah', 'I study English every day.', 'Saya belajar bahasa Inggris setiap hari.', 'Fakta / kebiasaan rutin'),
       w('Simple Past', 'Simple Past', 'sim-pel pest', 'Bentuk Lampau Sederhana', '📖', 'menengah', 'I studied English yesterday.', 'Saya belajar bahasa Inggris kemarin.', 'Kejadian sudah selesai di masa lalu'),
-      w('Simple Future', 'Simple Future', 'sim-pel fyu-cer', 'Bentuk Masa Depan Sederhana', '📖', 'menengah', 'I will study English tomorrow.', 'Saya akan belajar bahasa Inggris besok.', 'Kejadian yang akan terjadi nanti'),
+      w('Simple Future', 'Simple Future', 'sim-pel fyu-cer', 'Bentuk Masa Depan Sederhana', '📖', 'menengah', 'I will study English tomorrow.', 'Saya akan belajar bahasa Inggris besok.', 'Akan terjadi nanti'),
       w('Present Continuous', 'Present Continuous', 'pre-sent kon-ti-nyu-es', 'Bentuk Sedang Berlangsung', '📖', 'menengah', 'I am studying English now.', 'Saya sedang belajar bahasa Inggris sekarang.', 'Sedang terjadi saat ini'),
-    ],
+    ]
   },
 ]
 
