@@ -995,6 +995,64 @@ export const EN_CATEGORIES: EnCategory[] = [
 'Akan sudah berlangsung sampai waktu tertentu di masa depan. Semua pakai will have been. (+) S+will+have+been+V-ing | (-) tambah not | (?) Will pindah ke depan'),  
     ]
   },
+    {
+    id: 'kata-kerja',
+    title: 'Kata Kerja Tidak Beraturan',
+    emoji: '🔤',
+    color: '#E3F2FD',
+    color2: '#BBDEFB',
+    words: [
+      w('be', 'was/were', 'been', 'adalah / berada', '🔤', 'pemula', 
+'I am here. | She was here. | They were here. | I have been here.', 
+'Saya di sini. | Dia di sini tadi. | Mereka di sini tadi. | Saya sudah di sini.', 
+'⚠️ KHUSUS: V2 berubah ikut subjek → I/He/She/It=was ✅ | You/We/They=were ✅'),
+
+      w('go', 'went', 'gone', 'pergi', '🔤', 'pemula', 
+'I go. | She goes. | I went. | She went. | I have gone. | She has gone.', 
+'Saya pergi. | Dia pergi. | Saya pergi tadi. | Dia pergi tadi. | Saya sudah pergi. | Dia sudah pergi.', 
+'V1: I/You/We/They=go ✅ | He/She/It=goes +s ⚡ | V2 & V3: SEMUA sama, tidak berubah ✅'),
+
+      w('come', 'came', 'come', 'datang', '🔤', 'pemula', 
+'I come. | He comes. | I came. | He came. | I have come. | She has come.', 
+'Saya datang. | Dia datang. | Saya datang tadi. | Dia datang tadi. | Saya sudah datang. | Dia sudah datang.', 
+'V1: I/You/We/They=come ✅ | He/She/It=comes +s ⚡ | V2 & V3: SEMUA sama ✅'),
+
+      w('see', 'saw', 'seen', 'melihat', '🔤', 'pemula', 
+'I see. | She sees. | I saw. | She saw. | I have seen. | He has seen.', 
+'Saya lihat. | Dia lihat. | Saya lihat tadi. | Dia lihat tadi. | Saya sudah lihat. | Dia sudah lihat.', 
+'V1: I/You/We/They=see ✅ | He/She/It=sees +s ⚡ | V2 & V3: SEMUA sama ✅'),
+
+      w('eat', 'ate', 'eaten', 'makan', '🔤', 'pemula', 
+'I eat. | He eats. | I ate. | She ate. | I have eaten. | It has eaten.', 
+'Saya makan. | Dia makan. | Saya makan tadi. | Dia makan tadi. | Saya sudah makan. | Itu sudah makan.', 
+'V1: I/You/We/They=eat ✅ | He/She/It=eats +s ⚡ | V2 & V3: SEMUA sama ✅'),
+
+      w('drink', 'drank', 'drunk', 'minum', '🔤', 'pemula', 
+'I drink. | She drinks. | I drank. | He drank. | I have drunk. | She has drunk.', 
+'Saya minum. | Dia minum. | Saya minum tadi. | Dia minum tadi. | Saya sudah minum. | Dia sudah minum.', 
+'V1: I/You/We/They=drink ✅ | He/She/It=drinks +s ⚡ | V2 & V3: SEMUA sama ✅'),
+
+      w('speak', 'spoke', 'spoken', 'berbicara', '🔤', 'pemula', 
+'I speak. | He speaks. | I spoke. | She spoke. | I have spoken. | He has spoken.', 
+'Saya bicara. | Dia bicara. | Saya bicara tadi. | Dia bicara tadi. | Saya sudah bicara. | Dia sudah bicara.', 
+'V1: I/You/We/They=speak ✅ | He/She/It=speaks +s ⚡ | V2 & V3: SEMUA sama ✅'),
+
+      w('write', 'wrote', 'written', 'menulis', '🔤', 'pemula', 
+'I write. | She writes. | I wrote. | He wrote. | I have written. | She has written.', 
+'Saya tulis. | Dia tulis. | Saya tulis tadi. | Dia tulis tadi. | Saya sudah tulis. | Dia sudah tulis.', 
+'V1: I/You/We/They=write ✅ | He/She/It=writes +s ⚡ | V2 & V3: SEMUA sama ✅'),
+
+      w('read', 'read', 'read', 'membaca', '🔤', 'pemula', 
+'I read. | He reads. | I read. | She read. | I have read. | It has read.', 
+'Saya baca. | Dia baca. | Saya baca tadi. | Dia baca tadi. | Saya sudah baca. | Itu sudah baca.', 
+'V1: bacanya "riid" | V2 & V3: tulisan sama, bacanya "red" | Aturan s tetap berlaku di V1 ⚡'),
+
+      w('do', 'did', 'done', 'melakukan', '🔤', 'pemula', 
+'I do. | She does. | I did. | He did. | I have done. | She has done.', 
+'Saya lakukan. | Dia lakukan. | Saya lakukan tadi. | Dia lakukan tadi. | Saya sudah lakukan. | Dia sudah lakukan.', 
+'V1: I/You/We/They=do ✅ | He/She/It=does ⚡ | V2 & V3: SEMUA sama ✅'),
+    ]
+  },
 ]
 
 
