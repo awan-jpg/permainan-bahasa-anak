@@ -1005,7 +1005,7 @@ export const EN_CATEGORIES: EnCategory[] = [
       w('be', 'was/were', 'been', 'adalah / berada', '🔤', 'pemula', 
 'I am here. | She was here. | They were here. | I have been here.', 
 'Saya di sini. | Dia di sini tadi. | Mereka di sini tadi. | Saya sudah di sini.', 
-'⚠️ KHUSUS: V2 berubah ikut subjek → I/He/She/It=was ✅ | You/We/They=were ✅'),
+'⚠️ KHUSUS: V2 berubah mengikuti subjek → I/He/She/It=was ✅ | You/We/They=were ✅'),
 
       w('go', 'went', 'gone', 'pergi', '🔤', 'pemula', 
 'I go. | She goes. | I went. | She went. | I have gone. | She has gone.', 
