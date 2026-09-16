@@ -1804,7 +1804,257 @@ w('set', 'set', 'set', 'menetapkan/meletakkan', '🔤', 'pemula',
 w('sew', 'sewed', 'sewn', 'menjahit', '🔤', 'pemula',
 'I sew cloth. | She sews cloth.',
 'Saya menjahit kain. | Dia menjahit kain.',
-'✅ V1 = sew → sekarang | ✅ V2 = sewed → sudah lewat | ✅ V3 = sewn → sudah selesai. Aturan: V1: I/You/We/They=sew ✅ | He/She/It=sews +s ⚡ | V2 & V3: SEMUA SAMA ✅'),      
+'✅ V1 = sew → sekarang | ✅ V2 = sewed → sudah lewat | ✅ V3 = sewn → sudah selesai. Aturan: V1: I/You/We/They=sew ✅ | He/She/It=sews +s ⚡ | V2 & V3: SEMUA SAMA ✅'), 
+
+   w('shake', 'shook', 'shaken', 'menggoyang', '🔤', 'pemula',
+'I shake hands. | She shakes hands.',
+'Saya bersalaman. | Dia bersalaman.',
+'✅ V1 = shake → sekarang | ✅ V2 = shook → sudah lewat | ✅ V3 = shaken → sudah selesai. Aturan: V1: I/You/We/They=shake ✅ | He/She/It=shakes +s ⚡ | V2 & V3: SEMUA SAMA ✅'),
+
+w('shine', 'shone', 'shone', 'bersinar', '🔤', 'pemula',
+'Sun shines. | It shines bright.',
+'Matahari bersinar. | Itu bersinar terang.',
+'✅ V1 = shine → sekarang | ✅ V2 = shone → sudah lewat | ✅ V3 = shone → sudah selesai. Aturan: V1: I/You/We/They=shine ✅ | He/She/It=shines +s ⚡ | V2 & V3: SEMUA SAMA ✅'),
+
+w('shoot', 'shot', 'shot', 'menembak', '🔤', 'pemula',
+'I shoot straight. | He shoots straight.',
+'Saya menembak lurus. | Dia menembak lurus.',
+'✅ V1 = shoot → sekarang | ✅ V2 = shot → sudah lewat | ✅ V3 = shot → sudah selesai. Aturan: V1: I/You/We/They=shoot ✅ | He/She/It=shoots +s ⚡ | V2 & V3: SEMUA SAMA ✅'),
+
+w('show', 'showed', 'shown', 'menunjukkan', '🔤', 'pemula',
+'I show kindness. | She shows kindness.',
+'Saya berbuat baik. | Dia berbuat baik.',
+'✅ V1 = show → sekarang | ✅ V2 = showed → sudah lewat | ✅ V3 = shown → sudah selesai. Aturan: V1: I/You/We/They=show ✅ | He/She/It=shows +s ⚡ | V2 & V3: SEMUA SAMA ✅'),
+
+w('shrink', 'shrank', 'shrunk', 'menyusut', '🔤', 'pemula',
+'Cloth shrinks. | It shrinks fast.',
+'Kain menyusut. | Itu menyusut cepat.',
+'✅ V1 = shrink → sekarang | ✅ V2 = shrank → sudah lewat | ✅ V3 = shrunk → sudah selesai. Aturan: V1: I/You/We/They=shrink ✅ | He/She/It=shrinks +s ⚡ | V2 & V3: SEMUA SAMA ✅'),
+
+w('shut', 'shut', 'shut', 'menutup', '🔤', 'pemula',
+'I shut door. | She shuts door.',
+'Saya menutup pintu. | Dia menutup pintu.',
+'✅ V1 = shut → sekarang | ✅ V2 = shut → sudah lewat | ✅ V3 = shut → sudah selesai. Aturan: V1: I/You/We/They=shut ✅ | He/She/It=shuts +s ⚡ | V2 & V3: SEMUA SAMA ✅'),
+
+w('sing', 'sang', 'sung', 'menyanyi', '🔤', 'pemula',
+'I sing well. | She sings well.',
+'Saya menyanyi dengan baik. | Dia menyanyi dengan baik.',
+'✅ V1 = sing → sekarang | ✅ V2 = sang → sudah lewat | ✅ V3 = sung → sudah selesai. Aturan: V1: I/You/We/They=sing ✅ | He/She/It=sings +s ⚡ | V2 & V3: SEMUA SAMA ✅'),
+
+w('sink', 'sank', 'sunk', 'tenggelam', '🔤', 'pemula',
+'Ship sinks. | It sinks slow.',
+'Kapal tenggelam. | Itu tenggelam perlahan.',
+'✅ V1 = sink → sekarang | ✅ V2 = sank → sudah lewat | ✅ V3 = sunk → sudah selesai. Aturan: V1: I/You/We/They=sink ✅ | He/She/It=sinks +s ⚡ | V2 & V3: SEMUA SAMA ✅'),
+
+w('sit', 'sat', 'sat', 'duduk', '🔤', 'pemula',
+'I sit down. | She sits down.',
+'Saya duduk. | Dia duduk.',
+'✅ V1 = sit → sekarang | ✅ V2 = sat → sudah lewat | ✅ V3 = sat → sudah selesai. Aturan: V1: I/You/We/They=sit ✅ | He/She/It=sits +s ⚡ | V2 & V3: SEMUA SAMA ✅'),
+
+w('sleep', 'slept', 'slept', 'tidur', '🔤', 'pemula',
+'I sleep early. | She sleeps early.',
+'Saya tidur pagi. | Dia tidur pagi.',
+'✅ V1 = sleep → sekarang | ✅ V2 = slept → sudah lewat | ✅ V3 = slept → sudah selesai. Aturan: V1: I/You/We/They=sleep ✅ | He/She/It=sleeps +s ⚡ | V2 & V3: SEMUA SAMA ✅'),
+
+w('slide', 'slid', 'slid', 'meluncur', '🔤', 'pemula',
+'I slide down. | He slides down.',
+'Saya meluncur turun. | Dia meluncur turun.',
+'✅ V1 = slide → sekarang | ✅ V2 = slid → sudah lewat | ✅ V3 = slid → sudah selesai. Aturan: V1: I/You/We/They=slide ✅ | He/She/It=slides +s ⚡ | V2 & V3: SEMUA SAMA ✅'),
+
+w('smell', 'smelt', 'smelt', 'mencium bau', '🔤', 'pemula',
+'I smell flower. | She smells flower.',
+'Saya mencium bunga. | Dia mencium bunga.',
+'✅ V1 = smell → sekarang | ✅ V2 = smelt → sudah lewat | ✅ V3 = smelt → sudah selesai. Aturan: V1: I/You/We/They=smell ✅ | He/She/It=smells +s ⚡ | V2 & V3: SEMUA SAMA ✅'),
+
+w('smile', 'smiled', 'smiled', 'tersenyum', '🔤', 'pemula',
+'I smile always. | She smiles always.',
+'Saya selalu tersenyum. | Dia selalu tersenyum.',
+'✅ V1 = smile → sekarang | ✅ V2 = smiled → sudah lewat | ✅ V3 = smiled → sudah selesai. Aturan: V1: I/You/We/They=smile ✅ | He/She/It=smiles +s ⚡ | V2 & V3: SEMUA SAMA ✅'),
+
+w('sneak', 'sneaked', 'snuck', 'menyelinap', '🔤', 'pemula',
+'I sneak quietly. | He sneaks quietly.',
+'Saya menyelinap pelan. | Dia menyelinap pelan.',
+'✅ V1 = sneak → sekarang | ✅ V2 = sneaked → sudah lewat | ✅ V3 = snuck → sudah selesai. Aturan: V1: I/You/We/They=sneak ✅ | He/She/It=sneaks +s ⚡ | V2 & V3: SEMUA SAMA ✅'),
+
+w('speak', 'spoke', 'spoken', 'berbicara', '🔤', 'pemula',
+'I speak truth. | She speaks truth.',
+'Saya berkata benar. | Dia berkata benar.',
+'✅ V1 = speak → sekarang | ✅ V2 = spoke → sudah lewat | ✅ V3 = spoken → sudah selesai. Aturan: V1: I/You/We/They=speak ✅ | He/She/It=speaks +s ⚡ | V2 & V3: SEMUA SAMA ✅'),
+
+w('speed', 'sped', 'sped', 'mempercepat', '🔤', 'pemula',
+'I speed up. | It speeds up.',
+'Saya mempercepat. | Itu mempercepat.',
+'✅ V1 = speed → sekarang | ✅ V2 = sped → sudah lewat | ✅ V3 = sped → sudah selesai. Aturan: V1: I/You/We/They=speed ✅ | He/She/It=speeds +s ⚡ | V2 & V3: SEMUA SAMA ✅'),
+
+w('spell', 'spelt', 'spelt', 'mengeja', '🔤', 'pemula',
+'I spell well. | She spells well.',
+'Saya mengeja dengan baik. | Dia mengeja dengan baik.',
+'✅ V1 = spell → sekarang | ✅ V2 = spelt → sudah lewat | ✅ V3 = spelt → sudah selesai. Aturan: V1: I/You/We/They=spell ✅ | He/She/It=spells +s ⚡ | V2 & V3: SEMUA SAMA ✅'),
+
+w('spend', 'spent', 'spent', 'menghabiskan', '🔤', 'pemula',
+'I spend time. | He spends time.',
+'Saya meluangkan waktu. | Dia meluangkan waktu.',
+'✅ V1 = spend → sekarang | ✅ V2 = spent → sudah lewat | ✅ V3 = spent → sudah selesai. Aturan: V1: I/You/We/They=spend ✅ | He/She/It=spends +s ⚡ | V2 & V3: SEMUA SAMA ✅'),
+
+w('spill', 'spilt', 'spilt', 'tumpah', '🔤', 'pemula',
+'I spill nothing. | She spills nothing.',
+'Saya tidak menumpahkan apa-apa. | Dia tidak menumpahkan apa-apa.',
+'✅ V1 = spill → sekarang | ✅ V2 = spilt → sudah lewat | ✅ V3 = spilt → sudah selesai. Aturan: V1: I/You/We/They=spill ✅ | He/She/It=spills +s ⚡ | V2 & V3: SEMUA SAMA ✅'),
+
+w('spin', 'spun', 'spun', 'berputar', '🔤', 'pemula',
+'I spin around. | It spins around.',
+'Saya berputar. | Itu berputar.',
+'✅ V1 = spin → sekarang | ✅ V2 = spun → sudah lewat | ✅ V3 = spun → sudah selesai. Aturan: V1: I/You/We/They=spin ✅ | He/She/It=spins +s ⚡ | V2 & V3: SEMUA SAMA ✅'),
+
+w('spit', 'spat', 'spat', 'meludah', '🔤', 'pemula',
+'I never spit. | She never spits.',
+'Saya tidak meludah. | Dia tidak meludah.',
+'✅ V1 = spit → sekarang | ✅ V2 = spat → sudah lewat | ✅ V3 = spat → sudah selesai. Aturan: V1: I/You/We/They=spit ✅ | He/She/It=spits +s ⚡ | V2 & V3: SEMUA SAMA ✅'),
+
+w('split', 'split', 'split', 'membelah', '🔤', 'pemula',
+'I split wood. | He splits wood.',
+'Saya membelah kayu. | Dia membelah kayu.',
+'✅ V1 = split → sekarang | ✅ V2 = split → sudah lewat | ✅ V3 = split → sudah selesai. Aturan: V1: I/You/We/They=split ✅ | He/She/It=splits +s ⚡ | V2 & V3: SEMUA SAMA ✅'),
+
+w('spread', 'spread', 'spread', 'menyebar', '🔤', 'pemula',
+'News spreads. | It spreads fast.',
+'Berita menyebar. | Itu menyebar cepat.',
+'✅ V1 = spread → sekarang | ✅ V2 = spread → sudah lewat | ✅ V3 = spread → sudah selesai. Aturan: V1: I/You/We/They=spread ✅ | He/She/It=spreads +s ⚡ | V2 & V3: SEMUA SAMA ✅'),
+
+w('spring', 'sprang', 'sprung', 'melompat/muncul', '🔤', 'pemula',
+'I spring up. | It springs up.',
+'Saya muncul tiba-tiba. | Itu muncul tiba-tiba.',
+'✅ V1 = spring → sekarang | ✅ V2 = sprang → sudah lewat | ✅ V3 = sprung → sudah selesai. Aturan: V1: I/You/We/They=spring ✅ | He/She/It=springs +s ⚡ | V2 & V3: SEMUA SAMA ✅'),
+
+w('stand', 'stood', 'stood', 'berdiri', '🔤', 'menengah',
+'I stand firm. | She stands firm.',
+'Saya berdiri tegak. | Dia berdiri tegak.',
+'✅ V1 = stand → sekarang | ✅ V2 = stood → sudah lewat | ✅ V3 = stood → sudah selesai. Aturan: V1: I/You/We/They=stand ✅ | He/She/It=stands +s ⚡ | V2 & V3: SEMUA SAMA ✅'),
+
+w('start', 'started', 'started', 'memulai', '🔤', 'menengah',
+'I start early. | He starts early.',
+'Saya memulai pagi. | Dia memulai pagi.',
+'✅ V1 = start → sekarang | ✅ V2 = started → sudah lewat | ✅ V3 = started → sudah selesai. Aturan: V1: I/You/We/They=start ✅ | He/She/It=starts +s ⚡ | V2 & V3: SEMUA SAMA ✅'),
+
+w('stay', 'stayed', 'stayed', 'tinggal/menetap', '🔤', 'menengah',
+'I stay here. | She stays here.',
+'Saya tinggal di sini. | Dia tinggal di sini.',
+'✅ V1 = stay → sekarang | ✅ V2 = stayed → sudah lewat | ✅ V3 = stayed → sudah selesai. Aturan: V1: I/You/We/They=stay ✅ | He/She/It=stays +s ⚡ | V2 & V3: SEMUA SAMA ✅'),
+
+w('steal', 'stole', 'stolen', 'mencuri', '🔤', 'menengah',
+'I steal nothing. | He steals nothing.',
+'Saya tidak mencuri apa-apa. | Dia tidak mencuri apa-apa.',
+'✅ V1 = steal → sekarang | ✅ V2 = stole → sudah lewat | ✅ V3 = stolen → sudah selesai. Aturan: V1: I/You/We/They=steal ✅ | He/She/It=steals +s ⚡ | V2 & V3: SEMUA SAMA ✅'),
+
+w('step', 'stepped', 'stepped', 'melangkah', '🔤', 'menengah',
+'I step forward. | She steps forward.',
+'Saya melangkah ke depan. | Dia melangkah ke depan.',
+'✅ V1 = step → sekarang | ✅ V2 = stepped → sudah lewat | ✅ V3 = stepped → sudah selesai. Aturan: V1: I/You/We/They=step ✅ | He/She/It=steps +s ⚡ | V2 & V3: SEMUA SAMA ✅'),
+
+w('stick', 'stuck', 'stuck', 'menempel', '🔤', 'menengah',
+'I stick to plan. | She sticks to plan.',
+'Saya berpegang rencana. | Dia berpegang rencana.',
+'✅ V1 = stick → sekarang | ✅ V2 = stuck → sudah lewat | ✅ V3 = stuck → sudah selesai. Aturan: V1: I/You/We/They=stick ✅ | He/She/It=sticks +s ⚡ | V2 & V3: SEMUA SAMA ✅'),
+
+w('still', 'stilled', 'stilled', 'menjadi tenang', '🔤', 'menengah',
+'I still mind. | It stills mind.',
+'Saya menenangkan hati. | Itu menenangkan hati.',
+'✅ V1 = still → sekarang | ✅ V2 = stilled → sudah lewat | ✅ V3 = stilled → sudah selesai. Aturan: V1: I/You/We/They=still ✅ | He/She/It=stills +s ⚡ | V2 & V3: SEMUA SAMA ✅'),
+
+w('sting', 'stung', 'stung', 'menyengat', '🔤', 'menengah',
+'Bee stings. | It stings sharp.',
+'Lebah menyengat. | Itu menyengat tajam.',
+'✅ V1 = sting → sekarang | ✅ V2 = stung → sudah lewat | ✅ V3 = stung → sudah selesai. Aturan: V1: I/You/We/They=sting ✅ | He/She/It=stings +s ⚡ | V2 & V3: SEMUA SAMA ✅'),
+
+w('strike', 'struck', 'struck', 'memukul/memogok', '🔤', 'menengah',
+'I strike bell. | It strikes bell.',
+'Saya membunyikan lonceng. | Itu membunyikan lonceng.',
+'✅ V1 = strike → sekarang | ✅ V2 = struck → sudah lewat | ✅ V3 = struck → sudah selesai. Aturan: V1: I/You/We/They=strike ✅ | He/She/It=strikes +s ⚡ | V2 & V3: SEMUA SAMA ✅'),
+
+w('string', 'strung', 'strung', 'merangkai', '🔤', 'menengah',
+'I string beads. | She strings beads.',
+'Saya merangkai manik. | Dia merangkai manik.',
+'✅ V1 = string → sekarang | ✅ V2 = strung → sudah lewat | ✅ V3 = strung → sudah selesai. Aturan: V1: I/You/We/They=string ✅ | He/She/It=strings +s ⚡ | V2 & V3: SEMUA SAMA ✅'),
+
+w('strive', 'strove', 'striven', 'berusaha keras', '🔤', 'menengah',
+'I strive for best. | He strives for best.',
+'Saya berusaha sebaik mungkin. | Dia berusaha sebaik mungkin.',
+'✅ V1 = strive → sekarang | ✅ V2 = strove → sudah lewat | ✅ V3 = striven → sudah selesai. Aturan: V1: I/You/We/They=strive ✅ | He/She/It=strives +s ⚡ | V2 & V3: SEMUA SAMA ✅'),
+
+w('swear', 'swore', 'sworn', 'bersumpah', '🔤', 'menengah',
+'I swear truth. | She swears truth.',
+'Saya bersumpah jujur. | Dia bersumpah jujur.',
+'✅ V1 = swear → sekarang | ✅ V2 = swore → sudah lewat | ✅ V3 = sworn → sudah selesai. Aturan: V1: I/You/We/They=swear ✅ | He/She/It=swears +s ⚡ | V2 & V3: SEMUA SAMA ✅'),
+
+w('sweep', 'swept', 'swept', 'menyapu', '🔤', 'menengah',
+'I sweep floor. | He sweeps floor.',
+'Saya menyapu lantai. | Dia menyapu lantai.',
+'✅ V1 = sweep → sekarang | ✅ V2 = swept → sudah lewat | ✅ V3 = swept → sudah selesai. Aturan: V1: I/You/We/They=sweep ✅ | He/She/It=sweeps +s ⚡ | V2 & V3: SEMUA SAMA ✅'),
+
+w('swim', 'swam', 'swum', 'berenang', '🔤', 'menengah',
+'I swim well. | She swims well.',
+'Saya berenang dengan baik. | Dia berenang dengan baik.',
+'✅ V1 = swim → sekarang | ✅ V2 = swam → sudah lewat | ✅ V3 = swum → sudah selesai. Aturan: V1: I/You/We/They=swim ✅ | He/She/It=swims +s ⚡ | V2 & V3: SEMUA SAMA ✅'),
+
+w('swing', 'swung', 'swung', 'berayun', '🔤', 'menengah',
+'I swing high. | It swings high.',
+'Saya berayun tinggi. | Itu berayun tinggi.',
+'✅ V1 = swing → sekarang | ✅ V2 = swung → sudah lewat | ✅ V3 = swung → sudah selesai. Aturan: V1: I/You/We/They=swing ✅ | He/She/It=swings +s ⚡ | V2 & V3: SEMUA SAMA ✅'),
+
+w('take', 'took', 'taken', 'mengambil', '🔤', 'menengah',
+'I take chance. | She takes chance.',
+'Saya mengambil kesempatan. | Dia mengambil kesempatan.',
+'✅ V1 = take → sekarang | ✅ V2 = took → sudah lewat | ✅ V3 = taken → sudah selesai. Aturan: V1: I/You/We/They=take ✅ | He/She/It=takes +s ⚡ | V2 & V3: SEMUA SAMA ✅'),
+
+w('teach', 'taught', 'taught', 'mengajar', '🔤', 'mahir',
+'I teach kindly. | She teaches kindly.',
+'Saya mengajar dengan lembut. | Dia mengajar dengan lembut.',
+'✅ V1 = teach → sekarang | ✅ V2 = taught → sudah lewat | ✅ V3 = taught → sudah selesai. Aturan: V1: I/You/We/They=teach ✅ | He/She/It=teaches +s ⚡ | V2 & V3: SEMUA SAMA ✅'),
+
+w('tear', 'tore', 'torn', 'merobek', '🔤', 'mahir',
+'I tear paper. | She tears paper.',
+'Saya merobek kertas. | Dia merobek kertas.',
+'✅ V1 = tear → sekarang | ✅ V2 = tore → sudah lewat | ✅ V3 = torn → sudah selesai. Aturan: V1: I/You/We/They=tear ✅ | He/She/It=tears +s ⚡ | V2 & V3: SEMUA SAMA ✅'),
+
+w('tell', 'told', 'told', 'memberitahu', '🔤', 'mahir',
+'I tell truth. | She tells truth.',
+'Saya berkata jujur. | Dia berkata jujur.',
+'✅ V1 = tell → sekarang | ✅ V2 = told → sudah lewat | ✅ V3 = told → sudah selesai. Aturan: V1: I/You/We/They=tell ✅ | He/She/It=tells +s ⚡ | V2 & V3: SEMUA SAMA ✅'),
+
+w('think', 'thought', 'thought', 'berpikir', '🔤', 'mahir',
+'I think deeply. | He thinks deeply.',
+'Saya berpikir mendalam. | Dia berpikir mendalam.',
+'✅ V1 = think → sekarang | ✅ V2 = thought → sudah lewat | ✅ V3 = thought → sudah selesai. Aturan: V1: I/You/We/They=think ✅ | He/She/It=thinks +s ⚡ | V2 & V3: SEMUA SAMA ✅'),
+
+w('throw', 'threw', 'thrown', 'melempar', '🔤', 'mahir',
+'I throw far. | She throws far.',
+'Saya melempar jauh. | Dia melempar jauh.',
+'✅ V1 = throw → sekarang | ✅ V2 = threw → sudah lewat | ✅ V3 = thrown → sudah selesai. Aturan: V1: I/You/We/They=throw ✅ | He/She/It=throws +s ⚡ | V2 & V3: SEMUA SAMA ✅'),
+
+w('understand', 'understood', 'understood', 'mengerti', '🔤', 'mahir',
+'I understand well. | She understands well.',
+'Saya mengerti dengan baik. | Dia mengerti dengan baik.',
+'✅ V1 = understand → sekarang | ✅ V2 = understood → sudah lewat | ✅ V3 = understood → sudah selesai. Aturan: V1: I/You/We/They=understand ✅ | He/She/It=understands +s ⚡ | V2 & V3: SEMUA SAMA ✅'),
+
+w('wake', 'woke', 'woken', 'bangun/terjaga', '🔤', 'mahir',
+'I wake early. | She wakes early.',
+'Saya bangun pagi. | Dia bangun pagi.',
+'✅ V1 = wake → sekarang | ✅ V2 = woke → sudah lewat | ✅ V3 = woken → sudah selesai. Aturan: V1: I/You/We/They=wake ✅ | He/She/It=wakes +s ⚡ | V2 & V3: SEMUA SAMA ✅'),
+
+w('wear', 'wore', 'worn', 'memakai', '🔤', 'mahir',
+'I wear neat. | She wears neat.',
+'Saya berpakaian rapi. | Dia berpakaian rapi.',
+'✅ V1 = wear → sekarang | ✅ V2 = wore → sudah lewat | ✅ V3 = worn → sudah selesai. Aturan: V1: I/You/We/They=wear ✅ | He/She/It=wears +s ⚡ | V2 & V3: SEMUA SAMA ✅'),
+
+w('win', 'won', 'won', 'menang', '🔤', 'mahir',
+'I win fairly. | She wins fairly.',
+'Saya menang dengan adil. | Dia menang dengan adil.',
+'✅ V1 = win → sekarang | ✅ V2 = won → sudah lewat | ✅ V3 = won → sudah selesai. Aturan: V1: I/You/We/They=win ✅ | He/She/It=wins +s ⚡ | V2 & V3: SEMUA SAMA ✅'),
+
+w('write', 'wrote', 'written', 'menulis', '🔤', 'mahir',
+'I write daily. | She writes daily.',
+'Saya menulis tiap hari. | Dia menulis tiap hari.',
+'✅ V1 = write → sekarang | ✅ V2 = wrote → sudah lewat | ✅ V3 = written → sudah selesai. Aturan: V1: I/You/We/They=write ✅ | He/She/It=writes +s ⚡ | V2 & V3: SEMUA SAMA ✅'),     
     ]
   },
 ]
