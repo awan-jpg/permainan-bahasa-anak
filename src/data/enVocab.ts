@@ -933,15 +933,6 @@ w('Simple Present', 'Simple Present', 'sim-pel pre-sent', 'Bentuk Sekarang Seder
 'Saya sedang belajar bahasa Inggris sekarang.', 
 'Sedang terjadi saat ini. RUMUS: (+) S+am/is/are+V-ing | I=am, He=is, They=are | (-) tambah not | (?) Am/Is/Are di depan'),
 
-      w('Present Perfect', 'Present Perfect', 'pre-sent per-fect', 'Sudah Terjadi', '📖', 'menengah', 
-'I have finished my work.', 
-'Saya sudah menyelesaikan pekerjaan saya.', 
-'Sudah selesai, hasilnya terasa sekarang. RUMUS: (+) S+have/has+V3 | I/You=have, He/She=has | (-) tambah not | (?) Have/Has di depan'),
-
-      w('Present Perfect Continuous', 'Present Perfect Continuous', 'pre-sent per-fect kon-ti-nyu-es', 'Sudah & Masih Berlangsung', '📖', 'menengah', 
-'I have been studying for 2 hours.', 
-'Saya sudah belajar selama 2 jam (dan masih lanjut).', 
-'Sudah mulai, belum selesai, masih jalan. RUMUS: (+) S+have/has+been+V-ing | (-) tambah not | (?) Have/Has di depan'),
     ]
   },
 ]
