@@ -942,6 +942,9 @@ export const EN_CATEGORIES: EnCategory[] = [
       w('Present Perfect Continuous', 'Present Perfect Continuous', 'pre-sent per-fect kon-ti-nyu-es', 'Sudah & Masih Berlangsung', '📖', 'menengah', 'I have been studying 2 jam.', 'Sudah belajar 2 jam & masih lanjut.', 'Sudah mulai, belum selesai. (+) S+have/has+been+V-ing'),
       w('Past Continuous', 'Past Continuous', 'pest kon-ti-nyu-es', 'Sedang Lampau', '📖', 'menengah', 'I was studying tadi malam.', 'Saya sedang belajar tadi malam.', 'Sedang terjadi di masa lalu. (+) S+was/were+V-ing'),
       w('Past Perfect', 'Past Perfect', 'pest per-fect', 'Sudah Sebelum Lampau', '📖', 'menengah', 'I had finished before you came.', 'Sudah selesai lebih dulu.', 'Selesai sebelum kejadian lain. (+) S+had+V3'),
+      w('Past Perfect Continuous', 'Past Perfect Continuous', 'pest per-fect kon-ti-nyu-es', 'Sudah & Masih Lampau', '📖', 'menengah', 'I had been studying 1 jam before you came.', 'Sudah belajar 1 jam sebelum kamu datang.', 'Sudah berlangsung sebelum kejadian lain. (+) S+had+been+V-ing'),
+      w('Future Continuous', 'Future Continuous', 'fyu-cer kon-ti-nyu-es', 'Akan Sedang Berlangsung', '📖', 'menengah', 'I will be studying at 8.', 'Saya akan sedang belajar jam 8.', 'Akan sedang terjadi nanti. (+) S+will+be+V-ing'),
+      w('Future Perfect', 'Future Perfect', 'fyu-cer per-fect', 'Akan Sudah Selesai', '📖', 'tingkat-lanjut', 'I will have finished by tomorrow.', 'Saya akan sudah selesai besok.', 'Akan sudah selesai nanti. (+) S+will+have+V3'),  
     ]
   },
 ]
