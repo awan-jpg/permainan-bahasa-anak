@@ -934,11 +934,7 @@ export const EN_CATEGORIES: EnCategory[] = [
     color: '#FFF8E1',
     color2: '#FFECB3',
     words: [
-      w('Simple Present', 'Simple Present', 'sim-pel pre-sent', 'Bentuk Sekarang', '📖', 'pemula', 
-'I study every day.', 
-'Saya belajar setiap hari.', 
-'Aturan PENTING: ✅ I/You/We/They → kata kerja TANPA s | ⚡ He/She/It → kata kerja WAJIB +s. Contoh: I study ✅ / He studies ✅. Digunakan untuk kebiasaan & fakta. (+) S+V1 | (-) do/does+not+V1 | (?) Do/Does+S+V1?'),
-[16.02, 16/9/2026] Ahmad Fauzi: w('Simple Present', 'Simple Present', 'sim-pel pre-sent', 'Bentuk Sekarang', '📖', 'pemula', 
+     w('Simple Present', 'Simple Present', 'sim-pel pre-sent', 'Bentuk Sekarang', '📖', 'pemula', 
 'I study every day.', 
 'Saya belajar setiap hari.', 
 'Aturan PENTING: ✅ I/You/We/They → kata kerja TANPA s | ⚡ He/She/It → kata kerja WAJIB +s. Contoh: I study ✅ / He studies ✅. Digunakan untuk kebiasaan & fakta. (+) S+V1 | (-) do/does+not+V1 | (?) Do/Does+S+V1?'),
