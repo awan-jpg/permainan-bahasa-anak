@@ -1051,6 +1051,55 @@ export const EN_CATEGORIES: EnCategory[] = [
 'I have a book. | She has a book.', 
 'Saya punya buku. | Dia punya buku.', 
 '✅ V1 = have → sekarang/kebiasaan | ✅ V2 = had  → sudah lewat | ✅ V3 = had  → sudah selesai. Aturan: V1: I/You/We/They=have ✅ | He/She/It=has ⚡ | V2 & V3: SEMUA SAMA ✅'),
+        w('take', 'took', 'taken', 'mengambil', '🔤', 'pemula', 
+'I take it. | She takes it.', 
+'Saya mengambilnya. | Dia mengambilnya.', 
+'✅ V1 = take  → sekarang | ✅ V2 = took  → sudah lewat | ✅ V3 = taken → sudah selesai. Aturan: V1: I/You/We/They=take ✅ | He/She/It=takes +s ⚡ | V2 & V3: SEMUA SAMA ✅'),
+
+      w('give', 'gave', 'given', 'memberi', '🔤', 'pemula', 
+'I give help. | He gives help.', 
+'Saya memberi bantuan. | Dia memberi bantuan.', 
+'✅ V1 = give  → sekarang | ✅ V2 = gave  → sudah lewat | ✅ V3 = given → sudah selesai. Aturan: V1: I/You/We/They=give ✅ | He/She/It=gives +s ⚡ | V2 & V3: SEMUA SAMA ✅'),
+
+      w('make', 'made', 'made', 'membuat', '🔤', 'pemula', 
+'I make food. | She makes food.', 
+'Saya membuat makanan. | Dia membuat makanan.', 
+'✅ V1 = make  → sekarang | ✅ V2 = made  → sudah lewat | ✅ V3 = made  → sudah selesai. Aturan: V1: I/You/We/They=make ✅ | He/She/It=makes +s ⚡ | V2 & V3: SEMUA SAMA ✅'),
+
+      w('say', 'said', 'said', 'mengatakan', '🔤', 'pemula', 
+'I say yes. | He says yes.', 
+'Saya bilang ya. | Dia bilang ya.', 
+'✅ V1 = say   → sekarang | ✅ V2 = said  → sudah lewat | ✅ V3 = said  → sudah selesai. Aturan: V1: I/You/We/They=say ✅ | He/She/It=says +s ⚡ | V2 & V3: SEMUA SAMA ✅'),
+
+      w('tell', 'told', 'told', 'menceritakan/menyuruh', '🔤', 'pemula', 
+'I tell stories. | She tells stories.', 
+'Saya bercerita. | Dia bercerita.', 
+'✅ V1 = tell  → sekarang | ✅ V2 = told  → sudah lewat | ✅ V3 = told  → sudah selesai. Aturan: V1: I/You/We/They=tell ✅ | He/She/It=tells +s ⚡ | V2 & V3: SEMUA SAMA ✅'),
+
+      w('find', 'found', 'found', 'menemukan', '🔤', 'pemula', 
+'I find money. | He finds money.', 
+'Saya menemukan uang. | Dia menemukan uang.', 
+'✅ V1 = find  → sekarang | ✅ V2 = found → sudah lewat | ✅ V3 = found → sudah selesai. Aturan: V1: I/You/We/They=find ✅ | He/She/It=finds +s ⚡ | V2 & V3: SEMUA SAMA ✅'),
+
+      w('get', 'got', 'got', 'mendapatkan', '🔤', 'pemula', 
+'I get a gift. | She gets a gift.', 
+'Saya mendapat hadiah. | Dia mendapat hadiah.', 
+'✅ V1 = get   → sekarang | ✅ V2 = got   → sudah lewat | ✅ V3 = got   → sudah selesai. Aturan: V1: I/You/We/They=get ✅ | He/She/It=gets +s ⚡ | V2 & V3: SEMUA SAMA ✅'),
+
+      w('know', 'knew', 'known', 'mengetahui', '🔤', 'pemula', 
+'I know you. | He knows you.', 
+'Saya mengenalmu. | Dia mengenalmu.', 
+'✅ V1 = know  → sekarang | ✅ V2 = knew  → sudah lewat | ✅ V3 = known → sudah selesai. Aturan: V1: I/You/We/They=know ✅ | He/She/It=knows +s ⚡ | V2 & V3: SEMUA SAMA ✅'),
+
+      w('think', 'thought', 'thought', 'berpikir', '🔤', 'pemula', 
+'I think so. | She thinks so.', 
+'Saya pikir begitu. | Dia pikir begitu.', 
+'✅ V1 = think → sekarang | ✅ V2 = thought → sudah lewat | ✅ V3 = thought → sudah selesai. Aturan: V1: I/You/We/They=think ✅ | He/She/It=thinks +s ⚡ | V2 & V3: SEMUA SAMA ✅'),
+
+      w('hear', 'heard', 'heard', 'mendengar', '🔤', 'pemula', 
+'I hear music. | She hears music.', 
+'Saya mendengar musik. | Dia mendengar musik.', 
+'✅ V1 = hear  → sekarang | ✅ V2 = heard → sudah lewat | ✅ V3 = heard → sudah selesai. Aturan: V1: I/You/We/They=hear ✅ | He/She/It=hears +s ⚡ | V2 & V3: SEMUA SAMA ✅'),
     ]
   },
 ]
