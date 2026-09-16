@@ -927,6 +927,13 @@ export const EN_CATEGORIES: EnCategory[] = [
       w('restaurant', 'restaurant', 'res-to-ran', 'restoran', '🍽️', 'mahir', 'We eat at the restaurant.', 'Kita makan di restoran.', 'Restoran tempat membeli makanan siap saji.'),
    ],
   },
+  {
+    id: 'tenses',
+    title: 'Tenses',
+    emoji: '📖',
+    color: '#FFF8E1',
+    color2: '#FFECB3',
+    words: [
 ]
 
 export const LEVELS: { id: Level; label: string; emoji: string }[] = [
