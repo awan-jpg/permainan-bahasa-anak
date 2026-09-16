@@ -913,80 +913,25 @@ export const EN_CATEGORIES: EnCategory[] = [
     color: '#EF476F',
     color2: '#FFD6E0',
     words: [
- w('Simple Present', 'Simple Present', 'sim-pel pre-sent', 'Bentuk Sekarang Sederhana', '📖', 'menengah', 
-'✅ I study English every day.', 
-'✅ Saya belajar bahasa Inggris setiap hari.', 
-'📌 Kapan dipakai? → Untuk kebiasaan sehari-hari, fakta, atau hal yang selalu terjadi.
-
-📝 RUMUS:
-(+) Subjek + Kata Kerja 1
-   Saya belajar = I study
-   Dia belajar   = She studies (tambah s)
-(-) Subjek + do/does + not + Kata Kerja 1
-   Saya tidak belajar = I do not study
-   Dia tidak belajar = She does not study
-(?) Do/Does + Subjek + Kata Kerja 1?
-   Apakah kamu belajar? = Do you study?
-
-💡 Ingat:
-- I/You/We/They → pakai kata kerja biasa (tanpa s)
-- He/She/It → kata kerja ditambah s/es'),
+w('Simple Present', 'Simple Present', 'sim-pel pre-sent', 'Bentuk Sekarang Sederhana', '📖', 'menengah', 
+'I study English every day.', 
+'Saya belajar bahasa Inggris setiap hari.', 
+'Kebiasaan/fakta. RUMUS: (+) S+V1 (I go, She goes) | (-) S+do/does+not+V1 | (?) Do/Does+S+V1? I/You/We/They=V1 biasa. He/She/It=tambah s/es'),
 
       w('Simple Past', 'Simple Past', 'sim-pel pest', 'Bentuk Lampau Sederhana', '📖', 'menengah', 
-'✅ I studied English yesterday.', 
-'✅ Saya belajar bahasa Inggris kemarin.', 
-'📌 Kapan dipakai? → Untuk kejadian yang SUDAH selesai di masa lalu, sudah ada waktunya jelas (kemarin, tadi, tahun lalu).
-
-📝 RUMUS:
-(+) Subjek + Kata Kerja 2 (bentuk lampau)
-   Saya belajar kemarin = I studied
-(-) Subjek + did + not + Kata Kerja 1
-   Saya tidak belajar kemarin = I did not study
-(?) Did + Subjek + Kata Kerja 1?
-   Apakah kamu belajar kemarin? = Did you study?
-
-💡 Ingat:
-- Semua subjek (I/You/They/He/She) pakai did → kata kerja kembali ke bentuk asli (V1)
-- Kata kerja bentuk ke-2 sering berubah: study → studied, go → went, eat → ate'),
+'I studied English yesterday.', 
+'Saya belajar bahasa Inggris kemarin.', 
+'Sudah terjadi lampau. RUMUS: (+) S+V2 (I went) | (-) S+did+not+V1 | (?) Did+S+V1? Semua pakai did, kata kerja balik ke V1'),
 
       w('Simple Future', 'Simple Future', 'sim-pel fyu-cer', 'Bentuk Masa Depan Sederhana', '📖', 'menengah', 
-'✅ I will study English tomorrow.', 
-'✅ Saya akan belajar bahasa Inggris besok.', 
-'📌 Kapan dipakai? → Untuk rencana atau kejadian yang AKAN terjadi nanti (besok, minggu depan, nanti).
-
-📝 RUMUS:
-(+) Subjek + will + Kata Kerja 1
-   Saya akan belajar = I will study
-(-) Subjek + will + not + Kata Kerja 1
-   Saya tidak akan belajar = I will not study
-(?) Will + Subjek + Kata Kerja 1?
-   Apakah kamu akan belajar? = Will you study?
-
-💡 Ingat:
-- will = akan
-- Semua orang pakai will, tidak berubah
-- Kata kerja tetap bentuk asli, tidak ditambah apa-apa'),
+'I will study English tomorrow.', 
+'Saya akan belajar bahasa Inggris besok.', 
+'Akan terjadi nanti. RUMUS: (+) S+will+V1 | (-) S+will+not+V1 | (?) Will+S+V1? Semua pakai will, kata kerja tetap asli'),
 
       w('Present Continuous', 'Present Continuous', 'pre-sent kon-ti-nyu-es', 'Bentuk Sedang Berlangsung', '📖', 'menengah', 
-'✅ I am studying English now.', 
-'✅ Saya sedang belajar bahasa Inggris sekarang.', 
-'📌 Kapan dipakai? → Untuk kejadian yang SEDANG terjadi saat ini juga, belum selesai.
-
-📝 RUMUS:
-(+) Subjek + am/is/are + Kata Kerja-ing
-   Saya sedang belajar = I am studying
-   Dia sedang belajar   = She is studying
-   Mereka sedang belajar = They are studying
-(-) Subjek + am/is/are + not + Kata Kerja-ing
-   Saya tidak sedang belajar = I am not studying
-(?) Am/Is/Are + Subjek + Kata Kerja-ing?
-   Apakah kamu sedang belajar? = Are you studying?
-
-💡 Ingat:
-- I → am
-- He/She/It → is
-- You/We/They → are
-- Kata kerja tambah -ing: study → studying, eat → eating'),
+'I am studying English now.', 
+'Saya sedang belajar bahasa Inggris sekarang.', 
+'Sedang berlangsung. RUMUS: (+) S+am/is/are+V-ing | I=am, She=is, They=are | (-) tambah not | (?) pindah am/is/are ke depan'),
     ]
   },
 ]
