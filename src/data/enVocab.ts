@@ -1100,6 +1100,51 @@ export const EN_CATEGORIES: EnCategory[] = [
 'I hear music. | She hears music.', 
 'Saya mendengar musik. | Dia mendengar musik.', 
 '✅ V1 = hear  → sekarang | ✅ V2 = heard → sudah lewat | ✅ V3 = heard → sudah selesai. Aturan: V1: I/You/We/They=hear ✅ | He/She/It=hears +s ⚡ | V2 & V3: SEMUA SAMA ✅'),
+        
+      w('sleep', 'slept', 'slept', 'tidur', '🔤', 'pemula', 
+'I sleep early. | She sleeps early.', 
+'Saya tidur awal. | Dia tidur awal.', 
+'✅ V1 = sleep → sekarang | ✅ V2 = slept → sudah lewat | ✅ V3 = slept → sudah selesai. Aturan: V1: I/You/We/They=sleep ✅ | He/She/It=sleeps +s ⚡ | V2 & V3: SEMUA SAMA ✅'),
+
+      w('keep', 'kept', 'kept', 'menyimpan/menjaga', '🔤', 'pemula', 
+'I keep money. | He keeps money.', 
+'Saya simpan uang. | Dia simpan uang.', 
+'✅ V1 = keep  → sekarang | ✅ V2 = kept  → sudah lewat | ✅ V3 = kept  → sudah selesai. Aturan: V1: I/You/We/They=keep ✅ | He/She/It=keeps +s ⚡ | V2 & V3: SEMUA SAMA ✅'),
+
+      w('leave', 'left', 'left', 'pergi/meninggalkan', '🔤', 'pemula', 
+'I leave now. | She leaves now.', 
+'Saya pergi sekarang. | Dia pergi sekarang.', 
+'✅ V1 = leave → sekarang | ✅ V2 = left  → sudah lewat | ✅ V3 = left  → sudah selesai. Aturan: V1: I/You/We/They=leave ✅ | He/She/It=leaves +s ⚡ | V2 & V3: SEMUA SAMA ✅'),
+
+      w('meet', 'met', 'met', 'bertemu', '🔤', 'pemula', 
+'I meet friends. | He meets friends.', 
+'Saya bertemu teman. | Dia bertemu teman.', 
+'✅ V1 = meet  → sekarang | ✅ V2 = met   → sudah lewat | ✅ V3 = met   → sudah selesai. Aturan: V1: I/You/We/They=meet ✅ | He/She/It=meets +s ⚡ | V2 & V3: SEMUA SAMA ✅'),
+
+      w('run', 'ran', 'run', 'berlari', '🔤', 'pemula', 
+'I run fast. | She runs fast.', 
+'Saya lari cepat. | Dia lari cepat.', 
+'✅ V1 = run   → sekarang | ✅ V2 = ran   → sudah lewat | ✅ V3 = run   → sudah selesai. Aturan: V1: I/You/We/They=run ✅ | He/She/It=runs +s ⚡ | V2 & V3: SEMUA SAMA ✅'),
+
+      w('sing', 'sang', 'sung', 'bernyanyi', '🔤', 'pemula', 
+'I sing well. | She sings well.', 
+'Saya bernyanyi bagus. | Dia bernyanyi bagus.', 
+'✅ V1 = sing  → sekarang | ✅ V2 = sang  → sudah lewat | ✅ V3 = sung  → sudah selesai. Aturan: V1: I/You/We/They=sing ✅ | He/She/It=sings +s ⚡ | V2 & V3: SEMUA SAMA ✅'),
+
+      w('swim', 'swam', 'swum', 'berenang', '🔤', 'pemula', 
+'I swim daily. | He swims daily.', 
+'Saya berenang tiap hari. | Dia berenang tiap hari.', 
+'✅ V1 = swim  → sekarang | ✅ V2 = swam  → sudah lewat | ✅ V3 = swum  → sudah selesai. Aturan: V1: I/You/We/They=swim ✅ | He/She/It=swims +s ⚡ | V2 & V3: SEMUA SAMA ✅'),
+
+      w('fly', 'flew', 'flown', 'terbang', '🔤', 'pemula', 
+'I fly kites. | She flies kites.', 
+'Saya menerbangkan layangan. | Dia menerbangkan layangan.', 
+'✅ V1 = fly   → sekarang | ✅ V2 = flew  → sudah lewat | ✅ V3 = flown → sudah selesai. Aturan: V1: I/You/We/They=fly ✅ | He/She/It=flies +s ⚡ | V2 & V3: SEMUA SAMA ✅'),
+
+      w('grow', 'grew', 'grown', 'tumbuh/menanam', '🔤', 'pemula', 
+'I grow flowers. | She grows flowers.', 
+'Saya menanam bunga. | Dia menanam bunga.', 
+'✅ V1 = grow  → sekarang | ✅ V2 = grew  → sudah lewat | ✅ V3 = grown → sudah selesai. Aturan: V1: I/You/We/They=grow ✅ | He/She/It=grows +s ⚡ | V2 & V3: SEMUA SAMA ✅'),  
     ]
   },
 ]
