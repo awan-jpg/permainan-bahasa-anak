@@ -942,9 +942,7 @@ export const EN_CATEGORIES: EnCategory[] = [
       w('Present Perfect Continuous', 'Present Perfect Continuous', 'Sudah & Masih', 'Sudah & Masih', '📖', 'menengah', 'I have been studying 2 jam.', 'Sudah belajar 2 jam & masih lanjut.', 'Sudah mulai, belum selesai. (+) S+have/has+been+V-ing'),
       w('Past Continuous', 'Past Continuous', 'pest kon-ti-nyu-es', 'Sedang Lampau', '📖', 'menengah', 'I was studying tadi malam.', 'Saya sedang belajar tadi malam.', 'Sedang terjadi di masa lalu. (+) S+was/were+V-ing'),
       w('Past Perfect', 'Past Perfect', 'pest per-fect', 'Sudah Sebelum Lampau', '📖', 'menengah', 'I had selesai sebelum kamu datang.', 'Sudah selesai lebih dulu.', 'Selesai sebelum kejadian lain. (+) S+had+V3'),
-      w('Past Perfect Continuous', 'pest per-fect kon-ti-nyu-es', 'Sudah & Masih Lampau', '📖', 'menengah', 'Sudah belajar sebelum datang.', 'Sudah berlangsung sebelum kejadian lain.', 'Sudah mulai, masih jalan di masa lalu. (+) S+had+been+V-ing'),
-      w('Future Continuous', 'fyu-cer kon-ti-nyu-es', 'Akan Sedang', '📖', 'menengah', 'Saya akan sedang belajar.', 'Akan sedang terjadi nanti.', 'Sedang berlangsung di masa depan. (+) S+will+be+V-ing'),
-   
+      
     ]
   },
 ]
