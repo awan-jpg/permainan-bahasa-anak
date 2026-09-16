@@ -916,32 +916,32 @@ export const EN_CATEGORIES: EnCategory[] = [
 w('Simple Present', 'Simple Present', 'sim-pel pre-sent', 'Bentuk Sekarang Sederhana', '📖', 'menengah', 
 'I study English every day.', 
 'Saya belajar bahasa Inggris setiap hari.', 
-'Kebiasaan/fakta. RUMUS: (+) S+V1 (I go, She goes) | (-) S+do/does+not+V1 | (?) Do/Does+S+V1? I/You/We/They=V1 biasa. He/She/It=tambah s/es'),
+'Kebiasaan/fakta. RUMUS: (+) S+V1 | I/You=V1 biasa, He/She=tambah s/es | (-) do/does+not+V1 | (?) Do/Does di depan'),
 
       w('Simple Past', 'Simple Past', 'sim-pel pest', 'Bentuk Lampau Sederhana', '📖', 'menengah', 
 'I studied English yesterday.', 
 'Saya belajar bahasa Inggris kemarin.', 
-'Sudah terjadi lampau. RUMUS: (+) S+V2 (I went) | (-) S+did+not+V1 | (?) Did+S+V1? Semua pakai did, kata kerja balik ke V1'),
+'Sudah selesai di masa lalu. RUMUS: (+) S+V2 | (-) did+not+V1 | (?) Did di depan. Semua pakai did, kata kerja balik ke asli'),
 
       w('Simple Future', 'Simple Future', 'sim-pel fyu-cer', 'Bentuk Masa Depan Sederhana', '📖', 'menengah', 
 'I will study English tomorrow.', 
 'Saya akan belajar bahasa Inggris besok.', 
-'Akan terjadi nanti. RUMUS: (+) S+will+V1 | (-) S+will+not+V1 | (?) Will+S+V1? Semua pakai will, kata kerja tetap asli'),
+'Akan terjadi nanti. RUMUS: (+) S+will+V1 | (-) will+not+V1 | (?) Will di depan. Semua pakai will, tidak berubah'),
 
-      w('Present Continuous', 'Present Continuous', 'pre-sent kon-ti-nyu-es', 'Bentuk Sedang Berlangsung', '📖', 'menengah', 
+      w('Present Continuous', 'Present Continuous', 'pre-sent kon-ti-nyu-es', 'Sedang Berlangsung', '📖', 'menengah', 
 'I am studying English now.', 
 'Saya sedang belajar bahasa Inggris sekarang.', 
-'Sedang berlangsung. RUMUS: (+) S+am/is/are+V-ing | I=am, She=is, They=are | (-) tambah not | (?) pindah am/is/are ke depan'),
+'Sedang terjadi saat ini. RUMUS: (+) S+am/is/are+V-ing | I=am, He=is, They=are | (-) tambah not | (?) Am/Is/Are di depan'),
 
       w('Present Perfect', 'Present Perfect', 'pre-sent per-fect', 'Sudah Terjadi', '📖', 'menengah', 
 'I have finished my work.', 
 'Saya sudah menyelesaikan pekerjaan saya.', 
-'Sudah selesai, hasilnya masih terasa sekarang. RUMUS: (+) S+have/has+V3 | I/You=have, He/She=has | (-) tambah not | (?) Have/Has ke depan'),
+'Sudah selesai, hasilnya terasa sekarang. RUMUS: (+) S+have/has+V3 | I/You=have, He/She=has | (-) tambah not | (?) Have/Has di depan'),
 
       w('Present Perfect Continuous', 'Present Perfect Continuous', 'pre-sent per-fect kon-ti-nyu-es', 'Sudah & Masih Berlangsung', '📖', 'menengah', 
 'I have been studying for 2 hours.', 
 'Saya sudah belajar selama 2 jam (dan masih lanjut).', 
-'Sudah mulai, belum selesai, masih jalan. RUMUS: (+) S+have/has+been+V-ing | (-) tambah not | (?) Have/Has pindah ke depan'),
+'Sudah mulai, belum selesai, masih jalan. RUMUS: (+) S+have/has+been+V-ing | (-) tambah not | (?) Have/Has di depan'),
     ]
   },
 ]
