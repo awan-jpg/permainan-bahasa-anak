@@ -1002,22 +1002,22 @@ export const EN_CATEGORIES: EnCategory[] = [
     color: '#E3F2FD',
     color2: '#BBDEFB',
     words: [
-      w('went', 'go', 'gone', 'pergi', '🔤', 'pemula', 
+      w('go', 'go', 'gou', 'pergi', '🔤', 'pemula', 
 'I go every day. | She goes every day.', 
 'Saya pergi setiap hari. | Dia pergi setiap hari.', 
 '✅ V1 = go   → sekarang/kebiasaan | ✅ V2 = went → sudah lewat | ✅ V3 = gone → sudah selesai. Aturan: V1: I/You/We/They=go ✅ | He/She/It=goes +s ⚡ | V2 & V3: SEMUA SAMA ✅'),
 
-      w('come', 'came', 'come', 'datang', '🔤', 'pemula', 
+      w('come', 'come', 'came', 'datang', '🔤', 'pemula', 
 'I come often. | He comes often.', 
 'Saya sering datang. | Dia sering datang.', 
 '✅ V1 = come → sekarang/kebiasaan | ✅ V2 = came → sudah lewat | ✅ V3 = come → sudah selesai. Aturan: V1: I/You/We/They=come ✅ | He/She/It=comes +s ⚡ | V2 & V3: SEMUA SAMA ✅'),
 
-      w('see', 'saw', 'seen', 'melihat', '🔤', 'pemula', 
+      w('seen', 'see', 'saw', 'melihat', '🔤', 'pemula', 
 'I see a bird. | She sees a bird.', 
 'Saya melihat burung. | Dia melihat burung.', 
 '✅ V1 = see  → sekarang/kebiasaan | ✅ V2 = saw  → sudah lewat | ✅ V3 = seen → sudah selesai. Aturan: V1: I/You/We/They=see ✅ | He/She/It=sees +s ⚡ | V2 & V3: SEMUA SAMA ✅'),
 
-      w('eat', 'ate', 'eaten', 'makan', '🔤', 'pemula', 
+      w('eat', 'eat', 'ate', 'makan', '🔤', 'pemula', 
 'I eat rice. | He eats rice.', 
 'Saya makan nasi. | Dia makan nasi.', 
 '✅ V1 = eat  → sekarang/kebiasaan | ✅ V2 = ate  → sudah lewat | ✅ V3 = eaten → sudah selesai. Aturan: V1: I/You/We/They=eat ✅ | He/She/It=eats +s ⚡ | V2 & V3: SEMUA SAMA ✅'),
