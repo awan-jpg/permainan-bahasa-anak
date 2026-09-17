@@ -1196,57 +1196,7 @@ export const EN_CATEGORIES: EnCategory[] = [
 'Saya bersalaman. | Dia bersalaman.', 
 '✅ V1 = shake → sekarang | ✅ V2 = shook → sudah lewat | ✅ V3 = shaken → sudah selesai. Aturan: V1: I/You/We/They=shake ✅ | He/She/It=shakes +s ⚡ | V2 & V3: SEMUA SAMA ✅'), 
 
-        w('ride', 'rode', 'ridden', 'mengendarai/naik', '🔤', 'pemula', 
-'I ride a bike. | She rides a bike.', 
-'Saya naik sepeda. | Dia naik sepeda.', 
-'✅ V1 = ride  → sekarang | ✅ V2 = rode  → sudah lewat | ✅ V3 = ridden → sudah selesai. Aturan: V1: I/You/We/They=ride ✅ | He/She/It=rides +s ⚡ | V2 & V3: SEMUA SAMA ✅'),
-
-      w('drive', 'drove', 'driven', 'menyetir/mengemudi', '🔤', 'pemula', 
-'I drive carefully. | He drives carefully.', 
-'Saya menyetir hati-hati. | Dia menyetir hati-hati.', 
-'✅ V1 = drive → sekarang | ✅ V2 = drove → sudah lewat | ✅ V3 = driven → sudah selesai. Aturan: V1: I/You/We/They=drive ✅ | He/She/It=drives +s ⚡ | V2 & V3: SEMUA SAMA ✅'),
-
-      w('break', 'broke', 'broken', 'memecahkan/rusak', '🔤', 'pemula', 
-'I break nothing. | She breaks nothing.', 
-'Saya tidak merusak apa-apa. | Dia tidak merusak apa-apa.', 
-'✅ V1 = break → sekarang | ✅ V2 = broke → sudah lewat | ✅ V3 = broken → sudah selesai. Aturan: V1: I/You/We/They=break ✅ | He/She/It=breaks +s ⚡ | V2 & V3: SEMUA SAMA ✅'),
-
-      w('choose', 'chose', 'chosen', 'memilih', '🔤', 'pemula', 
-'I choose wisely. | He chooses wisely.', 
-'Saya memilih dengan bijak. | Dia memilih dengan bijak.', 
-'✅ V1 = choose → sekarang | ✅ V2 = chose → sudah lewat | ✅ V3 = chosen → sudah selesai. Aturan: V1: I/You/We/They=choose ✅ | He/She/It=chooses +s ⚡ | V2 & V3: SEMUA SAMA ✅'),
-
-      w('forget', 'forgot', 'forgotten', 'melupakan', '🔤', 'pemula', 
-'I forget names. | She forgets names.', 
-'Saya lupa nama orang. | Dia lupa nama orang.', 
-'✅ V1 = forget → sekarang | ✅ V2 = forgot → sudah lewat | ✅ V3 = forgotten → sudah selesai. Aturan: V1: I/You/We/They=forget ✅ | He/She/It=forgets +s ⚡ | V2 & V3: SEMUA SAMA ✅'),
-
-      w('wake', 'woke', 'woken', 'bangun', '🔤', 'pemula', 
-'I wake early. | He wakes early.', 
-'Saya bangun pagi. | Dia bangun pagi.', 
-'✅ V1 = wake  → sekarang | ✅ V2 = woke  → sudah lewat | ✅ V3 = woken → sudah selesai. Aturan: V1: I/You/We/They=wake ✅ | He/She/It=wakes +s ⚡ | V2 & V3: SEMUA SAMA ✅'),
-
-      w('wear', 'wore', 'worn', 'memakai', '🔤', 'pemula', 
-'I wear uniform. | She wears uniform.', 
-'Saya pakai seragam. | Dia pakai seragam.', 
-'✅ V1 = wear  → sekarang | ✅ V2 = wore  → sudah lewat | ✅ V3 = worn  → sudah selesai. Aturan: V1: I/You/We/They=wear ✅ | He/She/It=wears +s ⚡ | V2 & V3: SEMUA SAMA ✅'),
-
-      w('dig', 'dug', 'dug', 'menggali', '🔤', 'pemula', 
-'I dig a hole. | He digs a hole.', 
-'Saya menggali lubang. | Dia menggali lubang.', 
-'✅ V1 = dig   → sekarang | ✅ V2 = dug   → sudah lewat | ✅ V3 = dug   → sudah selesai. Aturan: V1: I/You/We/They=dig ✅ | He/She/It=digs +s ⚡ | V2 & V3: SEMUA SAMA ✅'),
-
-      w('hide', 'hide', 'haid', 'bersembunyi', '🔤', 'pemula', 
-'I hide well. | She hides well.', 
-'Saya bersembunyi dengan baik. | Dia bersembunyi dengan baik.', 
-'✅ V1 = hide  → sekarang | ✅ V2 = hid   → sudah lewat | ✅ V3 = hidden → sudah selesai. Aturan: V1: I/You/We/They=hide ✅ | He/She/It=hides +s ⚡ | V2 & V3: SEMUA SAMA ✅'),
-
-      w('shake', 'shake', 'seik', 'mengguncang/bersalaman', '🔤', 'pemula', 
-'I shake hands. | He shakes hands.', 
-'Saya bersalaman. | Dia bersalaman.', 
-'✅ V1 = shake → sekarang | ✅ V2 = shook → sudah lewat | ✅ V3 = shaken → sudah selesai. Aturan: V1: I/You/We/They=shake ✅ | He/She/It=shakes +s ⚡ | V2 & V3: SEMUA SAMA ✅'),
-
-      w('shine', 'shine', 'sain', 'bersinar', '🔤', 'pemula', 
+         w('shine', 'shine', 'sain', 'bersinar', '🔤', 'pemula', 
 'The sun shines bright. | It shines warm.', 
 'Matahari bersinar terang. | Itu bersinar hangat.', 
 '✅ V1 = shine → sekarang | ✅ V2 = shone → sudah lewat | ✅ V3 = shone → sudah selesai. Aturan: V1: I/You/We/They=shine ✅ | He/She/It=shines +s ⚡ | V2 & V3: SEMUA SAMA ✅'),
