@@ -1002,7 +1002,7 @@ export const EN_CATEGORIES: EnCategory[] = [
     color: '#E3F2FD',
     color2: '#BBDEFB',
     words: [
-      w('go', 'went', 'gone', 'pergi', '🔤', 'pemula', 
+      w('went', 'go', 'gone', 'pergi', '🔤', 'pemula', 
 'I go every day. | She goes every day.', 
 'Saya pergi setiap hari. | Dia pergi setiap hari.', 
 '✅ V1 = go   → sekarang/kebiasaan | ✅ V2 = went → sudah lewat | ✅ V3 = gone → sudah selesai. Aturan: V1: I/You/We/They=go ✅ | He/She/It=goes +s ⚡ | V2 & V3: SEMUA SAMA ✅'),
