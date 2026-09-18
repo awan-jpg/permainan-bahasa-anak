@@ -1050,8 +1050,60 @@ w('choose', 'choose', 'cus', 'memilih', 'c', 'pemula', 'I choose this. | She cho
 w('cleave', 'cleave', 'kliv', 'membelah/melekat', 'c', 'pemula', 'Rock cleaves water. | It cleaves water.', 'Batu membelah air. | Hal itu membelah air.', 'V1 = cleave → sekarang/kebiasaan | V2 = cleft → sudah lewat/kemarin | V3 = cleft → sudah selesai | Aturan: I/You/We/They = cleave ✅ | He/She/It = cleaves (+s) ⚡ | V2 & V3 bentuknya TETAP, tidak berubah ✅'),
 w('cling', 'cling', 'kling', 'melekat/berpegang erat', 'c', 'pemula', 'We cling to hope. | She clings to hope.', 'Kita berpegang pada harapan. | Dia berpegang pada harapan.', 'V1 = cling → sekarang/kebiasaan | V2 = clung → sudah lewat/kemarin | V3 = clung → sudah selesai | Aturan: I/You/We/They = cling ✅ | He/She/It = clings (+s) ⚡ | V2 & V3 bentuknya TETAP, tidak berubah ✅'),
 w('colorbreed', 'colorbreed', 'ka-lor-brid', 'mengawinkan/membiakkan', 'c', 'pemula', 'Petani membiakkan bunga. | He colorbreeds flowers.', 'Petani membiakkan bunga. | Dia membiakkan bunga.', 'V1 = colorbreed → sekarang/kebiasaan | V2 = colorbred → sudah lewat/kemarin | V3 = colorbred → sudah selesai | Aturan: I/You/We/They = colorbreed ✅ | He/She/It = colorbreeds (+s) ⚡ | V2 & V3 bentuknya TETAP, tidak berubah ✅'),
-w('come', 'come', 'kam', 'datang', 'c', 'pemula', 'I come often. | He comes often.', 'Saya sering datang. | Dia sering datang.', 'V1 = come → sekarang/kebiasaan | V2 = came → sudah lewat/kemarin | V3 = come → sudah selesai | Aturan: I/You/We/They = come ✅ | He/She/It = comes (+s) ⚡ | V2 & V3 bentuknya TETAP, tidak berubah ✅'),        
+w('come', 'come', 'kam', 'datang', 'c', 'pemula', 'I come often. | He comes often.', 'Saya sering datang. | Dia sering datang.', 'V1 = come → sekarang/kebiasaan | V2 = came → sudah lewat/kemarin | V3 = come → sudah selesai | Aturan: I/You/We/They = come ✅ | He/She/It = comes (+s) ⚡ | V2 & V3 bentuknya TETAP, tidak berubah ✅'), 
+w('come', 'come', 'kam', 'datang', 'c', 'pemula', 'I come often. | He comes often.', 'Saya sering datang. | Dia sering datang.', 'V1 = come → sekarang/kebiasaan | V2 = came → sudah lewat/kemarin | V3 = come → sudah selesai | Aturan: I/You/We/They = come ✅ | He/She/It = comes (+s) ⚡ | V2 & V3 bentuknya TETAP, tidak berubah ✅'),
 
+w('cost', 'cost', 'kost', 'berharga/biaya', 'c', 'pemula', 'It costs much. | They cost much.', 'Harganya mahal. | Harganya mahal.', 'V1 = cost → sekarang/kebiasaan | V2 = cost → sudah lewat/kemarin | V3 = cost → sudah selesai | Aturan: I/You/We/They = cost ✅ | He/She/It = costs (+s) ⚡ | V2 & V3 bentuknya TETAP, tidak berubah ✅'),
+
+w('creep', 'creep', 'krip', 'merayap/bergerak pelan', 'c', 'pemula', 'Snakes creep. | A snake creeps.', 'Ular merayap. | Seekor ular merayap.', 'V1 = creep → sekarang/kebiasaan | V2 = crept → sudah lewat/kemarin | V3 = crept → sudah selesai | Aturan: I/You/We/They = creep ✅ | He/She/It = creeps (+s) ⚡ | V2 & V3 bentuknya TETAP, tidak berubah ✅'),
+
+w('crow', 'crow', 'kro', 'berkokok', 'c', 'pemula', 'Cocks crow. | A cock crows.', 'Ayam jantan berkokok. | Seekor ayam jantan berkokok.', 'V1 = crow → sekarang/kebiasaan | V2 = crew → sudah lewat/kemarin | V3 = crowed → sudah selesai | Aturan: I/You/We/They = crow ✅ | He/She/It = crows (+s) ⚡ | V2 & V3 bentuknya TETAP, tidak berubah ✅'),
+
+w('cut', 'cut', 'kat', 'memotong', 'c', 'pemula', 'I cut paper. | She cuts paper.', 'Saya memotong kertas. | Dia memotong kertas.', 'V1 = cut → sekarang/kebiasaan | V2 = cut → sudah lewat/kemarin | V3 = cut → sudah selesai | Aturan: I/You/We/They = cut ✅ | He/She/It = cuts (+s) ⚡ | V2 & V3 bentuknya TETAP, tidak berubah ✅'),
+
+w('deal', 'deal', 'dil', 'berurusan/menangani', 'd', 'pemula', 'I deal with it. | He deals with it.', 'Saya menanganinya. | Dia menanganinya.', 'V1 = deal → sekarang/kebiasaan | V2 = dealt → sudah lewat/kemarin | V3 = dealt → sudah selesai | Aturan: I/You/We/They = deal ✅ | He/She/It = deals (+s) ⚡ | V2 & V3 bentuknya TETAP, tidak berubah ✅'),
+
+w('dig', 'dig', 'dig', 'menggali', 'd', 'pemula', 'They dig a hole. | She digs a hole.', 'Mereka menggali lubang. | Dia menggali lubang.', 'V1 = dig → sekarang/kebiasaan | V2 = dug → sudah lewat/kemarin | V3 = dug → sudah selesai | Aturan: I/You/We/They = dig ✅ | He/She/It = digs (+s) ⚡ | V2 & V3 bentuknya TETAP, tidak berubah ✅'),
+
+w('dive', 'dive', 'daiv', 'menyelam', 'd', 'pemula', 'We dive here. | He dives here.', 'Kami menyelam di sini. | Dia menyelam di sini.', 'V1 = dive → sekarang/kebiasaan | V2 = dove → sudah lewat/kemarin | V3 = dived → sudah selesai | Aturan: I/You/We/They = dive ✅ | He/She/It = dives (+s) ⚡ | V2 & V3 bentuknya TETAP, tidak berubah ✅'),
+
+w('do', 'do', 'du', 'melakukan', 'd', 'pemula', 'I do my homework. | She does her homework.', 'Saya mengerjakan PR. | Dia mengerjakan PR.', 'V1 = do → sekarang/kebiasaan | V2 = did → sudah lewat/kemarin | V3 = done → sudah selesai | Aturan: I/You/We/They = do ✅ | He/She/It = does (+es) ⚡ | V2 & V3 bentuknya TETAP, tidak berubah ✅'),
+
+w('draw', 'draw', 'dro', 'menggambar', 'd', 'pemula', 'I draw a cat. | He draws a cat.', 'Saya menggambar kucing. | Dia menggambar kucing.', 'V1 = draw → sekarang/kebiasaan | V2 = drew → sudah lewat/kemarin | V3 = drawn → sudah selesai | Aturan: I/You/We/They = draw ✅ | He/She/It = draws (+s) ⚡ | V2 & V3 bentuknya TETAP, tidak berubah ✅'),
+
+w('dream', 'dream', 'drim', 'bermimpi', 'd', 'pemula', 'I dream every night. | She dreams every night.', 'Saya bermimpi setiap malam. | Dia bermimpi setiap malam.', 'V1 = dream → sekarang/kebiasaan | V2 = dreamt/dreamed → sudah lewat/kemarin | V3 = dreamt/dreamed → sudah selesai | Aturan: I/You/We/They = dream ✅ | He/She/It = dreams (+s) ⚡ | V2 & V3 bentuknya TETAP, tidak berubah ✅'),
+
+w('drink', 'drink', 'drink', 'minum', 'd', 'pemula', 'I drink water. | He drinks water.', 'Saya minum air. | Dia minum air.', 'V1 = drink → sekarang/kebiasaan | V2 = drank → sudah lewat/kemarin | V3 = drunk → sudah selesai | Aturan: I/You/We/They = drink ✅ | He/She/It = drinks (+s) ⚡ | V2 & V3 bentuknya TETAP, tidak berubah ✅'),
+
+w('drive', 'drive', 'draiv', 'mengemudi', 'd', 'pemula', 'I drive carefully. | She drives carefully.', 'Saya mengemudi hati-hati. | Dia mengemudi hati-hati.', 'V1 = drive → sekarang/kebiasaan | V2 = drove → sudah lewat/kemarin | V3 = driven → sudah selesai | Aturan: I/You/We/They = drive ✅ | He/She/It = drives (+s) ⚡ | V2 & V3 bentuknya TETAP, tidak berubah ✅'),
+
+w('eat', 'eat', 'it', 'makan', 'e', 'pemula', 'I eat rice. | He eats rice.', 'Saya makan nasi. | Dia makan nasi.', 'V1 = eat → sekarang/kebiasaan | V2 = ate → sudah lewat/kemarin | V3 = eaten → sudah selesai | Aturan: I/You/We/They = eat ✅ | He/She/It = eats (+s) ⚡ | V2 & V3 bentuknya TETAP, tidak berubah ✅'),
+
+w('fall', 'fall', 'fol', 'jatuh', 'f', 'pemula', 'I fall down. | She falls down.', 'Saya jatuh. | Dia jatuh.', 'V1 = fall → sekarang/kebiasaan | V2 = fell → sudah lewat/kemarin | V3 = fallen → sudah selesai | Aturan: I/You/We/They = fall ✅ | He/She/It = falls (+s) ⚡ | V2 & V3 bentuknya TETAP, tidak berubah ✅'),
+
+w('feel', 'feel', 'fil', 'merasa', 'f', 'pemula', 'I feel happy. | He feels happy.', 'Saya merasa senang. | Dia merasa senang.', 'V1 = feel → sekarang/kebiasaan | V2 = felt → sudah lewat/kemarin | V3 = felt → sudah selesai | Aturan: I/You/We/They = feel ✅ | He/She/It = feels (+s) ⚡ | V2 & V3 bentuknya TETAP, tidak berubah ✅'),
+
+w('fight', 'fight', 'fait', 'berkelahi/bertarung', 'f', 'pemula', 'They fight well. | He fights well.', 'Mereka bertarung dengan baik. | Dia bertarung dengan baik.', 'V1 = fight → sekarang/kebiasaan | V2 = fought → sudah lewat/kemarin | V3 = fought → sudah selesai | Aturan: I/You/We/They = fight ✅ | He/She/It = fights (+s) ⚡ | V2 & V3 bentuknya TETAP, tidak berubah ✅'),
+
+w('find', 'find', 'faind', 'menemukan', 'f', 'pemula', 'I find my key. | She finds her key.', 'Saya menemukan kunci saya. | Dia menemukan kuncinya.', 'V1 = find → sekarang/kebiasaan | V2 = found → sudah lewat/kemarin | V3 = found → sudah selesai | Aturan: I/You/We/They = find ✅ | He/She/It = finds (+s) ⚡ | V2 & V3 bentuknya TETAP, tidak berubah ✅'),
+
+w('fly', 'fly', 'flai', 'terbang', 'f', 'pemula', 'Birds fly. | A bird flies.', 'Burung terbang. | Seekor burung terbang.', 'V1 = fly → sekarang/kebiasaan | V2 = flew → sudah lewat/kemarin | V3 = flown → sudah selesai | Aturan: I/You/We/They = fly ✅ | He/She/It = flies (+es) ⚡ | V2 & V3 bentuknya TETAP, tidak berubah ✅'),
+
+w('forget', 'forget', 'for-get', 'lupa', 'f', 'pemula', 'I forget the name. | He forgets the name.', 'Saya lupa namanya. | Dia lupa namanya.', 'V1 = forget → sekarang/kebiasaan | V2 = forgot → sudah lewat/kemarin | V3 = forgotten → sudah selesai | Aturan: I/You/We/They = forget ✅ | He/She/It = forgets (+s) ⚡ | V2 & V3 bentuknya TETAP, tidak berubah ✅'),
+
+w('forgive', 'forgive', 'for-giv', 'memaafkan', 'f', 'pemula', 'I forgive you. | She forgives you.', 'Saya memaafkanmu. | Dia memaafkanmu.', 'V1 = forgive → sekarang/kebiasaan | V2 = forgave → sudah lewat/kemarin | V3 = forgiven → sudah selesai | Aturan: I/You/We/They = forgive ✅ | He/She/It = forgives (+s) ⚡ | V2 & V3 bentuknya TETAP, tidak berubah ✅'),
+
+w('freeze', 'freeze', 'friz', 'membeku', 'f', 'pemula', 'Water freezes. | It freezes.', 'Air membeku. | Air membeku.', 'V1 = freeze → sekarang/kebiasaan | V2 = froze → sudah lewat/kemarin | V3 = frozen → sudah selesai | Aturan: I/You/We/They = freeze ✅ | He/She/It = freezes (+es) ⚡ | V2 & V3 bentuknya TETAP, tidak berubah ✅'),
+
+w('get', 'get', 'get', 'mendapatkan', 'g', 'pemula', 'I get a gift. | She gets a gift.', 'Saya mendapatkan hadiah. | Dia mendapatkan hadiah.', 'V1 = get → sekarang/kebiasaan | V2 = got → sudah lewat/kemarin | V3 = got/gotten → sudah selesai | Aturan: I/You/We/They = get ✅ | He/She/It = gets (+s) ⚡ | V2 & V3 bentuknya TETAP, tidak berubah ✅'),
+
+w('give', 'give', 'giv', 'memberi', 'g', 'pemula', 'I give help. | He gives help.', 'Saya memberi bantuan. | Dia memberi bantuan.', 'V1 = give → sekarang/kebiasaan | V2 = gave → sudah lewat/kemarin | V3 = given → sudah selesai | Aturan: I/You/We/They = give ✅ | He/She/It = gives (+s) ⚡ | V2 & V3 bentuknya TETAP, tidak berubah ✅'),
+
+w('go', 'go', 'go', 'pergi', 'g', 'pemula', 'I go to school. | She goes to school.', 'Saya pergi ke sekolah. | Dia pergi ke sekolah.', 'V1 = go → sekarang/kebiasaan | V2 = went → sudah lewat/kemarin | V3 = gone → sudah selesai | Aturan: I/You/We/They = go ✅ | He/She/It = goes (+es) ⚡ | V2 & V3 bentuknya TETAP, tidak berubah ✅'),
+
+w('grind', 'grind', 'graind', 'menggiling', 'g', 'pemula', 'They grind corn. | He grinds corn.', 'Mereka menggiling jagung. | Dia menggiling jagung.', 'V1 = grind → sekarang/kebiasaan | V2 = ground → sudah lewat/kemarin | V3 = ground → sudah selesai | Aturan:  I/You/We/They = grind ✅ | He/She/It = grinds (+s) ⚡ | V2 & V3 bentuknya TETAP, tidak berubah ✅'),        
+
+w('grow', 'grow', 'gro', 'tumbuh', 'g', 'pemula', 'Plants grow fast. | A plant grows fast.', 'Tumbuhan tumbuh cepat. | Sebuah tumbuhan tumbuh cepat.', 'V1 = grow → sekarang/kebiasaan | V2 = grew → sudah lewat/kemarin | V3 = grown → sudah selesai | Aturan: Saya/Kamu/Kita/Mereka = grow ✅ | Dia/Ia = grows (+s) ⚡ | V2 & V3 bentuknya TETAP, tidak berubah ✅'),
     ]
   },
 ]
