@@ -1002,15 +1002,10 @@ export const EN_CATEGORIES: EnCategory[] = [
     color: '#E3F2FD',
     color2: '#BBDEFB',
     words: [
-w('abide', 'abide', 'a-baid', 'tinggal/menaati', 'abc', 'pemula',
-'I abide here. | She abides here.',
-'Saya tinggal di sini. | Dia tinggal di sini.',
-'V1 = abide → sekarang/kebiasaan
-V2 = abode → sudah lewat/kemarin
-V3 = abode → sudah selesai
-Aturan: I/You/We/They = abide ✅
-He/She/It = abides (+s) ⚡
-V2 & V3 bentuknya TETAP, tidak berubah ✅'),
+w('come', 'come', 'kam', 'datang', 'abc', 'pemula',
+'I come often. | He comes often.',
+'Saya sering datang. | Dia sering datang.',
+'V1 = come → sekarang/kebiasaan | V2 = came → sudah lewat/kemarin | V3 = come → sudah selesai | Aturan: I/You/We/They = come ✅ | He/She/It = comes (+s) ⚡ | V2 & V3 bentuknya TETAP, tidak berubah ✅'),
 
     ]
   },
