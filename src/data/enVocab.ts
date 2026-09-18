@@ -1005,7 +1005,7 @@ export const EN_CATEGORIES: EnCategory[] = [
 w('abide', 'abide', 'a-baid', 'tinggal/menaati', 'abc', 'pemula',
 'I abide here. | She abides here.',
 'Saya tinggal di sini. | Dia tinggal di sini.',
-'✅ V1 = abide → sekarang/kebiasaan | ✅ V2 = abode/abided → sudah lewat | ✅ V3 = abode/abided → sudah selesai'),
+'✅ V1 = abide → sekarang/kebiasaan | ✅ V2 = abode → sudah lewat | ✅ V3 = abode → sudah selesai. Aturan: V1: I/You/We/They=abide ✅ | He/She/It=abides +s ⚡ | V2 & V3: SEMUA SAMA ✅'),
 
       w('come', 'come', 'kam', 'datang', '🔤', 'pemula', 
 'I come often. | He comes often.', 
