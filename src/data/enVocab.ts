@@ -1204,6 +1204,107 @@ w('outdo', 'outdo', 'aut-du', 'mengungguli', 'o', 'pemula', 'I outdo myself. | S
 w('outgrow', 'outgrow', 'aut-gro', 'terlalu besar/berkembang melebihi', 'o', 'pemula', 'Children outgrow clothes. | He outgrows clothes.', 'Anak tumbuh melebihi pakaian. | Dia tumbuh melebihi pakaian.', 'V1 = outgrow → sekarang/kebiasaan | V2 = outgrew → sudah lewat/kemarin | V3 = outgrown → sudah selesai | Aturan: Saya/Kamu/Kita/Mereka = outgrow ✅ | Dia/Ia = outgrows (+s) ⚡ | V2 & V3 bentuknya TETAP, tidak berubah ✅'),
 
 w('outrun', 'outrun', 'aut-ran', 'berlari lebih cepat', 'o', 'pemula', 'I outrun them. | She outruns them.', 'Saya berlari lebih cepat. | Dia berlari lebih cepat.', 'V1 = outrun → sekarang/kebiasaan | V2 = outran → sudah lewat/kemarin | V3 = outrun → sudah selesai | Aturan: Saya/Kamu/Kita/Mereka = outrun ✅ | Dia/Ia = outruns (+s) ⚡ | V2 & V3 bentuknya TETAP, tidak berubah ✅'),       
+
+w('outsell', 'outsell', 'aut-sel', 'menjual lebih banyak', 'o', 'pemula', 'We outsell them. | She outsells them.', 'Kami menjual lebih banyak. | Dia menjual lebih banyak.', 'V1 = outsell → sekarang/kebiasaan | V2 = outsold → sudah lewat/kemarin | V3 = outsold → sudah selesai | Aturan: Saya/Kamu/Kita/Mereka = outsell ✅ | Dia/Ia = outsells (+s) ⚡ | V2 & V3 bentuknya TETAP, tidak berubah ✅'),
+
+w('overcast', 'overcast', 'o-ver-kast', 'menjadi mendung', 'o', 'pemula', 'Sky overcasts. | It overcasts.', 'Langit menjadi mendung. | Langit menjadi mendung.', 'V1 = overcast → sekarang/kebiasaan | V2 = overcast → sudah lewat/kemarin | V3 = overcast → sudah selesai | Aturan: Saya/Kamu/Kita/Mereka = overcast ✅ | Dia/Ia = overcasts (+s) ⚡ | V2 & V3 bentuknya TETAP, tidak berubah ✅'),
+
+w('overcome', 'overcome', 'o-ver-kam', 'mengatasi/mengalahkan', 'o', 'pemula', 'I overcome fear. | She overcomes fear.', 'Saya mengatasi rasa takut. | Dia mengatasi rasa takut.', 'V1 = overcome → sekarang/kebiasaan | V2 = overcame → sudah lewat/kemarin | V3 = overcome → sudah selesai | Aturan: Saya/Kamu/Kita/Mereka = overcome ✅ | Dia/Ia = overcomes (+s) ⚡ | V2 & V3 bentuknya TETAP, tidak berubah ✅'),
+
+w('overdo', 'overdo', 'o-ver-du', 'berlebihan', 'o', 'pemula', 'Don\'t overdo it. | She overdoes it.', 'Jangan berlebihan. | Dia berlebihan.', 'V1 = overdo → sekarang/kebiasaan | V2 = overdid → sudah lewat/kemarin | V3 = overdone → sudah selesai | Aturan: Saya/Kamu/Kita/Mereka = overdo ✅ | Dia/Ia = overdoes (+es) ⚡ | V2 & V3 bentuknya TETAP, tidak berubah ✅'),
+
+w('overdraw', 'overdraw', 'o-ver-dro', 'mengambil melebihi saldo', 'o', 'pemula', 'I overdraw funds. | He overdraws funds.', 'Saya menarik dana berlebih. | Dia menarik dana berlebih.', 'V1 = overdraw → sekarang/kebiasaan | V2 = overdrew → sudah lewat/kemarin | V3 = overdrawn → sudah selesai | Aturan: Saya/Kamu/Kita/Mereka = overdraw ✅ | Dia/Ia = overdraws (+s) ⚡ | V2 & V3 bentuknya TETAP, tidak berubah ✅'),
+
+w('overeat', 'overeat', 'o-ver-it', 'makan berlebihan', 'o', 'pemula', 'I overeat sometimes. | She overeats sometimes.', 'Saya kadang makan berlebih. | Dia kadang makan berlebih.', 'V1 = overeat → sekarang/kebiasaan | V2 = overate → sudah lewat/kemarin | V3 = overeaten → sudah selesai | Aturan: Saya/Kamu/Kita/Mereka = overeat ✅ | Dia/Ia = overeats (+s) ⚡ | V2 & V3 bentuknya TETAP, tidak berubah ✅'),
+
+w('overhang', 'overhang', 'o-ver-hang', 'menggantung ke bawah', 'o', 'pemula', 'Branches overhang. | It overhangs.', 'Dahan menjorok ke bawah. | Dahan menjorok ke bawah.', 'V1 = overhang → sekarang/kebiasaan | V2 = overhung → sudah lewat/kemarin | V3 = overhung → sudah selesai | Aturan: Saya/Kamu/Kita/Mereka = overhang ✅ | Dia/Ia = overhangs (+s) ⚡ | V2 & V3 bentuknya TETAP, tidak berubah ✅'),
+
+w('overhear', 'overhear', 'o-ver-hir', 'mendengar tidak sengaja', 'o', 'pemula', 'I overhear them. | She overhears them.', 'Saya tidak sengaja mendengar. | Dia tidak sengaja mendengar.', 'V1 = overhear → sekarang/kebiasaan | V2 = overheard → sudah lewat/kemarin | V3 = overheard → sudah selesai | Aturan: Saya/Kamu/Kita/Mereka = overhear ✅ | Dia/Ia = overhears (+s) ⚡ | V2 & V3 bentuknya TETAP, tidak berubah ✅'),
+
+w('overlay', 'overlay', 'o-ver-lei', 'melapisi', 'o', 'pemula', 'We overlay gold. | He overlays gold.', 'Kami melapisi emas. | Dia melapisi emas.', 'V1 = overlay → sekarang/kebiasaan | V2 = overlaid → sudah lewat/kemarin | V3 = overlaid → sudah selesai | Aturan: Saya/Kamu/Kita/Mereka = overlay ✅ | Dia/Ia = overlays (+s) ⚡ | V2 & V3 bentuknya TETAP, tidak berubah ✅'),
+
+w('overlie', 'overlie', 'o-ver-lai', 'terletak di atas', 'o', 'pemula', 'Rock overlies soil. | It overlies soil.', 'Batu menutupi tanah. | Batu menutupi tanah.', 'V1 = overlie → sekarang/kebiasaan | V2 = overlay → sudah lewat/kemarin | V3 = overlain → sudah selesai | Aturan: Saya/Kamu/Kita/Mereka = overlie ✅ | Dia/Ia = overlies (+s) ⚡ | V2 & V3 bentuknya TETAP, tidak berubah ✅'),
+
+w('overpay', 'overpay', 'o-ver-pei', 'membayar lebih', 'o', 'pemula', 'I overpay the bill. | She overpays the bill.', 'Saya membayar lebih. | Dia membayar lebih.', 'V1 = overpay → sekarang/kebiasaan | V2 = overpaid → sudah lewat/kemarin | V3 = overpaid → sudah selesai | Aturan: Saya/Kamu/Kita/Mereka = overpay ✅ | Dia/Ia = overpays (+s) ⚡ | V2 & V3 bentuknya TETAP, tidak berubah ✅'),
+
+w('override', 'override', 'o-ver-raid', 'mengabaikan/mengambil alih', 'o', 'pemula', 'I override the rule. | She overrides the rule.', 'Saya mengesampingkan aturan. | Dia mengesampingkan aturan.', 'V1 = override → sekarang/kebiasaan | V2 = overrode → sudah lewat/kemarin | V3 = overridden → sudah selesai | Aturan: Saya/Kamu/Kita/Mereka = override ✅ | Dia/Ia = overrides (+s) ⚡ | V2 & V3 bentuknya TETAP, tidak berubah ✅'),
+
+w('overrun', 'overrun', 'o-ver-ran', 'meluas/menaklukkan', 'o', 'pemula', 'We overrun the area. | It overruns the area.', 'Kami menguasai daerah itu. | Hal itu menguasai daerah itu.', 'V1 = overrun → sekarang/kebiasaan | V2 = overran → sudah lewat/kemarin | V3 = overrun → sudah selesai | Aturan: Saya/Kamu/Kita/Mereka = overrun ✅ | Dia/Ia = overruns (+s) ⚡ | V2 & V3 bentuknya TETAP, tidak berubah ✅'),
+
+w('oversee', 'oversee', 'o-ver-si', 'mengawasi', 'o', 'pemula', 'I oversee the work. | She oversees the work.', 'Saya mengawasi pekerjaan. | Dia mengawasi pekerjaan.', 'V1 = oversee → sekarang/kebiasaan | V2 = oversaw → sudah lewat/kemarin | V3 = overseen → sudah selesai | Aturan: Saya/Kamu/Kita/Mereka = oversee ✅ | Dia/Ia = oversees (+s) ⚡ | V2 & V3 bentuknya TETAP, tidak berubah ✅'),
+
+w('oversell', 'oversell', 'o-ver-sel', 'melebih-lebihkan', 'o', 'pemula', 'Don\'t oversell it. | He oversells it.', 'Jangan melebih-lebihkan. | Dia melebih-lebihkan.', 'V1 = oversell → sekarang/kebiasaan | V2 = oversold → sudah lewat/kemarin | V3 = oversold → sudah selesai | Aturan: Saya/Kamu/Kita/Mereka = oversell ✅ | Dia/Ia = oversells (+s) ⚡ | V2 & V3 bentuknya TETAP, tidak berubah ✅'),
+
+w('overshoot', 'overshoot', 'o-ver-syut', 'melampaui sasaran', 'o', 'pemula', 'I overshoot the mark. | He overshoots the mark.', 'Saya meleset melewati sasaran. | Dia meleset melewati sasaran.', 'V1 = overshoot → sekarang/kebiasaan | V2 = overshot → sudah lewat/kemarin | V3 = overshot → sudah selesai | Aturan: Saya/Kamu/Kita/Mereka = overshoot ✅ | Dia/Ia = overshoots (+s) ⚡ | V2 & V3 bentuknya TETAP, tidak berubah ✅'),
+
+w('oversleep', 'oversleep', 'o-ver-slip', 'terlambat bangun', 'o', 'pemula', 'I oversleep often. | She oversleeps often.', 'Saya sering kesiangan. | Dia sering kesiangan.', 'V1 = oversleep → sekarang/kebiasaan | V2 = overslept → sudah lewat/kemarin | V3 = overslept → sudah selesai | Aturan: Saya/Kamu/Kita/Mereka = oversleep ✅ | Dia/Ia = oversleeps (+s) ⚡ | V2 & V3 bentuknya TETAP, tidak berubah ✅'),
+
+w('overtake', 'overtake', 'o-ver-teik', 'menyusul/mengungguli', 'o', 'pemula', 'I overtake the car. | She overtakes the car.', 'Saya menyalip mobil itu. | Dia menyalip mobil itu.', 'V1 = overtake → sekarang/kebiasaan | V2 = overtook → sudah lewat/kemarin | V3 = overtaken → sudah selesai | Aturan: Saya/Kamu/Kita/Mereka = overtake ✅ | Dia/Ia = overtakes (+s) ⚡ | V2 & V3 bentuknya TETAP, tidak berubah ✅'),
+
+w('overthrow', 'overthrow', 'o-ver-tro', 'menggulingkan', 'o', 'pemula', 'They overthrow the rule. | It overthrows the rule.', 'Mereka menggulingkan kekuasaan. | Hal itu menggulingkan kekuasaan.', 'V1 = overthrow → sekarang/kebiasaan | V2 = overthrew → sudah lewat/kemarin | V3 = overthrown → sudah selesai | Aturan: Saya/Kamu/Kita/Mereka = overthrow ✅ | Dia/Ia = overthrows (+s) ⚡ | V2 & V3 bentuknya TETAP, tidak berubah ✅'),
+
+w('panic', 'panic', 'pa-nik', 'panik/ketakutan', 'p', 'pemula', 'Don\'t panic. | She panics easily.', 'Jangan panik. | Dia mudah panik.', 'V1 = panic → sekarang/kebiasaan | V2 = panicked → sudah lewat/kemarin | V3 = panicked → sudah selesai | Aturan: Saya/Kamu/Kita/Mereka = panic ✅ | Dia/Ia = panics (+s) ⚡ | V2 & V3 bentuknya TETAP, tidak berubah ✅'),
+
+w('partake', 'partake', 'par-teik', 'mengambil bagian/menikmati', 'p', 'pemula', 'We partake the meal. | She partakes the meal.', 'Kami ikut menikmati hidangan. | Dia ikut menikmati hidangan.', 'V1 = partake → sekarang/kebiasaan | V2 = partook → sudah lewat/kemarin | V3 = partaken → sudah selesai | Aturan: Saya/Kamu/Kita/Mereka = partake ✅ | Dia/Ia = partakes (+s) ⚡ | V2 & V3 bentuknya TETAP, tidak berubah ✅'),
+
+w('pay', 'pay', 'pei', 'membayar', 'p', 'pemula', 'I pay the bill. | She pays the bill.', 'Saya membayar tagihan. | Dia membayar tagihan.', 'V1 = pay → sekarang/kebiasaan | V2 = paid → sudah lewat/kemarin | V3 = paid → sudah selesai | Aturan: Saya/Kamu/Kita/Mereka = pay ✅ | Dia/Ia = pays (+s) ⚡ | V2 & V3 bentuknya TETAP, tidak berubah ✅'),
+
+w('pen', 'pen', 'pen', 'menulis/mengurung', 'p', 'pemula', 'I pen a letter. | He pens a letter.', 'Saya menulis surat. | Dia menulis surat.', 'V1 = pen → sekarang/kebiasaan | V2 = penned → sudah lewat/kemarin | V3 = penned → sudah selesai | Aturan: Saya/Kamu/Kita/Mereka = pen ✅ | Dia/Ia = pens (+s) ⚡ | V2 & V3 bentuknya TETAP, tidak berubah ✅'),
+
+w('plead', 'plead', 'plid', 'membela/memohon', 'p', 'pemula', 'I plead not guilty. | She pleads not guilty.', 'Saya mengaku tidak bersalah. | Dia mengaku tidak bersalah.', 'V1 = plead → sekarang/kebiasaan | V2 = pleaded → sudah lewat/kemarin | V3 = pleaded → sudah selesai | Aturan: Saya/Kamu/Kita/Mereka = plead ✅ | Dia/Ia = pleads (+s) ⚡ | V2 & V3 bentuknya TETAP, tidak berubah ✅'),
+
+w('proofread', 'proofread', 'pruf-rid', 'mengoreksi naskah', 'p', 'pemula', 'I proofread the text. | She proofreads the text.', 'Saya mengoreksi teks. | Dia mengoreksi teks.', 'V1 = proofread → sekarang/kebiasaan | V2 = proofread → sudah lewat/kemarin | V3 = proofread → sudah selesai | Aturan: Saya/Kamu/Kita/Mereka = proofread ✅ | Dia/Ia = proofreads (+s) ⚡ | V2 & V3 bentuknya TETAP, tidak berubah ✅'),
+
+w('prove', 'prove', 'pruv', 'membuktikan', 'p', 'pemula', 'I prove it true. | She proves it true.', 'Saya membuktikannya benar. | Dia membuktikannya benar.', 'V1 = prove → sekarang/kebiasaan | V2 = proved → sudah lewat/kemarin | V3 = proven → sudah selesai | Aturan: Saya/Kamu/Kita/Mereka = prove ✅ | Dia/Ia = proves (+s) ⚡ | V2 & V3 bentuknya TETAP, tidak berubah ✅'),
+
+w('put', 'put', 'put', 'meletakkan', 'p', 'pemula', 'I put it here. | She puts it here.', 'Saya menaruhnya di sini. | Dia menaruhnya di sini.', 'V1 = put → sekarang/kebiasaan | V2 = put → sudah lewat/kemarin | V3 = put → sudah selesai | Aturan: Saya/Kamu/Kita/Mereka = put ✅ | Dia/Ia = puts (+s) ⚡ | V2 & V3 bentuknya TETAP, tidak berubah ✅'),
+
+w('quit', 'quit', 'kuit', 'berhenti/keluar', 'q', 'pemula', 'I quit the job. | She quits the job.', 'Saya berhenti bekerja. | Dia berhenti bekerja.', 'V1 = quit → sekarang/kebiasaan | V2 = quit → sudah lewat/kemarin | V3 = quit → sudah selesai | Aturan: Saya/Kamu/Kita/Mereka = quit ✅ | Dia/Ia = quits (+s) ⚡ | V2 & V3 bentuknya TETAP, tidak berubah ✅'),
+
+w('read', 'read', 'rid', 'membaca', 'r', 'pemula', 'I read books. | She reads books.', 'Saya membaca buku. | Dia membaca buku.', 'V1 = read → sekarang/kebiasaan | V2 = read → sudah lewat/kemarin | V3 = read → sudah selesai | Aturan: Saya/Kamu/Kita/Mereka = read ✅ | Dia/Ia = reads (+s) ⚡ | V2 & V3 bentuknya TETAP, tidak berubah ✅'),
+
+w('reave', 'reave', 'riv', 'merampok/mengambil paksa', 'r', 'pemula', 'They reave the gold. | He reaves the gold.', 'Mereka merampok emas. | Dia merampok emas.', 'V1 = reave → sekarang/kebiasaan | V2 = reft → sudah lewat/kemarin | V3 = reft → sudah selesai | Aturan: Saya/Kamu/Kita/Mereka = reave ✅ | Dia/Ia = reaves (+s) ⚡ | V2 & V3 bentuknya TETAP, tidak berubah ✅'),
+
+w('rebind', 'rebind', 're-baind', 'mengikat ulang/mengganti sampul', 'r', 'pemula', 'I rebind the book. | She rebinds the book.', 'Saya menyampul ulang buku. | Dia menyampul ulang buku.', 'V1 = rebind → sekarang/kebiasaan | V2 = rebound → sudah lewat/kemarin | V3 = rebound → sudah selesai | Aturan: Saya/Kamu/Kita/Mereka = rebind ✅ | Dia/Ia = rebinds (+s) ⚡ | V2 & V3 bentuknya TETAP, tidak berubah ✅'),
+
+w('rebuild', 'rebuild', 're-bild', 'membangun kembali', 'r', 'pemula', 'We rebuild the house. | She rebuilds the house.', 'Kami membangun kembali rumah. | Dia membangun kembali rumah.', 'V1 = rebuild → sekarang/kebiasaan | V2 = rebuilt → sudah lewat/kemarin | V3 = rebuilt → sudah selesai | Aturan: Saya/Kamu/Kita/Mereka = rebuild ✅ | Dia/Ia = rebuilds (+s) ⚡ | V2 & V3 bentuknya TETAP, tidak berubah ✅'),
+
+w('recast', 'recast', 're-kast', 'mencetak ulang/menyusun ulang', 'r', 'pemula', 'I recast the plan. | He recasts the plan.', 'Saya menyusun ulang rencana. | Dia menyusun ulang rencana.', 'V1 = recast → sekarang/kebiasaan | V2 = recast → sudah lewat/kemarin | V3 = recast → sudah selesai | Aturan: Saya/Kamu/Kita/Mereka = recast ✅ | Dia/Ia = recasts (+s) ⚡ | V2 & V3 bentuknya TETAP, tidak berubah ✅'),
+
+w('redo', 'redo', 're-du', 'mengerjakan ulang', 'r', 'pemula', 'I redo the work. | She redoes the work.', 'Saya mengerjakan ulang. | Dia mengerjakan ulang.', 'V1 = redo → sekarang/kebiasaan | V2 = redid → sudah lewat/kemarin | V3 = redone → sudah selesai | Aturan: Saya/Kamu/Kita/Mereka = redo ✅ | Dia/Ia = redoes (+es) ⚡ | V2 & V3 bentuknya TETAP, tidak berubah ✅'),
+
+w('relay', 'relay', 're-lei', 'menyampaikan/meneruskan', 'r', 'pemula', 'I relay the message. | She relays the message.', 'Saya menyampaikan pesan. | Dia menyampaikan pesan.', 'V1 = relay → sekarang/kebiasaan | V2 = relayed → sudah lewat/kemarin | V3 = relayed → sudah selesai | Aturan: Saya/Kamu/Kita/Mereka = relay ✅ | Dia/Ia = relays (+s) ⚡ | V2 & V3 bentuknya TETAP, tidak berubah ✅'),
+
+w('remake', 'remake', 're-meik', 'membuat ulang', 'r', 'pemula', 'I remake the bed. | She remakes the bed.', 'Saya merapikan tempat tidur. | Dia merapikan tempat tidur.', 'V1 = remake → sekarang/kebiasaan | V2 = remade → sudah lewat/kemarin | V3 = remade → sudah selesai | Aturan: Saya/Kamu/Kita/Mereka = remake ✅ | Dia/Ia = remakes (+s) ⚡ | V2 & V3 bentuknya TETAP, tidak berubah ✅'),
+
+w('rend', 'rend', 'rend', 'merobek/memecah', 'r', 'pemula', 'Waves rend the rock. | It rends the rock.', 'Ombak menghantam karang. | Ombak menghantam karang.', 'V1 = rend → sekarang/kebiasaan | V2 = rent → sudah lewat/kemarin | V3 = rent → sudah selesai | Aturan: Saya/Kamu/Kita/Mereka = rend ✅ | Dia/Ia = rends (+s) ⚡ | V2 & V3 bentuknya TETAP, tidak berubah ✅'),
+
+w('repay', 'repay', 're-pei', 'membayar kembali', 'r', 'pemula', 'I repay the loan. | She repays the loan.', 'Saya melunasi hutang. | Dia melunasi hutang.', 'V1 = repay → sekarang/kebiasaan | V2 = repaid → sudah lewat/kemarin | V3 = repaid → sudah selesai | Aturan: Saya/Kamu/Kita/Mereka = repay ✅ | Dia/Ia = repays (+s) ⚡ | V2 & V3 bentuknya TETAP, tidak berubah ✅'),
+
+w('rerun', 'rerun', 're-ran', 'menjalankan ulang', 'r', 'pemula', 'I rerun the test. | He reruns the test.', 'Saya menjalankan ulang ujian. | Dia menjalankan ulang ujian.', 'V1 = rerun → sekarang/kebiasaan | V2 = reran → sudah lewat/kemarin | V3 = rerun → sudah selesai | Aturan: Saya/Kamu/Kita/Mereka = rerun ✅ | Dia/Ia = reruns (+s) ⚡ | V2 & V3 bentuknya TETAP, tidak berubah ✅'),
+
+w('resell', 'resell', 're-sel', 'menjual kembali', 'r', 'pemula', 'I resell the item. | She resells the item.', 'Saya menjual kembali barang itu. | Dia menjual kembali barang itu.', 'V1 = resell → sekarang/kebiasaan | V2 = resold → sudah lewat/kemarin | V3 = resold → sudah selesai | Aturan: Saya/Kamu/Kita/Mereka = resell ✅ | Dia/Ia = resells (+s) ⚡ | V2 & V3 bentuknya TETAP, tidak berubah ✅'),
+
+w('reset', 'reset', 're-set', 'mengatur ulang', 'r', 'pemula', 'I reset the clock. | He resets the clock.', 'Saya menyetel ulang jam. | Dia menyetel ulang jam.', 'V1 = reset → sekarang/kebiasaan | V2 = reset → sudah lewat/kemarin | V3 = reset → sudah selesai | Aturan: Saya/Kamu/Kita/Mereka = reset ✅ | Dia/Ia = resets (+s) ⚡ | V2 & V3 bentuknya TETAP, tidak berubah ✅'),
+
+w('rethink', 'rethink', 're-tingk', 'memikirkan kembali', 'r', 'pemula', 'I rethink the plan. | She rethinks the plan.', 'Saya memikirkan ulang rencana. | Dia memikirkan ulang rencana.', 'V1 = rethink → sekarang/kebiasaan | V2 = rethought → sudah lewat/kemarin | V3 = rethought → sudah selesai | Aturan: Saya/Kamu/Kita/Mereka = rethink ✅ | Dia/Ia = rethinks (+s) ⚡ | V2 & V3 bentuknya TETAP, tidak berubah ✅'),
+
+w('rewind', 'rewind', 're-waind', 'memutar balik', 'r', 'pemula', 'I rewind the tape. | He rewinds the tape.', 'Saya memutar balik pita. | Dia memutar balik pita.', 'V1 = rewind → sekarang/kebiasaan | V2 = rewound → sudah lewat/kemarin | V3 = rewound → sudah selesai | Aturan: Saya/Kamu/Kita/Mereka = rewind ✅ | Dia/Ia = rewinds (+s) ⚡ | V2 & V3 bentuknya TETAP, tidak berubah ✅'),
+
+w('rewrite', 'rewrite', 're-rait', 'menulis ulang', 'r', 'pemula', 'I rewrite the text. | She rewrites the text.', 'Saya menulis ulang teks. | Dia menulis ulang teks.', 'V1 = rewrite → sekarang/kebiasaan | V2 = rewrote → sudah lewat/kemarin | V3 = rewritten → sudah selesai | Aturan: Saya/Kamu/Kita/Mereka = rewrite ✅ | Dia/Ia = rewrites (+s) ⚡ | V2 & V3 bentuknya TETAP, tidak berubah ✅'),
+
+w('rid', 'rid', 'rid', 'menyingkirkan', 'r', 'pemula', 'I rid the room of dust. | She rids the room of dust.', 'Saya membersihkan debu ruangan. | Dia membersihkan debu ruangan.', 'V1 = rid → sekarang/kebiasaan | V2 = rid → sudah lewat/kemarin | V3 = rid → sudah selesai | Aturan: Saya/Kamu/Kita/Mereka = rid ✅ | Dia/Ia = rids (+s) ⚡ | V2 & V3 bentuknya TETAP, tidak berubah ✅'),
+
+w('ride', 'ride', 'raid', 'mengendarai/menunggangi', 'r', 'pemula', 'I ride a bike. | She rides a bike.', 'Saya naik sepeda. | Dia naik sepeda.', 'V1 = ride → sekarang/kebiasaan | V2 = rode → sudah lewat/kemarin | V3 = ridden → sudah selesai | Aturan: Saya/Kamu/Kita/Mereka = ride ✅ | Dia/Ia = rides (+s) ⚡ | V2 & V3 bentuknya TETAP, tidak berubah ✅'),
+
+w('ring', 'ring', 'ring', 'berdering/memanggil', 'r', 'pemula', 'Phone rings. | The phone rings.', 'Telepon berdering. | Telepon berdering.', 'V1 = ring → sekarang/kebiasaan | V2 = rang → sudah lewat/kemarin | V3 = rung → sudah selesai | Aturan: Saya/Kamu/Kita/Mereka = ring ✅ | Dia/Ia = rings (+s) ⚡ | V2 & V3 bentuknya TETAP, tidak berubah ✅'),
+
+w('rise', 'rise', 'raiz', 'naik/muncul', 'r', 'pemula', 'Sun rises. | The sun rises.', 'Matahari terbit. | Matahari terbit.', 'V1 = rise → sekarang/kebiasaan | V2 = rose → sudah lewat/kemarin | V3 = risen → sudah selesai | Aturan: Saya/Kamu/Kita/Mereka = rise ✅ | Dia/Ia = rises (+s) ⚡ | V2 & V3 bentuknya TETAP, tidak berubah ✅'),
+
+w('rive', 'rive', 'raiv', 'memisahkan/merobek', 'r', 'pemula', 'Fire rives the wood. | It rives the wood.', 'Api membelah kayu. | Api membelah kayu.', 'V1 = rive → sekarang/kebiasaan | V2 = rived → sudah lewat/kemarin | V3 = riven → sudah selesai | Aturan: Saya/Kamu/Kita/Mereka = rive ✅ | Dia/Ia = rives (+s) ⚡ | V2 & V3 bentuknya TETAP, tidak berubah ✅'),
+
+w('run', 'run', 'ran', 'berlari', 'r', 'pemula', 'I run fast. | She runs fast.', 'Saya berlari cepat. | Dia berlari cepat.', 'V1 = run → sekarang/kebiasaan | V2 = ran → sudah lewat/kemarin | V3 = run → sudah selesai | Aturan: Saya/Kamu/Kita/Mereka = run ✅ | Dia/Ia = runs (+s) ⚡ | V2 & V3 bentuknya TETAP, tidak berubah ✅'),
+        
     ]
   },
 ]
