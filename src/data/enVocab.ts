@@ -1002,10 +1002,10 @@ export const EN_CATEGORIES: EnCategory[] = [
     color: '#E3F2FD',
     color2: '#BBDEFB',
     words: [
-      w('go', 'go', 'go', 'pergi', '🔤', 'pemula', 
-'I go every day. | She goes every day.', 
-'Saya pergi setiap hari. | Dia pergi setiap hari.', 
-'✅ V1 = go   → sekarang/kebiasaan | ✅ V2 = went → sudah lewat | ✅ V3 = gone → sudah selesai. Aturan: V1: I/You/We/They=go ✅ | He/She/It=goes +s ⚡ | V2 & V3: SEMUA SAMA ✅'),
+w('abide', 'abide', 'a-baid', 'tinggal/menaati', 'abc', 'pemula',
+'I abide here. | She abides here.',
+'Saya tinggal di sini. | Dia tinggal di sini.',
+'✅ V1 = abide → sekarang/kebiasaan | ✅ V2 = abode/abided → sudah lewat | ✅ V3 = abode/abided → sudah selesai'),
 
       w('come', 'come', 'kam', 'datang', '🔤', 'pemula', 
 'I come often. | He comes often.', 
