@@ -483,7 +483,7 @@ w('Great Grandparents', 'Great Grandparents', 'greit gran-pa-rents', 'kakek nene
 'Our great grandparents came before us.',
 'Kakek nenek buyut mendahului kita.', 'Orang tua dari kakek dan nenek.'),
 
-w('Ancestor', 'Ancestor', 'an-ses-tor', 'leluhur/moyang', '📜', 'lanjut',
+w('Ancestor', 'Ancestor', 'an-ses-tor', 'leluhur/moyang', '📜', 'mahir',
 'We honor our ancestors.',
 'Kita menghormati leluhur kita.', 'Orang yang hidup jauh sebelum kita lahir.'),
 
@@ -519,15 +519,15 @@ w('Granddaughter', 'Granddaughter', 'gran-do-ter', 'cucu perempuan', '👧', 'me
 'Their granddaughter is beautiful.',
 'Cucu perempuan mereka cantik.', 'Anak perempuan dari anak kita.'),
 
-w('Great Grandchild', 'Great Grandchild', 'greit gran-caild', 'cicit', '🍼', 'lanjut',
+w('Great Grandchild', 'Great Grandchild', 'greit gran-caild', 'cicit', '🍼', 'mahir',
 'The great grandchild brings joy.',
 'Si cicit membawa kebahagiaan.', 'Anak dari cucu kita.'),
 
-w('Great Grandson', 'Great Grandson', 'greit gran-san', 'cicit laki-laki', '👶', 'lanjut',
+w('Great Grandson', 'Great Grandson', 'greit gran-san', 'cicit laki-laki', '👶', 'mahir',
 'Their great grandson is growing.',
 'Cicit laki-laki mereka tumbuh sehat.', 'Anak laki-laki dari cucu kita.'),
 
-w('Great Granddaughter', 'Great Granddaughter', 'greit gran-do-ter', 'cicit perempuan', '👶', 'lanjut',
+w('Great Granddaughter', 'Great Granddaughter', 'greit gran-do-ter', 'cicit perempuan', '👶', 'mahir',
 'Their great granddaughter is lovely.',
 'Cicit perempuan mereka manis.', 'Anak perempuan dari cucu kita.'),
 
@@ -567,19 +567,19 @@ w('Sister in Law', 'Sister in Law', 'sis-ter in lo', 'ipar perempuan', '👩', '
 'My sister in law is warm.',
 'Ipar perempuan saya ramah.', 'Saudara perempuan dari pasangan atau istri saudara laki-laki.'),
 
-w('First Cousin', 'First Cousin', 'ferst ka-zen', 'sepupu dekat', '🧒', 'lanjut',
+w('First Cousin', 'First Cousin', 'ferst ka-zen', 'sepupu dekat', '🧒', 'mahir',
 'My first cousin is like a sibling.',
 'Sepupu dekat saya seperti saudara kandung.', 'Anak dari paman atau bibi.'),
 
-w('Second Cousin', 'Second Cousin', 'se-kond ka-zen', 'sepupu jauh', '🧒', 'lanjut',
+w('Second Cousin', 'Second Cousin', 'se-kond ka-zen', 'sepupu jauh', '🧒', 'mahir',
 'My second cousin is also family.',
 'Sepupu jauh juga keluarga.', 'Anak dari sepupu orang tua kita.'),
 
-w('Close Relatives', 'Close Relatives', 'klos re-la-tivs', 'kerabat dekat', '👨‍👩‍👧‍👦', 'lanjut',
+w('Close Relatives', 'Close Relatives', 'klos re-la-tivs', 'kerabat dekat', '👨‍👩‍👧‍👦', 'mahir',
 'Close relatives help each other.',
 'Kerabat dekat saling menolong.', 'Keluarga yang hubungannya erat.'),
 
-w('Distant Relative', 'Distant Relative', 'dis-tant re-la-tiv', 'kerabat jauh', '📬', 'lanjut',
+w('Distant Relative', 'Distant Relative', 'dis-tant re-la-tiv', 'kerabat jauh', '📬', 'mahir',
 'A distant relative is still family.',
 'Kerabat jauh tetap keluarga.', 'Keluarga yang hubungannya agak jauh.')
     ],
