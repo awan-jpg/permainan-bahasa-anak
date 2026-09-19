@@ -53,7 +53,7 @@ export const EN_CATEGORIES: EnCategory[] = [
     color: '#FF9F1C',
     color2: '#FFE8C7',
     words: [
-      w('cat', 'cat', 'ket', 'kucing', '🐱', 'pemula', 'The cat is sleeping.', 'Kucing itu sedang tidur.', 'Kucing tidur sampai 16 jam sehari!'),
+      w('Aardvark', 'Aardvark', 'ard-vark', 'babi hutan afrika', '🐽', 'pemula', 'An aardvark digs fast.', 'Babi hutan afrika menggali dengan cepat.', 'Hewan pemakan semut dari Afrika.'),
       w('dog', 'dog', 'dog', 'anjing', '🐶', 'pemula', 'My dog can run fast.', 'Anjingku bisa lari cepat.', 'Anjing bisa mencium bau 1.000 kali lebih tajam dari manusia.'),
       w('bird', 'bird', 'berd', 'burung', '🐦', 'pemula', 'A bird can fly.', 'Burung bisa terbang.', 'Beberapa burung bisa menirukan suara manusia!'),
       w('fish', 'fish', 'fisy', 'ikan', '🐟', 'pemula', 'The fish lives in water.', 'Ikan hidup di air.', 'Ikan tidur dengan mata terbuka karena tidak punya kelopak mata.'),
