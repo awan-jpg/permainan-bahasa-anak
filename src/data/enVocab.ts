@@ -1902,6 +1902,21 @@ w('write', 'write', 'rait', 'menulis', 'w', 'pemula', 'I write a letter. | She w
         
     ]
   },
+  {
+  id: 'kata-kerja-beraturan',
+  title: 'Kata Kerja Beraturan',
+  emoji: '📝',
+  color: '#E8F5E9',
+  color2: '#C8E6C9',
+  words: [
+
+    w('work', 'work', 'werk', 'bekerja', 'w', 'pemula',
+      'I work every day.',
+      'Saya bekerja setiap hari.',
+      'V1 = work → sekarang/kebiasaan | V2 = worked → sudah lewat/kemarin | V3 = worked → sudah selesai | BERATURAN: V2 & V3 sama, tambah -ed | Aturan: I/You/We/They = work | He/She/It = works (+s)'),
+
+  ]
+},  
 ]
 export const LEVELS: { id: Level; label: string; emoji: string }[] = [
   { id: 'pemula', label: 'Pemula', emoji: '🌱' },
