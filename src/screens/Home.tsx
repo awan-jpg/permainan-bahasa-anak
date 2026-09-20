@@ -88,27 +88,6 @@ export function Home({
             🧠 {stats.strong} kata kuat dari {stats.seen} dipelajari · ketepatan{' '}
            {stats.accuracy}%
       </p>
-{/* === BILAH KEMAJUAN === */}
-<div style={{ marginTop: '12px', marginBottom: '4px' }}>
-  <div style={{
-    height: '12px',
-    backgroundColor: '#e9ecef',
-    borderRadius: '6px',
-    overflow: 'hidden'
-  }}>
-    <div style={{
-      height: '100%',
-      width: `${stats.accuracy}%`
-      backgroundColor: '#28a745',
-      borderRadius: '6px',
-      transition: 'width 0.5s ease'
-    }} />
-  </div>
-  <p style={{ fontSize: '13px', marginTop: '6px', marginBottom: '0', color: '#495057' }}>
-    📊 {stats.strong} / {stats.seen} kata dikuasai
-  </p>
-</div>
-
 {/* === TARGET HARIAN === */}
 <div style={{ 
   padding: '10px 14px', 
