@@ -1910,11 +1910,260 @@ w('write', 'write', 'rait', 'menulis', 'w', 'pemula', 'I write a letter. | She w
   color2: '#C8E6C9',
   words: [
 
-    w('work', 'work', 'werk', 'bekerja', 'w', 'pemula',
-      'I work every day.',
-      'Saya bekerja setiap hari.',
-      'V1 = work → sekarang/kebiasaan | V2 = worked → sudah lewat/kemarin | V3 = worked → sudah selesai | BERATURAN: V2 & V3 sama, tambah -ed | Aturan: I/You/We/They = work | He/She/It = works (+s)'),
+w('accept', 'accept', 'ak-sept', 'menerima', 'a', 'pemula',
+  'I accept your help. | She accepts your help.',
+  'Saya menerima bantuanmu. | Dia menerima bantuanmu.',
+  '✅ V1 = accept → sekarang/kebiasaan | V2 = accepted → sudah lewat/kemarin | V3 = accepted → sudah selesai | BERATURAN: V2 & V3 sama, tambah -ed ✅ | Aturan: I/You/We/They = accept ✅ | He/She/It = accepts (+s) ⚡'),
 
+w('add', 'add', 'ad', 'menambah', 'a', 'pemula',
+  'I add sugar. | She adds sugar.',
+  'Saya menambah gula. | Dia menambah gula.',
+  '✅ V1 = add → sekarang/kebiasaan | V2 = added → sudah lewat/kemarin | V3 = added → sudah selesai | BERATURAN: V2 & V3 sama, tambah -ed ✅ | Aturan: I/You/We/They = add ✅ | He/She/It = adds (+s) ⚡'),
+
+w('admire', 'admire', 'ad-mair', 'mengagumi', 'a', 'menengah',
+  'I admire her. | He admires her.',
+  'Saya mengaguminya. | Dia mengaguminya.',
+  '✅ V1 = admire → sekarang/kebiasaan | V2 = admired → sudah lewat/kemarin | V3 = admired → sudah selesai | BERATURAN: V2 & V3 sama, tambah -d ✅ | Aturan: I/You/We/They = admire ✅ | He/She/It = admires (+s) ⚡'),
+
+w('admit', 'admit', 'ad-mit', 'mengakui', 'a', 'pemula',
+  'I admit my mistake. | He admits his mistake.',
+  'Saya mengakui kesalahanku. | Dia mengakui kesalahannya.',
+  '✅ V1 = admit → sekarang/kebiasaan | V2 = admitted → sudah lewat/kemarin | V3 = admitted → sudah selesai | BERATURAN: V2 & V3 sama, tambah -ed ✅ | Aturan: I/You/We/They = admit ✅ | He/She/It = admits (+s) ⚡'),
+
+w('advise', 'advise', 'ad-vaiz', 'menasihati', 'a', 'menengah',
+  'I advise him. | She advises him.',
+  'Saya menasihatinya. | Dia menasihatinya.',
+  '✅ V1 = advise → sekarang/kebiasaan | V2 = advised → sudah lewat/kemarin | V3 = advised → sudah selesai | BERATURAN: V2 & V3 sama, tambah -d ✅ | Aturan: I/You/We/They = advise ✅ | He/She/It = advises (+s) ⚡'),
+w('afford', 'afford', 'a-ford', 'mampu membeli', 'a', 'menengah',
+  'We can afford it. | He can afford it.',
+  'Kita mampu membelinya. | Dia mampu membelinya.',
+  '✅ V1 = afford → sekarang/kebiasaan | V2 = afforded → sudah lewat/kemarin | V3 = afforded → sudah selesai | BERATURAN: V2 & V3 sama, tambah -ed ✅ | Aturan: I/You/We/They = afford ✅ | He/She/It = affords (+s) ⚡'),
+
+w('agree', 'agree', 'a-gri', 'setuju', 'a', 'pemula',
+  'I agree with you. | She agrees with you.',
+  'Saya setuju denganmu. | Dia setuju denganmu.',
+  '✅ V1 = agree → sekarang/kebiasaan | V2 = agreed → sudah lewat/kemarin | V3 = agreed → sudah selesai | BERATURAN: V2 & V3 sama, tambah -d ✅ | Aturan: I/You/We/They = agree ✅ | He/She/It = agrees (+s) ⚡'),
+
+w('alert', 'alert', 'a-lert', 'memberi peringatan', 'a', 'menengah',
+  'I alert them. | The bell alerts them.',
+  'Saya memberi mereka peringatan. | Lonceng memberi mereka peringatan.',
+  '✅ V1 = alert → sekarang/kebiasaan | V2 = alerted → sudah lewat/kemarin | V3 = alerted → sudah selesai | BERATURAN: V2 & V3 sama, tambah -ed ✅ | Aturan: I/You/We/They = alert ✅ | He/She/It = alerts (+s) ⚡'),
+
+w('allow', 'allow', 'a-lau', 'mengizinkan', 'a', 'pemula',
+  'They allow us. | He allows us.',
+  'Mereka mengizinkan kita. | Dia mengizinkan kita.',
+  '✅ V1 = allow → sekarang/kebiasaan | V2 = allowed → sudah lewat/kemarin | V3 = allowed → sudah selesai | BERATURAN: V2 & V3 sama, tambah -ed ✅ | Aturan: I/You/We/They = allow ✅ | He/She/It = allows (+s) ⚡'),
+
+w('amuse', 'amuse', 'a-miuz', 'menghibur', 'a', 'menengah',
+  'We amuse the child. | The story amuses the child.',
+  'Kita menghibur anak itu. | Cerita itu menghibur anak itu.',
+  '✅ V1 = amuse → sekarang/kebiasaan | V2 = amused → sudah lewat/kemarin | V3 = amused → sudah selesai | BERATURAN: V2 & V3 sama, tambah -d ✅ | Aturan: I/You/We/They = amuse ✅ | He/She/It = amuses (+s) ⚡'),
+w('announce', 'announce', 'a-nauns', 'mengumumkan', 'a', 'menengah',
+  'I announce the result. | She announces the result.',
+  'Saya mengumumkan hasilnya. | Dia mengumumkan hasilnya.',
+  '✅ V1 = announce → sekarang/kebiasaan | V2 = announced → sudah lewat/kemarin | V3 = announced → sudah selesai | BERATURAN: V2 & V3 sama, tambah -d ✅ | Aturan: I/You/We/They = announce ✅ | He/She/It = announces (+s) ⚡'),
+
+w('annoy', 'annoy', 'a-noi', 'mengganggu/membuat kesal', 'a', 'pemula',
+  'Noise annoys me. | The noise annoys me.',
+  'Suara bising menggangguku. | Suara bising itu menggangguku.',
+  '✅ V1 = annoy → sekarang/kebiasaan | V2 = annoyed → sudah lewat/kemarin | V3 = annoyed → sudah selesai | BERATURAN: V2 & V3 sama, tambah -ed ✅ | Aturan: I/You/We/They = annoy ✅ | He/She/It = annoys (+s) ⚡'),
+
+w('answer', 'answer', 'an-ser', 'menjawab', 'a', 'pemula',
+  'I answer the question. | She answers the question.',
+  'Saya menjawab pertanyaan itu. | Dia menjawab pertanyaan itu.',
+  '✅ V1 = answer → sekarang/kebiasaan | V2 = answered → sudah lewat/kemarin | V3 = answered → sudah selesai | BERATURAN: V2 & V3 sama, tambah -ed ✅ | Aturan: I/You/We/They = answer ✅ | He/She/It = answers (+s) ⚡'),
+
+w('apologise', 'apologise', 'a-po-lo-jaiz', 'meminta maaf', 'a', 'pemula',
+  'I apologise for being late. | She apologises for being late.',
+  'Saya meminta maaf karena terlambat. | Dia meminta maaf karena terlambat.',
+  '✅ V1 = apologise → sekarang/kebiasaan | V2 = apologised → sudah lewat/kemarin | V3 = apologised → sudah selesai | BERATURAN: V2 & V3 sama, tambah -d ✅ | Aturan: I/You/We/They = apologise ✅ | He/She/It = apologises (+s) ⚡'),
+
+w('appear', 'appear', 'a-pir', 'muncul/tampak', 'a', 'menengah',
+  'Stars appear at night. | A star appears at night.',
+  'Bintang muncul di malam hari. | Sebuah bintang muncul di malam hari.',
+  '✅ V1 = appear → sekarang/kebiasaan | V2 = appeared → sudah lewat/kemarin | V3 = appeared → sudah selesai | BERATURAN: V2 & V3 sama, tambah -ed ✅ | Aturan: I/You/We/They = appear ✅ | He/She/It = appears (+s) ⚡'),
+
+w('appreciate', 'appreciate', 'a-pri-si-eit', 'menghargai', 'a', 'mahir',
+  'I appreciate your help. | He appreciates your help.',
+  'Saya menghargai bantuanmu. | Dia menghargai bantuanmu.',
+  '✅ V1 = appreciate → sekarang/kebiasaan | V2 = appreciated → sudah lewat/kemarin | V3 = appreciated → sudah selesai | BERATURAN: V2 & V3 sama, tambah -d ✅ | Aturan: I/You/We/They = appreciate ✅ | He/She/It = appreciates (+s) ⚡'),
+
+w('approve', 'approve', 'a-pruv', 'menyetujui', 'a', 'menengah',
+  'Parents approve our plan. | Father approves our plan.',
+  'Orang tua menyetujui rencana kita. | Ayah menyetujui rencana kita.',
+  '✅ V1 = approve → sekarang/kebiasaan | V2 = approved → sudah lewat/kemarin | V3 = approved → sudah selesai | BERATURAN: V2 & V3 sama, tambah -d ✅ | Aturan: I/You/We/They = approve ✅ | He/She/It = approves (+s) ⚡'),
+
+w('argue', 'argue', 'ar-gyu', 'berdebat/bertengkar', 'a', 'pemula',
+  'They argue about money. | He argues about money.',
+  'Mereka bertengkar soal uang. | Dia bertengkar soal uang.',
+  '✅ V1 = argue → sekarang/kebiasaan | V2 = argued → sudah lewat/kemarin | V3 = argued → sudah selesai | BERATURAN: V2 & V3 sama, tambah -d ✅ | Aturan: I/You/We/They = argue ✅ | He/She/It = argues (+s) ⚡'),
+
+w('arrest', 'arrest', 'a-rest', 'menangkap', 'a', 'menengah',
+  'Police arrest the thief. | The police arrest the thief.',
+  'Polisi menangkap pencuri itu. | Polisi menangkap pencuri itu.',
+  '✅ V1 = arrest → sekarang/kebiasaan | V2 = arrested → sudah lewat/kemarin | V3 = arrested → sudah selesai | BERATURAN: V2 & V3 sama, tambah -ed ✅ | Aturan: I/You/We/They = arrest ✅ | He/She/It = arrests (+s) ⚡'),
+
+w('arrive', 'arrive', 'a-raiv', 'tiba', 'a', 'pemula',
+  'We arrive at school early. | She arrives at school early.',
+  'Kita tiba di sekolah lebih awal. | Dia tiba di sekolah lebih awal.',
+  '✅ V1 = arrive → sekarang/kebiasaan | V2 = arrived → sudah lewat/kemarin | V3 = arrived → sudah selesai | BERATURAN: V2 & V3 sama, tambah -d ✅ | Aturan: I/You/We/They = arrive ✅ | He/She/It = arrives (+s) ⚡'),
+
+w('ask', 'ask', 'ask', 'bertanya/meminta', 'a', 'pemula',
+  'I ask the teacher. | She asks the teacher.',
+  'Saya bertanya kepada guru. | Dia bertanya kepada guru.',
+  '✅ V1 = ask → sekarang/kebiasaan | V2 = asked → sudah lewat/kemarin | V3 = asked → sudah selesai | BERATURAN: V2 & V3 sama, tambah -ed ✅ | Aturan: I/You/We/They = ask ✅ | He/She/It = asks (+s) ⚡'),
+
+w('attach', 'attach', 'a-tach', 'menempelkan/melampirkan', 'a', 'menengah',
+  'Attach the file. | He attaches the file.',
+  'Lampirkan berkas itu. | Dia melampirkan berkas itu.',
+  '✅ V1 = attach → sekarang/kebiasaan | V2 = attached → sudah lewat/kemarin | V3 = attached → sudah selesai | BERATURAN: V2 & V3 sama, tambah -ed ✅ | Aturan: I/You/We/They = attach ✅ | He/She/It = attaches (+s) ⚡'),
+
+w('attack', 'attack', 'a-tak', 'menyerang', 'a', 'menengah',
+  'The wolf attacks the sheep. | The wolf attacks the sheep.',
+  'Serigala menyerang domba itu. | Serigala menyerang domba itu.',
+  '✅ V1 = attack → sekarang/kebiasaan | V2 = attacked → sudah lewat/kemarin | V3 = attacked → sudah selesai | BERATURAN: V2 & V3 sama, tambah -ed ✅ | Aturan: I/You/We/They = attack ✅ | He/She/It = attacks (+s) ⚡'),
+
+w('attend', 'attend', 'a-tend', 'menghadiri/hadir', 'a', 'menengah',
+  'We attend a meeting. | He attends a meeting.',
+  'Kita menghadiri rapat. | Dia menghadiri rapat.',
+  '✅ V1 = attend → sekarang/kebiasaan | V2 = attended → sudah lewat/kemarin | V3 = attended → sudah selesai | BERATURAN: V2 & V3 sama, tambah -ed ✅ | Aturan: I/You/We/They = attend ✅ | He/She/It = attends (+s) ⚡'),
+
+w('attract', 'attract', 'a-trakt', 'menarik/perhatian', 'a', 'menengah',
+  'Magnets attract iron. | A magnet attracts iron.',
+  'Magnet menarik besi. | Sebuah magnet menarik besi.',
+  '✅ V1 = attract → sekarang/kebiasaan | V2 = attracted → sudah lewat/kemarin | V3 = attracted → sudah selesai | BERATURAN: V2 & V3 sama, tambah -ed ✅ | Aturan: I/You/We/They = attract ✅ | He/She/It = attracts (+s) ⚡'),
+
+w('avoid', 'avoid', 'a-void', 'menghindari', 'a', 'menengah',
+  'Avoid the busy road. | He avoids the busy road.',
+  'Hindari jalan yang ramai itu. | Dia menghindari jalan yang ramai itu.',
+  '✅ V1 = avoid → sekarang/kebiasaan | V2 = avoided → sudah lewat/kemarin | V3 = avoided → sudah selesai | BERATURAN: V2 & V3 sama, tambah -ed ✅ | Aturan: I/You/We/They = avoid ✅ | He/She/It = avoids (+s) ⚡'),
+
+w('back', 'back', 'bak', 'mendukung/mundur', 'b', 'pemula',
+  'I back my friend. | She backs her friend.',
+  'Saya mendukung temanku. | Dia mendukung temannya.',
+  '✅ V1 = back → sekarang/kebiasaan | V2 = backed → sudah lewat/kemarin | V3 = backed → sudah selesai | BERATURAN: V2 & V3 sama, tambah -ed ✅ | Aturan: I/You/We/They = back ✅ | He/She/It = backs (+s) ⚡'),
+
+w('bake', 'bake', 'beik', 'memanggang', 'b', 'pemula',
+  'She bakes bread every morning. | My mother bakes bread every morning.',
+  'Dia memanggang roti setiap pagi. | Ibuku memanggang roti setiap pagi.',
+  '✅ V1 = bake → sekarang/kebiasaan | V2 = baked → sudah lewat/kemarin | V3 = baked → sudah selesai | BERATURAN: V2 & V3 sama, tambah -d ✅ | Aturan: I/You/We/They = bake ✅ | He/She/It = bakes (+s) ⚡'),
+
+w('balance', 'balance', 'ba-lans', 'menyeimbangkan', 'b', 'menengah',
+  'We balance on one leg. | He balances on one leg.',
+  'Kita menyeimbangkan diri dengan satu kaki. | Dia menyeimbangkan diri dengan satu kaki.',
+  '✅ V1 = balance → sekarang/kebiasaan | V2 = balanced → sudah lewat/kemarin | V3 = balanced → sudah selesai | BERATURAN: V2 & V3 sama, tambah -d ✅ | Aturan: I/You/We/They = balance ✅ | He/She/It = balances (+s) ⚡'),
+
+w('ban', 'ban', 'ban', 'melarang/melarang masuk', 'b', 'menengah',
+  'They ban smoking here. | The law bans smoking here.',
+  'Mereka melarang merokok di sini. | Hukum melarang merokok di sini.',
+  '✅ V1 = ban → sekarang/kebiasaan | V2 = banned → sudah lewat/kemarin | V3 = banned → sudah selesai | BERATURAN: ganda huruf akhir +ed ✅ | Aturan: I/You/We/They = ban ✅ | He/She/It = bans (+s) ⚡'),
+
+w('bath', 'bath', 'baf', 'memandikan', 'b', 'pemula',
+  'Mother baths the baby. | Mother baths the baby.',
+  'Ibu memandikan bayi itu. | Ibu memandikan bayi itu.',
+  '✅ V1 = bath → sekarang/kebiasaan | V2 = bathed → sudah lewat/kemarin | V3 = bathed → sudah selesai | BERATURAN: V2 & V3 sama, tambah -ed ✅ | Aturan: I/You/We/They = bath ✅ | He/She/It = baths (+s) ⚡'),
+
+w('beam', 'beam', 'bim', 'bersinar/tersenyum lebar', 'b', 'menengah',
+  'Her face beams with joy. | Her face beams with joy.',
+  'Wajahnya bersinar karena gembira. | Wajahnya bersinar karena gembira.',
+  '✅ V1 = beam → sekarang/kebiasaan | V2 = beamed → sudah lewat/kemarin | V3 = beamed → sudah selesai | BERATURAN: V2 & V3 sama, tambah -ed ✅ | Aturan: I/You/We/They = beam ✅ | He/She/It = beams (+s) ⚡'),
+
+w('beg', 'beg', 'beg', 'memohon/mengemis', 'b', 'pemula',
+  'He begs for food. | The child begs for food.',
+  'Dia memohon makanan. | Anak itu memohon makanan.',
+  '✅ V1 = beg → sekarang/kebiasaan | V2 = begged → sudah lewat/kemarin | V3 = begged → sudah selesai | BERATURAN: ganda huruf akhir +ed ✅ | Aturan: I/You/We/They = beg ✅ | He/She/It = begs (+s) ⚡'),
+
+w('behave', 'behave', 'bi-heiv', 'berperilaku/sikap', 'b', 'menengah',
+  'Children behave well. | The child behaves well.',
+  'Anak-anak berperilaku baik. | Anak itu berperilaku baik.',
+  '✅ V1 = behave → sekarang/kebiasaan | V2 = behaved → sudah lewat/kemarin | V3 = behaved → sudah selesai | BERATURAN: V2 & V3 sama, tambah -d ✅ | Aturan: I/You/We/They = behave ✅ | He/She/It = behaves (+s) ⚡'),
+
+w('belong', 'belong', 'bi-long', 'milik/kepunyaan', 'b', 'menengah',
+  'This book belongs to me. | This book belongs to me.',
+  'Buku ini milik saya. | Buku ini milik saya.',
+  '✅ V1 = belong → sekarang/kebiasaan | V2 = belonged → sudah lewat/kemarin | V3 = belonged → sudah selesai | BERATURAN: V2 & V3 sama, tambah -ed ✅ | Aturan: I/You/We/They = belong ✅ | He/She/It = belongs (+s) ⚡'),
+
+w('bless', 'bless', 'bles', 'memberkati', 'b', 'menengah',
+  'God bless you. | God blesses you.',
+  'Tuhan memberkatimu. | Tuhan memberkatimu.',
+  '✅ V1 = bless → sekarang/kebiasaan | V2 = blessed → sudah lewat/kemarin | V3 = blessed → sudah selesai | BERATURAN: V2 & V3 sama, tambah -ed ✅ | Aturan: I/You/We/They = bless ✅ | He/She/It = blesses (+s) ⚡'),
+
+w('blind', 'blind', 'blaind', 'membuat buta/menutup pandangan', 'b', 'menengah',
+  'Bright light blinds me. | Bright light blinds me.',
+  'Cahaya terang membuatku silau. | Cahaya terang itu membuatku silau.',
+  '✅ V1 = blind → sekarang/kebiasaan | V2 = blinded → sudah lewat/kemarin | V3 = blinded → sudah selesai | BERATURAN: V2 & V3 sama, tambah -ed ✅ | Aturan: I/You/We/They = blind ✅ | He/She/It = blinds (+s) ⚡'),
+
+w('blink', 'blink', 'blink', 'berkedip', 'b', 'pemula',
+  'She blinks her eyes. | She blinks her eyes.',
+  'Dia mengedipkan matanya. | Dia mengedipkan matanya.',
+  '✅ V1 = blink → sekarang/kebiasaan | V2 = blinked → sudah lewat/kemarin | V3 = blinked → sudah selesai | BERATURAN: V2 & V3 sama, tambah -ed ✅ | Aturan: I/You/We/They = blink ✅ | He/She/It = blinks (+s) ⚡'),
+
+w('blush', 'blush', 'blas', 'tersipu-sipu/memerah pipi', 'b', 'pemula',
+  'She blushes when praised. | She blushes when praised.',
+  'Dia tersipu saat dipuji. | Dia tersipu saat dipuji.',
+  '✅ V1 = blush → sekarang/kebiasaan | V2 = blushed → sudah lewat/kemarin | V3 = blushed → sudah selesai | BERATURAN: V2 & V3 sama, tambah -ed ✅ | Aturan: I/You/We/They = blush ✅ | He/She/It = blushes (+s) ⚡'),
+
+w('boast', 'boast', 'boust', 'bermegah-megah', 'b', 'menengah',
+  'He boasts about his wealth. | He boasts about his wealth.',
+  'Dia bermegah-megah soal hartanya. | Dia bermegah-megah soal hartanya.',
+  '✅ V1 = boast → sekarang/kebiasaan | V2 = boasted → sudah lewat/kemarin | V3 = boasted → sudah selesai | BERATURAN: V2 & V3 sama, tambah -ed ✅ | Aturan: I/You/We/They = boast ✅ | He/She/It = boasts (+s) ⚡'),
+
+w('boil', 'boil', 'boil', 'mendidih/merebus', 'b', 'pemula',
+  'Water boils at 100°C. | Water boils at 100°C.',
+  'Air mendidih pada suhu 100 derajat Celcius. | Air mendidih pada suhu 100 derajat Celcius.',
+  '✅ V1 = boil → sekarang/kebiasaan | V2 = boiled → sudah lewat/kemarin | V3 = boiled → sudah selesai | BERATURAN: V2 & V3 sama, tambah -ed ✅ | Aturan: I/You/We/They = boil ✅ | He/She/It = boils (+s) ⚡'),
+
+w('book', 'book', 'buk', 'memesan/membukukan', 'b', 'pemula',
+  'I book a ticket. | She books a ticket.',
+  'Saya memesan tiket. | Dia memesan tiket.',
+  '✅ V1 = book → sekarang/kebiasaan | V2 = booked → sudah lewat/kemarin | V3 = booked → sudah selesai | BERATURAN: ganda huruf akhir +ed ✅ | Aturan: I/You/We/They = book ✅ | He/She/It = books (+s) ⚡'),
+
+w('borrow', 'borrow', 'bo-rou', 'meminjam', 'b', 'pemula',
+  'I borrow a pen from her. | He borrows a pen from her.',
+  'Saya meminjam pulpen darinya. | Dia meminjam pulpen darinya.',
+  '✅ V1 = borrow → sekarang/kebiasaan | V2 = borrowed → sudah lewat/kemarin | V3 = borrowed → sudah selesai | BERATURAN: V2 & V3 sama, tambah -ed ✅ | Aturan: I/You/We/They = borrow ✅ | He/She/It = borrows (+s) ⚡'),
+
+w('bounce', 'bounce', 'bauns', 'memantul/membuat memantul', 'b', 'pemula',
+  'The ball bounces high. | The ball bounces high.',
+  'Bola itu memantul tinggi. | Bola itu memantul tinggi.',
+  '✅ V1 = bounce → sekarang/kebiasaan | V2 = bounced → sudah lewat/kemarin | V3 = bounced → sudah selesai | BERATURAN: V2 & V3 sama, tambah -d ✅ | Aturan: I/You/We/They = bounce ✅ | He/She/It = bounces (+s) ⚡'),
+
+w('bow', 'bow', 'bau', 'membungkuk/melambai', 'b', 'menengah',
+  'We bow to show respect. | He bows to show respect.',
+  'Kita membungkuk untuk menunjukkan hormat. | Dia membungkuk untuk menunjukkan hormat.',
+  '✅ V1 = bow → sekarang/kebiasaan | V2 = bowed → sudah lewat/kemarin | V3 = bowed → sudah selesai | BERATURAN: V2 & V3 sama, tambah -ed ✅ | Aturan: I/You/We/They = bow ✅ | He/She/It = bows (+s) ⚡'),
+
+w('brake', 'brake', 'breik', 'mengerem', 'b', 'menengah',
+  'The driver brakes suddenly. | The driver brakes suddenly.',
+  'Pengemudi itu mengerem mendadak. | Pengemudi itu mengerem mendadak.',
+  '✅ V1 = brake → sekarang/kebiasaan | V2 = braked → sudah lewat/kemarin | V3 = braked → sudah selesai | BERATURAN: V2 & V3 sama, tambah -d ✅ | Aturan: I/You/We/They = brake ✅ | He/She/It = brakes (+s) ⚡'),
+
+w('breathe', 'breathe', 'bri-d', 'bernapas', 'b', 'pemula',
+  'We breathe fresh air. | She breathes fresh air.',
+  'Kita bernapas udara segar. | Dia bernapas udara segar.',
+  '✅ V1 = breathe → sekarang/kebiasaan | V2 = breathed → sudah lewat/kemarin | V3 = breathed → sudah selesai | BERATURAN: V2 & V3 sama, tambah -d ✅ | Aturan: I/You/We/They = breathe ✅ | He/She/It = breathes (+s) ⚡'),
+
+w('bump', 'bump', 'bamp', 'menabrak/menyentuh pelan', 'b', 'pemula',
+  'I bump into the wall. | He bumps into the wall.',
+  'Saya menabrak dinding. | Dia menabrak dinding.',
+  '✅ V1 = bump → sekarang/kebiasaan | V2 = bumped → sudah lewat/kemarin | V3 = bumped → sudah selesai | BERATURAN: ganda huruf akhir +ed ✅ | Aturan: I/You/We/They = bump ✅ | He/She/It = bumps (+s) ⚡'),
+
+w('burn', 'burn', 'bern', 'membakar/terbakar', 'b', 'pemula',
+  'Fire burns wood. | Fire burns wood.',
+  'Api membakar kayu. | Api membakar kayu.',
+  '✅ V1 = burn → sekarang/kebiasaan | V2 = burned/burnt → sudah lewat/kemarin | V3 = burned/burnt → sudah selesai | BERATURAN: V2 & V3 sama, tambah -ed ✅ | Aturan: I/You/We/They = burn ✅ | He/She/It = burns (+s) ⚡'),
+
+w('bury', 'bury', 'be-ri', 'mengubur', 'b', 'menengah',
+  'They bury the treasure. | He buries the treasure.',
+  'Mereka mengubur harta karun itu. | Dia mengubur harta karun itu.',
+  '✅ V1 = bury → sekarang/kebiasaan | V2 = buried → sudah lewat/kemarin | V3 = buried → sudah selesai | BERATURAN: y→i +ed ✅ | Aturan: I/You/We/They = bury ✅ | He/She/It = buries (+s) ⚡'),
+
+w('call', 'call', 'kol', 'memanggil/menelpon', 'c', 'pemula',
+  'I call my friend. | She calls her friend.',
+  'Saya memanggil temanku. | Dia memanggil temannya.',
+  '✅ V1 = call → sekarang/kebiasaan | V2 = called → sudah lewat/kemarin | V3 = called → sudah selesai | BERATURAN: V2 & V3 sama, tambah -ed ✅ | Aturan: I/You/We/They = call ✅ | He/She/It = calls (+s) ⚡'),
+      
+  
   ]
 },  
 ]
