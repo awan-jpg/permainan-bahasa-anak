@@ -107,6 +107,24 @@ export function Home({
   <p style={{ fontSize: '13px', marginTop: '6px', marginBottom: '0', color: '#495057' }}>
     📊 {stats.strong} / {stats.seen} kata dikuasai
   </p>
+    {/* === TARGET HARIAN === */}
+  <div style={{
+    padding: '12px 16px',
+    backgroundColor: '#fff3cd',
+    borderRadius: '10px',
+    marginTop: '16px'
+  }}>
+    <p style={{ margin: 0, fontSize: '15px', fontWeight: 600, color: '#856404' }}>
+      🎯 Target Hari Ini
+    </p>
+    <p style={{ margin: '6px 0 0 0', fontSize: '14px', color: '#856404' }}>
+      {stats.seen >= 10 
+        ? '🎉 Hebat! Target 10 kata tercapai!' 
+        : ${stats.seen} / 10 kata — ayo lanjut! 💪}
+    </p>
+  </div>
+
+</div>
 </div>
         {/* === BILAH KEMAJUAN === */}
 <div style={{ marginTop: '12px', marginBottom: '4px' }}>
