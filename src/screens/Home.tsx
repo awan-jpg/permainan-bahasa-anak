@@ -88,9 +88,6 @@ export function Home({
             🧠 {stats.strong} kata kuat dari {stats.seen} dipelajari · ketepatan{' '}
             {stats.accuracy}%
       </p>
-      <p style={{marginTop: '10px', fontSize: '14px'}}>
-📊 Kemajuan: {stats.strong} / {stats.seen} kata
-</p>
        )}
       </TutorBubble>
 
