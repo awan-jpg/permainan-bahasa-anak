@@ -2567,6 +2567,420 @@ w('hate', 'hate', 'heit', 'benci', 'h', 'pemula',
   'Saya benci kebohongan. | Dia benci kebohongan.',
   '✅ V1 = hate → sekarang/kebiasaan | V2 = hated → sudah lewat/kemarin | V3 = hated → sudah selesai | BERATURAN: V2 & V3 sama, tambah -d ✅ | Aturan: I/You/We/They = hate ✅ | He/She/It = hates (+s) ⚡'),
 
+w('heal', 'heal', 'hil', 'menyembuhkan/sembuh', 'h', 'menengah',
+  'Time heals all wounds. | Time heals all wounds.',
+  'Waktu menyembuhkan segala luka. | Waktu menyembuhkan segala luka.',
+  '✅ V1 = heal → sekarang/kebiasaan | V2 = healed → sudah lewat/kemarin | V3 = healed → sudah selesai | BERATURAN: V2 & V3 sama, tambah -d ✅ | Aturan: I/You/We/They = heal ✅ | He/She/It = heals (+s) ⚡'),
+
+w('help', 'help', 'help', 'membantu', 'h', 'pemula',
+  'I help my mother. | She helps her mother.',
+  'Saya membantu ibuku. | Dia membantu ibunya.',
+  '✅ V1 = help → sekarang/kebiasaan | V2 = helped → sudah lewat/kemarin | V3 = helped → sudah selesai | BERATURAN: V2 & V3 sama, tambah -ed ✅ | Aturan: I/You/We/They = help ✅ | He/She/It = helps (+s) ⚡'),
+
+w('hesitate', 'hesitate', 'he-zi-teit', 'ragu-ragu/menunda', 'h', 'menengah',
+  'Do not hesitate to ask. | He hesitates to ask.',
+  'Jangan ragu untuk bertanya. | Dia ragu untuk bertanya.',
+  '✅ V1 = hesitate → sekarang/kebiasaan | V2 = hesitated → sudah lewat/kemarin | V3 = hesitated → sudah selesai | BERATURAN: V2 & V3 sama, tambah -d ✅ | Aturan: I/You/We/They = hesitate ✅ | He/She/It = hesitates (+s) ⚡'),
+
+w('hide', 'hide', 'haid', 'menyembunyi/menyembunyikan', 'h', 'pemula',
+  'I hide behind the tree. | She hides behind the tree.',
+  'Saya bersembunyi di balik pohon. | Dia bersembunyi di balik pohon.',
+  '✅ V1 = hide → sekarang/kebiasaan | V2 = hid → sudah lewat/kemarin | V3 = hidden → sudah selesai | BERATURAN: TIDAK beraturan ✅ | Aturan: I/You/We/They = hide ✅ | He/She/It = hides (+s) ⚡'),
+
+w('hope', 'hope', 'houp', 'berharap', 'h', 'pemula',
+  'I hope you come. | She hopes you come.',
+  'Saya berharap kamu datang. | Dia berharap kamu datang.',
+  '✅ V1 = hope → sekarang/kebiasaan | V2 = hoped → sudah lewat/kemarin | V3 = hoped → sudah selesai | BERATURAN: V2 & V3 sama, tambah -d ✅ | Aturan: I/You/We/They = hope ✅ | He/She/It = hopes (+s) ⚡'),
+
+w('hug', 'hug', 'hag', 'memeluk', 'h', 'pemula',
+  'I hug my friend. | She hugs her friend.',
+  'Saya memeluk temanku. | Dia memeluk temannya.',
+  '✅ V1 = hug → sekarang/kebiasaan | V2 = hugged → sudah lewat/kemarin | V3 = hugged → sudah selesai | BERATURAN: ganda huruf akhir +ed ✅ | Aturan: I/You/We/They = hug ✅ | He/She/It = hugs (+s) ⚡'),
+
+w('hurry', 'hurry', 'ha-ri', 'bergegas/memburu', 'h', 'pemula',
+  'We hurry to school. | He hurries to school.',
+  'Kita bergegas ke sekolah. | Dia bergegas ke sekolah.',
+  '✅ V1 = hurry → sekarang/kebiasaan | V2 = hurried → sudah lewat/kemarin | V3 = hurried → sudah selesai | BERATURAN: y→i +ed ✅ | Aturan: I/You/We/They = hurry ✅ | He/She/It = hurries (+s) ⚡'),
+
+w('identify', 'identify', 'ai-den-ti-fai', 'mengenali/mengidentifikasi', 'i', 'menengah',
+  'I identify the problem. | She identifies the problem.',
+  'Saya mengenali masalahnya. | Dia mengenali masalahnya.',
+  '✅ V1 = identify → sekarang/kebiasaan | V2 = identified → sudah lewat/kemarin | V3 = identified → sudah selesai | BERATURAN: y→i +ed ✅ | Aturan: I/You/We/They = identify ✅ | He/She/It = identifies (+s) ⚡'),
+
+w('ignore', 'ignore', 'ig-nor', 'mengabaikan', 'i', 'menengah',
+  'Do not ignore me. | He ignores me.',
+  'Jangan abaikan aku. | Dia mengabaikanku.',
+  '✅ V1 = ignore → sekarang/kebiasaan | V2 = ignored → sudah lewat/kemarin | V3 = ignored → sudah selesai | BERATURAN: V2 & V3 sama, tambah -d ✅ | Aturan: I/You/We/They = ignore ✅ | He/She/It = ignores (+s) ⚡'),
+
+w('imagine', 'imagine', 'i-ma-jin', 'membayangkan', 'i', 'pemula',
+  'I imagine a bright future. | She imagines a bright future.',
+  'Saya membayangkan masa depan yang cerah. | Dia membayangkan masa depan yang cerah.',
+  '✅ V1 = imagine → sekarang/kebiasaan | V2 = imagined → sudah lewat/kemarin | V3 = imagined → sudah selesai | BERATURAN: V2 & V3 sama, tambah -d ✅ | Aturan: I/You/We/They = imagine ✅ | He/She/It = imagines (+s) ⚡'),
+
+w('improve', 'improve', 'im-pruv', 'memperbaiki/meningkatkan', 'i', 'menengah',
+  'I want to improve. | She wants to improve.',
+  'Saya ingin berkembang. | Dia ingin berkembang.',
+  '✅ V1 = improve → sekarang/kebiasaan | V2 = improved → sudah lewat/kemarin | V3 = improved → sudah selesai | BERATURAN: V2 & V3 sama, tambah -d ✅ | Aturan: I/You/We/They = improve ✅ | He/She/It = improves (+s) ⚡'),
+
+w('include', 'include', 'in-klud', 'menyertakan/termasuk', 'i', 'menengah',
+  'The price includes tax. | The price includes tax.',
+  'Harga itu sudah termasuk pajak. | Harga itu sudah termasuk pajak.',
+  '✅ V1 = include → sekarang/kebiasaan | V2 = included → sudah lewat/kemarin | V3 = included → sudah selesai | BERATURAN: V2 & V3 sama, tambah -d ✅ | Aturan: I/You/We/They = include ✅ | He/She/It = includes (+s) ⚡'),
+
+w('increase', 'increase', 'in-kris', 'menaikkan/bertambah', 'i', 'menengah',
+  'Prices increase every year. | The price increases every year.',
+  'Harga naik setiap tahun. | Harga itu naik setiap tahun.',
+  '✅ V1 = increase → sekarang/kebiasaan | V2 = increased → sudah lewat/kemarin | V3 = increased → sudah selesai | BERATURAN: V2 & V3 sama, tambah -d ✅ | Aturan: I/You/We/They = increase ✅ | He/She/It = increases (+s) ⚡'),
+
+w('inform', 'inform', 'in-form', 'memberi tahu', 'i', 'menengah',
+  'Please inform me. | She informs me.',
+  'Tolong beri tahu saya. | Dia memberi tahu saya.',
+  '✅ V1 = inform → sekarang/kebiasaan | V2 = informed → sudah lewat/kemarin | V3 = informed → sudah selesai | BERATURAN: V2 & V3 sama, tambah -ed ✅ | Aturan: I/You/We/They = inform ✅ | He/She/It = informs (+s) ⚡'),
+
+w('insist', 'insist', 'in-sist', 'menegaskan/bersikeras', 'i', 'menengah',
+  'I insist on helping. | He insists on helping.',
+  'Saya bersikeras ingin membantu. | Dia bersikeras ingin membantu.',
+  '✅ V1 = insist → sekarang/kebiasaan | V2 = insisted → sudah lewat/kemarin | V3 = insisted → sudah selesai | BERATURAN: V2 & V3 sama, tambah -ed ✅ | Aturan: I/You/We/They = insist ✅ | He/She/It = insists (+s) ⚡'),
+
+w('invite', 'invite', 'in-vait', 'mengundang/mengajak', 'i', 'pemula',
+  'I invite my friends. | She invites her friends.',
+  'Saya mengundang teman-temanku. | Dia mengundang teman-temannya.',
+  '✅ V1 = invite → sekarang/kebiasaan | V2 = invited → sudah lewat/kemarin | V3 = invited → sudah selesai | BERATURAN: V2 & V3 sama, tambah -d ✅ | Aturan: I/You/We/They = invite ✅ | He/She/It = invites (+s) ⚡'),
+
+w('join', 'join', 'join', 'bergabung/menyertai', 'j', 'pemula',
+  'I join the club. | She joins the club.',
+  'Saya bergabung dengan klub itu. | Dia bergabung dengan klub itu.',
+  '✅ V1 = join → sekarang/kebiasaan | V2 = joined → sudah lewat/kemarin | V3 = joined → sudah selesai | BERATURAN: V2 & V3 sama, tambah -ed ✅ | Aturan: I/You/We/They = join ✅ | He/She/It = joins (+s) ⚡'),
+
+w('judge', 'judge', 'jaj', 'menilai/mengadili', 'j', 'menengah',
+  'Do not judge others. | He judges others.',
+  'Jangan menilai orang lain. | Dia menilai orang lain.',
+  '✅ V1 = judge → sekarang/kebiasaan | V2 = judged → sudah lewat/kemarin | V3 = judged → sudah selesai | BERATURAN: V2 & V3 sama, tambah -d ✅ | Aturan: I/You/We/They = judge ✅ | He/She/It = judges (+s) ⚡'),
+
+w('jump', 'jump', 'jamp', 'melompat', 'j', 'pemula',
+  'I jump high. | She jumps high.',
+  'Saya melompat tinggi. | Dia melompat tinggi.',
+  '✅ V1 = jump → sekarang/kebiasaan | V2 = jumped → sudah lewat/kemarin | V3 = jumped → sudah selesai | BERATURAN: V2 & V3 sama, tambah -ed ✅ | Aturan: I/You/We/They = jump ✅ | He/She/It = jumps (+s) ⚡'),
+
+w('keep', 'keep', 'kip', 'menyimpan/menjaga', 'k', 'pemula',
+  'I keep my promise. | She keeps her promise.',
+  'Saya menepati janji saya. | Dia menepati janjinya.',
+  '✅ V1 = keep → sekarang/kebiasaan | V2 = kept → sudah lewat/kemarin | V3 = kept → sudah selesai | BERATURAN: TIDAK beraturan ✅ | Aturan: I/You/We/They = keep ✅ | He/She/It = keeps (+s) ⚡'),
+
+w('kick', 'kick', 'kik', 'menendang', 'k', 'pemula',
+  'I kick the ball. | He kicks the ball.',
+  'Saya menendang bola. | Dia menendang bola.',
+  '✅ V1 = kick → sekarang/kebiasaan | V2 = kicked → sudah lewat/kemarin | V3 = kicked → sudah selesai | BERATURAN: V2 & V3 sama, tambah -ed ✅ | Aturan: I/You/We/They = kick ✅ | He/She/It = kicks (+s) ⚡'),
+
+w('kill', 'kill', 'kil', 'membunuh', 'k', 'pemula',
+  'Fire kills many plants. | Frost kills many plants.',
+  'Api membunuh banyak tanaman. | Embun beku membunuh banyak tanaman.',
+  '✅ V1 = kill → sekarang/kebiasaan | V2 = killed → sudah lewat/kemarin | V3 = killed → sudah selesai | BERATURAN: V2 & V3 sama, tambah -ed ✅ | Aturan: I/You/We/They = kill ✅ | He/She/It = kills (+s) ⚡'),
+
+w('kiss', 'kiss', 'kis', 'mencium', 'k', 'pemula',
+  'I kiss my mother. | She kisses her mother.',
+  'Saya mencium ibuku. | Dia mencium ibunya.',
+  '✅ V1 = kiss → sekarang/kebiasaan | V2 = kissed → sudah lewat/kemarin | V3 = kissed → sudah selesai | BERATURAN: V2 & V3 sama, tambah -ed ✅ | Aturan: I/You/We/They = kiss ✅ | He/She/It = kisses (+s) ⚡'),
+
+w('knock', 'knock', 'nok', 'mengetuk', 'k', 'pemula',
+  'I knock at the door. | She knocks at the door.',
+  'Saya mengetuk pintu. | Dia mengetuk pintu.',
+  '✅ V1 = knock → sekarang/kebiasaan | V2 = knocked → sudah lewat/kemarin | V3 = knocked → sudah selesai | BERATURAN: V2 & V3 sama, tambah -ed ✅ | Aturan: I/You/We/They = knock ✅ | He/She/It = knocks (+s) ⚡'),
+
+w('know', 'know', 'nou', 'tahu/mengenal', 'k', 'pemula',
+  'I know the answer. | She knows the answer.',
+  'Saya tahu jawabannya. | Dia tahu jawabannya.',
+  '✅ V1 = know → sekarang/kebiasaan | V2 = knew → sudah lewat/kemarin | V3 = known → sudah selesai | BERATURAN: TIDAK beraturan ✅ | Aturan: I/You/We/They = know ✅ | He/She/It = knows (+s) ⚡'),
+
+w('laugh', 'laugh', 'laf', 'tertawa', 'l', 'pemula',
+  'We laugh together. | She laughs together.',
+  'Kita tertawa bersama. | Dia tertawa bersama.',
+  '✅ V1 = laugh → sekarang/kebiasaan | V2 = laughed → sudah lewat/kemarin | V3 = laughed → sudah selesai | BERATURAN: V2 & V3 sama, tambah -ed ✅ | Aturan: I/You/We/They = laugh ✅ | He/She/It = laughs (+s) ⚡'),
+
+w('learn', 'learn', 'lern', 'belajar', 'l', 'pemula',
+  'I learn English every day. | She learns English every day.',
+  'Saya belajar bahasa Inggris setiap hari. | Dia belajar bahasa Inggris setiap hari.',
+  '✅ V1 = learn → sekarang/kebiasaan | V2 = learned/learnt → sudah lewat/kemarin | V3 = learned/learnt → sudah selesai | BERATURAN: Bisa beraturan +ed ✅ | Aturan: I/You/We/They = learn ✅ | He/She/It = learns (+s) ⚡'),
+
+w('leave', 'leave', 'liv', 'pergi/meninggalkan', 'l', 'pemula',
+  'I leave home at 7. | She leaves home at 7.',
+  'Saya berangkat pukul 7. | Dia berangkat pukul 7.',
+  '✅ V1 = leave → sekarang/kebiasaan | V2 = left → sudah lewat/kemarin | V3 = left → sudah selesai | BERATURAN: TIDAK beraturan ✅ | Aturan: I/You/We/They = leave ✅ | He/She/It = leaves (+s) ⚡'),
+
+w('lend', 'lend', 'lend', 'meminjamkan', 'l', 'menengah',
+  'I lend him money. | She lends him money.',
+  'Saya meminjamkan uang padanya. | Dia meminjamkan uang padanya.',
+  '✅ V1 = lend → sekarang/kebiasaan | V2 = lent → sudah lewat/kemarin | V3 = lent → sudah selesai | BERATURAN: TIDAK beraturan ✅ | Aturan: I/You/We/They = lend ✅ | He/She/It = lends (+s) ⚡'),
+
+w('like', 'like', 'laik', 'suka', 'l', 'pemula',
+  'I like apples. | She likes apples.',
+  'Saya suka apel. | Dia suka apel.',
+  '✅ V1 = like → sekarang/kebiasaan | V2 = liked → sudah lewat/kemarin | V3 = liked → sudah selesai | BERATURAN: V2 & V3 sama, tambah -d ✅ | Aturan: I/You/We/They = like ✅ | He/She/It = likes (+s) ⚡'),
+
+w('listen', 'listen', 'li-sen', 'mendengarkan', 'l', 'pemula',
+  'I listen to music. | She listens to music.',
+  'Saya mendengarkan musik. | Dia mendengarkan musik.',
+  '✅ V1 = listen → sekarang/kebiasaan | V2 = listened → sudah lewat/kemarin | V3 = listened → sudah selesai | BERATURAN: V2 & V3 sama, tambah -ed ✅ | Aturan: I/You/We/They = listen ✅ | He/She/It = listens (+s) ⚡'),
+
+w('live', 'live', 'liv', 'hidup/tinggal', 'l', 'pemula',
+  'I live in Mojokerto. | She lives in Mojokerto.',
+  'Saya tinggal di Mojokerto. | Dia tinggal di Mojokerto.',
+  '✅ V1 = live → sekarang/kebiasaan | V2 = lived → sudah lewat/kemarin | V3 = lived → sudah selesai | BERATURAN: V2 & V3 sama, tambah -d ✅ | Aturan: I/You/We/They = live ✅ | He/She/It = lives (+s) ⚡'),
+
+w('look', 'look', 'luk', 'melihat/tampak', 'l', 'pemula',
+  'I look at the sky. | She looks at the sky.',
+  'Saya melihat langit. | Dia melihat langit.',
+  '✅ V1 = look → sekarang/kebiasaan | V2 = looked → sudah lewat/kemarin | V3 = looked → sudah selesai | BERATURAN: V2 & V3 sama, tambah -ed ✅ | Aturan: I/You/We/They = look ✅ | He/She/It = looks (+s) ⚡'),
+
+w('love', 'love', 'lav', 'mencintai', 'l', 'pemula',
+  'I love my family. | She loves her family.',
+  'Saya mencintai keluargaku. | Dia mencintai keluarganya.',
+  '✅ V1 = love → sekarang/kebiasaan | V2 = loved → sudah lewat/kemarin | V3 = loved → sudah selesai | BERATURAN: V2 & V3 sama, tambah -d ✅ | Aturan: I/You/We/They = love ✅ | He/She/It = loves (+s) ⚡'),
+
+w('make', 'make', 'meik', 'membuat', 'm', 'pemula',
+  'I make a cake. | She makes a cake.',
+  'Saya membuat kue. | Dia membuat kue.',
+  '✅ V1 = make → sekarang/kebiasaan | V2 = made → sudah lewat/kemarin | V3 = made → sudah selesai | BERATURAN: TIDAK beraturan ✅ | Aturan: I/You/We/They = make ✅ | He/She/It = makes (+s) ⚡'),
+
+w('meet', 'meet', 'mit', 'bertemu', 'm', 'pemula',
+  'I meet my friend. | She meets her friend.',
+  'Saya bertemu temanku. | Dia bertemu temannya.',
+  '✅ V1 = meet → sekarang/kebiasaan | V2 = met → sudah lewat/kemarin | V3 = met → sudah selesai | BERATURAN: TIDAK beraturan ✅ | Aturan: I/You/We/They = meet ✅ | He/She/It = meets (+s) ⚡'),
+
+w('move', 'move', 'muv', 'bergerak/pindah', 'm', 'pemula',
+  'I move the table. | She moves the table.',
+  'Saya menggerakkan meja. | Dia menggerakkan meja.',
+  '✅ V1 = move → sekarang/kebiasaan | V2 = moved → sudah lewat/kemarin | V3 = moved → sudah selesai | BERATURAN: V2 & V3 sama, tambah -d ✅ | Aturan: I/You/We/They = move ✅ | He/She/It = moves (+s) ⚡'),
+
+w('need', 'need', 'nid', 'membutuhkan', 'n', 'pemula',
+  'I need water. | She needs water.',
+  'Saya butuh air. | Dia butuh air.',
+  '✅ V1 = need → sekarang/kebiasaan | V2 = needed → sudah lewat/kemarin | V3 = needed → sudah selesai | BERATURAN: V2 & V3 sama, tambah -ed ✅ | Aturan: I/You/We/They = need ✅ | He/She/It = needs (+s) ⚡'),
+
+w('open', 'open', 'o-pen', 'membuka', 'o', 'pemula',
+  'I open the door. | She opens the door.',
+  'Saya membuka pintu. | Dia membuka pintu.',
+  '✅ V1 = open → sekarang/kebiasaan | V2 = opened → sudah lewat/kemarin | V3 = opened → sudah selesai | BERATURAN: V2 & V3 sama, tambah -ed ✅ | Aturan: I/You/We/They = open ✅ | He/She/It = opens (+s) ⚡'),
+
+w('pass', 'pass', 'pas', 'melewati/menyerahkan', 'p', 'pemula',
+  'I pass the house. | She passes the house.',
+  'Saya melewati rumah itu. | Dia melewati rumah itu.',
+  '✅ V1 = pass → sekarang/kebiasaan | V2 = passed → sudah lewat/kemarin | V3 = passed → sudah selesai | BERATURAN: V2 & V3 sama, tambah -ed ✅ | Aturan: I/You/We/They = pass ✅ | He/She/It = passes (+s) ⚡'),
+
+w('pay', 'pay', 'pei', 'membayar', 'p', 'pemula',
+  'I pay the bill. | She pays the bill.',
+  'Saya membayar tagihan. | Dia membayar tagihan.',
+  '✅ V1 = pay → sekarang/kebiasaan | V2 = paid → sudah lewat/kemarin | V3 = paid → sudah selesai | BERATURAN: TIDAK beraturan ✅ | Aturan: I/You/We/They = pay ✅ | He/She/It = pays (+s) ⚡'),
+
+w('play', 'play', 'plei', 'bermain', 'p', 'pemula',
+  'I play football. | She plays football.',
+  'Saya bermain sepak bola. | Dia bermain sepak bola.',
+  '✅ V1 = play → sekarang/kebiasaan | V2 = played → sudah lewat/kemarin | V3 = played → sudah selesai | BERATURAN: V2 & V3 sama, tambah -ed ✅ | Aturan: I/You/We/They = play ✅ | He/She/It = plays (+s) ⚡'),
+
+w('promise', 'promise', 'pro-mis', 'berjanji', 'p', 'pemula',
+  'I promise to help. | She promises to help.',
+  'Saya berjanji akan membantu. | Dia berjanji akan membantu.',
+  '✅ V1 = promise → sekarang/kebiasaan | V2 = promised → sudah lewat/kemarin | V3 = promised → sudah selesai | BERATURAN: V2 & V3 sama, tambah -d ✅ | Aturan: I/You/We/They = promise ✅ | He/She/It = promises (+s) ⚡'),
+
+w('pull', 'pull', 'pul', 'menarik', 'p', 'pemula',
+  'I pull the rope. | She pulls the rope.',
+  'Saya menarik tali. | Dia menarik tali.',
+  '✅ V1 = pull → sekarang/kebiasaan | V2 = pulled → sudah lewat/kemarin | V3 = pulled → sudah selesai | BERATURAN: V2 & V3 sama, tambah -ed ✅ | Aturan: I/You/We/They = pull ✅ | He/She/It = pulls (+s) ⚡'),
+
+w('push', 'push', 'pus', 'mendorong', 'p', 'pemula',
+  'I push the cart. | He pushes the cart.',
+  'Saya mendorong gerobak. | Dia mendorong gerobak.',
+  '✅ V1 = push → sekarang/kebiasaan | V2 = pushed → sudah lewat/kemarin | V3 = pushed → sudah selesai | BERATURAN: V2 & V3 sama, tambah -ed ✅ | Aturan: I/You/We/They = push ✅ | He/She/It = pushes (+s) ⚡'),
+
+w('read', 'read', 'rid', 'membaca', 'r', 'pemula',
+  'I read every day. | She reads every day.',
+  'Saya membaca setiap hari. | Dia membaca setiap hari.',
+  '✅ V1 = read → sekarang/kebiasaan | V2 = read → sudah lewat/kemarin | V3 = read → sudah selesai | BERATURAN: TIDAK beraturan (ejaan sama, bunyi beda) ✅ | Aturan: I/You/We/They = read ✅ | He/She/It = reads (+s) ⚡'),
+
+w('receive', 'receive', 'ri-siv', 'menerima', 'r', 'pemula',
+  'I receive a letter. | She receives a letter.',
+  'Saya menerima surat. | Dia menerima surat.',
+  '✅ V1 = receive → sekarang/kebiasaan | V2 = received → sudah lewat/kemarin | V3 = received → sudah selesai | BERATURAN: V2 & V3 sama, tambah -d ✅ | Aturan: I/You/We/They = receive ✅ | He/She/It = receives (+s) ⚡'),
+
+w('remember', 'remember', 'ri-mem-ber', 'mengingat', 'r', 'pemula',
+  'I remember your name. | She remembers your name.',
+  'Saya ingat namamu. | Dia ingat namamu.',
+  '✅ V1 = remember → sekarang/kebiasaan | V2 = remembered → sudah lewat/kemarin | V3 = remembered → sudah selesai | BERATURAN: V2 & V3 sama, tambah -ed ✅ | Aturan: I/You/We/They = remember ✅ | He/She/It = remembers (+s) ⚡'),
+
+w('report', 'report', 'ri-port', 'melaporkan/mengabarkan', 'r', 'menengah',
+  'I report the news. | She reports the news.',
+  'Saya melaporkan berita itu. | Dia melaporkan berita itu.',
+  '✅ V1 = report → sekarang/kebiasaan | V2 = reported → sudah lewat/kemarin | V3 = reported → sudah selesai | BERATURAN: V2 & V3 sama, tambah -ed ✅ | Aturan: I/You/We/They = report ✅ | He/She/It = reports (+s) ⚡'),
+
+w('rest', 'rest', 'rest', 'beristirahat', 'r', 'pemula',
+  'I rest at noon. | She rests at noon.',
+  'Saya beristirahat siang hari. | Dia beristirahat siang hari.',
+  '✅ V1 = rest → sekarang/kebiasaan | V2 = rested → sudah lewat/kemarin | V3 = rested → sudah selesai | BERATURAN: V2 & V3 sama, tambah -ed ✅ | Aturan: I/You/We/They = rest ✅ | He/She/It = rests (+s) ⚡'),
+
+w('save', 'save', 'seiv', 'menyimpan/menyelamatkan', 's', 'pemula',
+  'I save money. | She saves money.',
+  'Saya menabung uang. | Dia menabung uang.',
+  '✅ V1 = save → sekarang/kebiasaan | V2 = saved → sudah lewat/kemarin | V3 = saved → sudah selesai | BERATURAN: V2 & V3 sama, tambah -d ✅ | Aturan: I/You/We/They = save ✅ | He/She/It = saves (+s) ⚡'),
+
+w('say', 'say', 'sei', 'mengatakan', 's', 'pemula',
+  'I say hello. | She says hello.',
+  'Saya menyapa. | Dia menyapa.',
+  '✅ V1 = say → sekarang/kebiasaan | V2 = said → sudah lewat/kemarin | V3 = said → sudah selesai | BERATURAN: TIDAK beraturan ✅ | Aturan: I/You/We/They = say ✅ | He/She/It = says (+s) ⚡'),
+
+w('see', 'see', 'si', 'melihat', 's', 'pemula',
+  'I see a bird. | She sees a bird.',
+  'Saya melihat burung. | Dia melihat burung.',
+  '✅ V1 = see → sekarang/kebiasaan | V2 = saw → sudah lewat/kemarin | V3 = seen → sudah selesai | BERATURAN: TIDAK beraturan ✅ | Aturan: I/You/We/They = see ✅ | He/She/It = sees (+s) ⚡'),
+
+w('send', 'send', 'send', 'mengirim', 's', 'pemula',
+  'I send a message. | She sends a message.',
+  'Saya mengirim pesan. | Dia mengirim pesan.',
+  '✅ V1 = send → sekarang/kebiasaan | V2 = sent → sudah lewat/kemarin | V3 = sent → sudah selesai | BERATURAN: TIDAK beraturan ✅ | Aturan: I/You/We/They = send ✅ | He/She/It = sends (+s) ⚡'),
+
+w('sing', 'sing', 'sing', 'bernyanyi', 's', 'pemula',
+  'I sing a song. | She sings a song.',
+  'Saya menyanyikan lagu. | Dia menyanyikan lagu.',
+  '✅ V1 = sing → sekarang/kebiasaan | V2 = sang → sudah lewat/kemarin | V3 = sung → sudah selesai | BERATURAN: TIDAK beraturan ✅ | Aturan: I/You/We/They = sing ✅ | He/She/It = sings (+s) ⚡'),
+
+w('speak', 'speak', 'spik', 'berbicara', 's', 'pemula',
+  'I speak English. | She speaks English.',
+  'Saya berbicara bahasa Inggris. | Dia berbicara bahasa Inggris.',
+  '✅ V1 = speak → sekarang/kebiasaan | V2 = spoke → sudah lewat/kemarin | V3 = spoken → sudah selesai | BERATURAN: TIDAK beraturan ✅ | Aturan: I/You/We/They = speak ✅ | He/She/It = speaks (+s) ⚡'),
+
+w('spend', 'spend', 'spend', 'menghabiskan/membelanjakan', 's', 'pemula',
+  'I spend time reading. | She spends time reading.',
+  'Saya menghabiskan waktu membaca. | Dia menghabiskan waktu membaca.',
+  '✅ V1 = spend → sekarang/kebiasaan | V2 = spent → sudah lewat/kemarin | V3 = spent → sudah selesai | BERATURAN: TIDAK beraturan ✅ | Aturan: I/You/We/They = spend ✅ | He/She/It = spends (+s) ⚡'),
+
+w('start', 'start', 'stat', 'mulai/memulai', 's', 'pemula',
+  'I work starts early. | Her work starts early.',
+  'Pekerjaanku dimulai pagi. | Pekerjaannya dimulai pagi.',
+  '✅ V1 = start → sekarang/kebiasaan | V2 = started → sudah lewat/kemarin | V3 = started → sudah selesai | BERATURAN: V2 & V3 sama, tambah -ed ✅ | Aturan: I/You/We/They = start ✅ | He/She/It = starts (+s) ⚡'),
+
+w('stop', 'stop', 'stop', 'berhenti/menghentikan', 's', 'pemula',
+  'I stop at the shop. | She stops at the shop.',
+  'Saya berhenti di toko. | Dia berhenti di toko.',
+  '✅ V1 = stop → sekarang/kebiasaan | V2 = stopped → sudah lewat/kemarin | V3 = stopped → sudah selesai | BERATURAN: ganda huruf akhir +ed ✅ | Aturan: I/You/We/They = stop ✅ | He/She/It = stops (+s) ⚡'),
+
+w('study', 'study', 'sta-di', 'belajar', 's', 'pemula',
+  'I study hard. | She studies hard.',
+  'Saya belajar dengan giat. | Dia belajar dengan giat.',
+  '✅ V1 = study → sekarang/kebiasaan | V2 = studied → sudah lewat/kemarin | V3 = studied → sudah selesai | BERATURAN: y→i +ed ✅ | Aturan: I/You/We/They = study ✅ | He/She/It = studies (+s) ⚡'),
+
+w('talk', 'talk', 'tok', 'berbicara/mengobrol', 't', 'pemula',
+  'I talk to my friend. | She talks to her friend.',
+  'Saya mengobrol dengan temanku. | Dia mengobrol dengan temannya.',
+  '✅ V1 = talk → sekarang/kebiasaan | V2 = talked → sudah lewat/kemarin | V3 = talked → sudah selesai | BERATURAN: V2 & V3 sama, tambah -ed ✅ | Aturan: I/You/We/They = talk ✅ | He/She/It = talks (+s) ⚡'),
+
+w('teach', 'teach', 'tic', 'mengajar', 't', 'pemula',
+  'I teach children. | She teaches children.',
+  'Saya mengajar anak-anak. | Dia mengajar anak-anak.',
+  '✅ V1 = teach → sekarang/kebiasaan | V2 = taught → sudah lewat/kemarin | V3 = taught → sudah selesai | BERATURAN: TIDAK beraturan ✅ | Aturan: I/You/We/They = teach ✅ | He/She/It = teaches (+s) ⚡'),
+
+w('tell', 'tell', 'tel', 'memberitahu/menceritakan', 't', 'pemula',
+  'I tell you a story. | She tells you a story.',
+  'Saya menceritakan kisah padamu. | Dia menceritakan kisah padamu.',
+  '✅ V1 = tell → sekarang/kebiasaan | V2 = told → sudah lewat/kemarin | V3 = told → sudah selesai | BERATURAN: TIDAK beraturan ✅ | Aturan: I/You/We/They = tell ✅ | He/She/It = tells (+s) ⚡'),
+
+w('think', 'think', 'tingk', 'berpikir', 't', 'pemula',
+  'I think you are right. | She thinks you are right.',
+  'Saya pikir kamu benar. | Dia pikir kamu benar.',
+  '✅ V1 = think → sekarang/kebiasaan | V2 = thought → sudah lewat/kemarin | V3 = thought → sudah selesai | BERATURAN: TIDAK beraturan ✅ | Aturan: I/You/We/They = think ✅ | He/She/It = thinks (+s) ⚡'),
+
+w('try', 'try', 'trai', 'mencoba/berusaha', 't', 'pemula',
+  'I try my best. | She tries her best.',
+  'Saya berusaha sebaik mungkin. | Dia berusaha sebaik mungkin.',
+  '✅ V1 = try → sekarang/kebiasaan | V2 = tried → sudah lewat/kemarin | V3 = tried → sudah selesai | BERATURAN: y→i +ed ✅ | Aturan: I/You/We/They = try ✅ | He/She/It = tries (+s) ⚡'),
+
+w('turn', 'turn', 'tern', 'berputar/memutar', 't', 'pemula',
+  'I turn left. | She turns left.',
+  'Saya belok kiri. | Dia belok kiri.',
+  '✅ V1 = turn → sekarang/kebiasaan | V2 = turned → sudah lewat/kemarin | V3 = turned → sudah selesai | BERATURAN: V2 & V3 sama, tambah -ed ✅ | Aturan: I/You/We/They = turn ✅ | He/She/It = turns (+s) ⚡'),
+
+w('use', 'use', 'yus', 'menggunakan', 'u', 'pemula',
+  'I use a pen. | She uses a pen.',
+  'Saya menggunakan pulpen. | Dia menggunakan pulpen.',
+  '✅ V1 = use → sekarang/kebiasaan | V2 = used → sudah lewat/kemarin | V3 = used → sudah selesai | BERATURAN: V2 & V3 sama, tambah -d ✅ | Aturan: I/You/We/They = use ✅ | He/She/It = uses (+s) ⚡'),
+
+w('visit', 'visit', 'vi-zit', 'mengunjungi', 'v', 'pemula',
+  'I visit my grandma. | She visits her grandma.',
+  'Saya mengunjungi nenekku. | Dia mengunjungi neneknya.',
+  '✅ V1 = visit → sekarang/kebiasaan | V2 = visited → sudah lewat/kemarin | V3 = visited → sudah selesai | BERATURAN: V2 & V3 sama, tambah -ed ✅ | Aturan: I/You/We/They = visit ✅ | He/She/It = visits (+s) ⚡'),
+
+w('wait', 'wait', 'weit', 'menunggu', 'w', 'pemula',
+  'I wait for you. | She waits for you.',
+  'Saya menunggumu. | Dia menunggumu.',
+  '✅ V1 = wait → sekarang/kebiasaan | V2 = waited → sudah lewat/kemarin | V3 = waited → sudah selesai | BERATURAN: V2 & V3 sama, tambah -ed ✅ | Aturan: I/You/We/They = wait ✅ | He/She/It = waits (+s) ⚡'),
+
+w('walk', 'walk', 'wok', 'berjalan', 'w', 'pemula',
+  'I walk to school. | She walks to school.',
+  'Saya berjalan ke sekolah. | Dia berjalan ke sekolah.',
+  '✅ V1 = walk → sekarang/kebiasaan | V2 = walked → sudah lewat/kemarin | V3 = walked → sudah selesai | BERATURAN: V2 & V3 sama, tambah -ed ✅ | Aturan: I/You/We/They = walk ✅ | He/She/It = walks (+s) ⚡'),
+      
+w('wake', 'wake', 'weik', 'bangun/membangunkan', 'w', 'pemula',
+  'I wake at 6. | She wakes at 6.',
+  'Saya bangun jam 6. | Dia bangun jam 6.',
+  '✅ V1 = wake → sekarang/kebiasaan | V2 = woke → sudah lewat/kemarin | V3 = woken → sudah selesai | BERATURAN: TIDAK beraturan ✅ | Aturan: I/You/We/They = wake ✅ | He/She/It = wakes (+s) ⚡'),
+    
+w('want', 'want', 'wont', 'ingin/menginginkan', 'w', 'pemula',
+  'I want water. | She wants water.',
+  'Saya ingin air. | Dia ingin air.',
+  '✅ V1 = want → sekarang/kebiasaan | V2 = wanted → sudah lewat/kemarin | V3 = wanted → sudah selesai | BERATURAN: V2 & V3 sama, tambah -ed ✅ | Aturan: I/You/We/They = want ✅ | He/She/It = wants (+s) ⚡'),
+
+w('watch', 'watch', 'woc', 'menonton/mengawasi', 'w', 'pemula',
+  'I watch TV. | She watches TV.',
+  'Saya menonton TV. | Dia menonton TV.',
+  '✅ V1 = watch → sekarang/kebiasaan | V2 = watched → sudah lewat/kemarin | V3 = watched → sudah selesai | BERATURAN: V2 & V3 sama, tambah -ed ✅ | Aturan: I/You/We/They = watch ✅ | He/She/It = watches (+s) ⚡'),
+
+w('wear', 'wear', 'wea', 'memakai', 'w', 'pemula',
+  'I wear a shirt. | She wears a shirt.',
+  'Saya memakai kemeja. | Dia memakai kemeja.',
+  '✅ V1 = wear → sekarang/kebiasaan | V2 = wore → sudah lewat/kemarin | V3 = worn → sudah selesai | BERATURAN: TIDAK beraturan ✅ | Aturan: I/You/We/They = wear ✅ | He/She/It = wears (+s) ⚡'),
+
+w('weep', 'weep', 'wip', 'menangis/meratapi', 'w', 'menengah',
+  'Weep no more. | She weeps no more.',
+  'Jangan menangis lagi. | Dia tidak menangis lagi.',
+  '✅ V1 = weep → sekarang/kebiasaan | V2 = wept → sudah lewat/kemarin | V3 = wept → sudah selesai | BERATURAN: TIDAK beraturan ✅ | Aturan: I/You/We/They = weep ✅ | He/She/It = weeps (+s) ⚡'),
+      
+ w('work', 'work', 'werk', 'bekerja', 'w', 'pemula',
+  'I work hard. | He works hard.',
+  'Saya bekerja keras. | Dia bekerja keras.',
+  '✅ V1 = work → sekarang/kebiasaan | V2 = worked → sudah lewat/kemarin | V3 = worked → sudah selesai | BERATURAN: V2 & V3 sama, tambah -ed ✅ | Aturan: I/You/We/They = work ✅ | He/She/It = works (+s) ⚡'),
+
+w('worry', 'worry', 'wa-ri', 'khawatir/mencemaskan', 'w', 'pemula',
+  'Don not worry. | She worries too much.',
+  'Jangan khawatir. | Dia terlalu khawatir.',
+  '✅ V1 = worry → sekarang/kebiasaan | V2 = worried → sudah lewat/kemarin | V3 = worried → sudah selesai | BERATURAN: y→i +ed ✅ | Aturan: I/You/We/They = worry ✅ | He/She/It = worries (+s) ⚡'),
+      
+ w('win', 'win', 'win', 'menang', 'w', 'pemula',
+  'I win the game. | She wins the game.',
+  'Saya memenangkan permainan itu. | Dia memenangkan permainan itu.',
+  '✅ V1 = win → sekarang/kebiasaan | V2 = won → sudah lewat/kemarin | V3 = won → sudah selesai | BERATURAN: TIDAK beraturan ✅ | Aturan: I/You/We/They = win ✅ | He/She/It = wins (+s) ⚡'),
+
+w('wipe', 'wipe', 'waip', 'mengelap/mengusap', 'w', 'pemula',
+  'I wipe the table. | She wipes the table.',
+  'Saya mengelap meja. | Dia mengelap meja.',
+  '✅ V1 = wipe → sekarang/kebiasaan | V2 = wiped → sudah lewat/kemarin | V3 = wiped → sudah selesai | BERATURAN: ganda huruf akhir +d ✅ | Aturan: I/You/We/They = wipe ✅ | He/She/It = wipes (+s) ⚡'),
+
+w('wish', 'wish', 'wis', 'berharap/mendoakan', 'w', 'pemula',
+  'I wish you well. | She wishes you well.',
+  'Saya mendoakanmu baik-baik. | Dia mendoakanmu baik-baik.',
+  '✅ V1 = wish → sekarang/kebiasaan | V2 = wished → sudah lewat/kemarin | V3 = wished → sudah selesai | BERATURAN: V2 & V3 sama, tambah -ed ✅ | Aturan: I/You/We/They = wish ✅ | He/She/It = wishes (+s) ⚡'),
+
+w('withdraw', 'withdraw', 'wid-dro', 'menarik/mengambil kembali', 'w', 'mahir',
+  'I withdraw money. | He withdraws money.',
+  'Saya menarik uang. | Dia menarik uang.',
+  '✅ V1 = withdraw → sekarang/kebiasaan | V2 = withdrew → sudah lewat/kemarin | V3 = withdrawn → sudah selesai | BERATURAN: TIDAK beraturan ✅ | Aturan: I/You/We/They = withdraw ✅ | He/She/It = withdraws (+s) ⚡'),
+      
+w('write', 'write', 'rait', 'menulis', 'w', 'pemula',
+  'I write every day. | She writes every day.',
+  'Saya menulis setiap hari. | Dia menulis setiap hari.',
+  '✅ V1 = write → sekarang/kebiasaan | V2 = wrote → sudah lewat/kemarin | V3 = written → sudah selesai | BERATURAN: TIDAK beraturan ✅ | Aturan: I/You/We/They = write ✅ | He/She/It = writes (+s) ⚡'),
+
+ w('yield', 'yield', 'yild', 'menghasilkan/menyerah', 'y', 'menengah',
+  'Land yields crops. | This land yields crops.',
+  'Tanah menghasilkan tanaman. | Tanah ini menghasilkan tanaman.',
+  '✅ V1 = yield → sekarang/kebiasaan | V2 = yielded → sudah lewat/kemarin | V3 = yielded → sudah selesai | BERATURAN: V2 & V3 sama, tambah -ed ✅ | Aturan: I/You/We/They = yield ✅ | He/She/It = yields (+s) ⚡'),     
       
   ]
 },  
