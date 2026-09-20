@@ -88,6 +88,15 @@ export function Home({
             🧠 {stats.strong} kata kuat dari {stats.seen} dipelajari · ketepatan{' '}
            {stats.accuracy}%
       </p>
+        {/* === TARGET HARIAN === */}
+<div style={{ padding: '12px', backgroundColor: '#fff3cd', borderRadius: '10px', marginTop: '16px' }}>
+  <p style={{ margin: 0, fontSize: '15px', fontWeight: '600', color: '#856404' }}>
+    🎯 Target Hari Ini
+  </p>
+  <p style={{ margin: '8px 0 0 0', fontSize: '14px', color: '#856404' }}>
+    Pelajari 10 kata setiap hari! 💪
+  </p>
+</div>
         {/* === BILAH KEMAJUAN === */}
 <div style={{ marginTop: '12px', marginBottom: '4px' }}>
   <div style={{
