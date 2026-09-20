@@ -88,20 +88,6 @@ export function Home({
             🧠 {stats.strong} kata kuat dari {stats.seen} dipelajari · ketepatan{' '}
             {stats.accuracy}%
           </p>
-        {/* Bilah Kemajuan */}
-<div style={{ marginTop: '12px' }}>
-  <div style={{ height: '12px', backgroundColor: '#e9ecef', borderRadius: '6px' }}>
-    <div style={{ 
-      height: '100%', 
-      width: ${stats.accuracy}%, 
-      backgroundColor: '#28a745',
-      borderRadius: '6px'
-    }} />
-  </div>
-  <p style={{ fontSize: '13px', marginTop: '6px' }}>
-    📊 {stats.strong} / {stats.seen} kata dikuasai
-  </p>
-</div>
         )}
       </TutorBubble>
 
