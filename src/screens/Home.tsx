@@ -88,6 +88,7 @@ export function Home({
             🧠 {stats.strong} kata kuat dari {stats.seen} dipelajari · ketepatan{' '}
             {stats.accuracy}%
       </p>
+        <p>📊 {stats.strong} dari {stats.seen} kata</p>
        )}
       </TutorBubble>
 
