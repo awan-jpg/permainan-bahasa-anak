@@ -1915,24 +1915,9 @@ w('write', 'write', 'rait', 'menulis', 'w', 'pemula', 'I write a letter. | She w
       'Saya bekerja setiap hari.',
       '✅ V1 = work → sekarang/kebiasaan\n✅ V2 = worked → sudah lewat/kemarin\n✅ V3 = worked → sudah selesai\n👉 BERATURAN: V2 & V3 sama, tambah -ed\nAturan: I/You/We/They = work ✅ | He/She/It = works (+s) ⚡'),
 
-    w('cook', 'cook', 'kuk', 'memasak', 'c', 'pemula',
-      'I cook rice every morning.',
-      'Saya memasak nasi setiap pagi.',
-      '✅ V1 = cook → sekarang/kebiasaan\n✅ V2 = cooked → sudah lewat/kemarin\n✅ V3 = cooked → sudah selesai\n👉 BERATURAN: V2 & V3 sama, tambah -ed\nAturan: I/You/We/They = cook ✅ | He/She/It = cooks (+s) ⚡'),
-
-    w('play', 'play', 'plei', 'bermain', 'p', 'pemula',
-      'They play football every afternoon.',
-      'Mereka bermain sepak bola setiap sore.',
-      '✅ V1 = play → sekarang/kebiasaan\n✅ V2 = played → sudah lewat/kemarin\n✅ V3 = played → sudah selesai\n👉 BERATURAN: V2 & V3 sama, tambah -ed\nAturan: I/You/We/They = play ✅ | He/She/It = plays (+s) ⚡'),
-
-    w('walk', 'walk', 'wok', 'berjalan', 'w', 'pemula',
-      'We walk to school together.',
-      'Kita berjalan ke sekolah bersama.',
-      '✅ V1 = walk → sekarang/kebiasaan\n✅ V2 = walked → sudah lewat/kemarin\n✅ V3 = walked → sudah selesai\n👉 BERATURAN: V2 & V3 sama, tambah -ed\nAturan: I/You/We/They = walk ✅ | He/She/It = walks (+s) ⚡')
-
-  ]
+   ]
 },
-    
+  
 export const LEVELS: { id: Level; label: string; emoji: string }[] = [
   { id: 'pemula', label: 'Pemula', emoji: '🌱' },
   { id: 'menengah', label: 'Menengah', emoji: '🌤️' },
