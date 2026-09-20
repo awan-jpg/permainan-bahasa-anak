@@ -1902,7 +1902,7 @@ w('write', 'write', 'rait', 'menulis', 'w', 'pemula', 'I write a letter. | She w
         
     ]
   },
-
+]
 export const LEVELS: { id: Level; label: string; emoji: string }[] = [
   { id: 'pemula', label: 'Pemula', emoji: '🌱' },
   { id: 'menengah', label: 'Menengah', emoji: '🌤️' },
