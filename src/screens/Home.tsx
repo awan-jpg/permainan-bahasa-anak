@@ -88,17 +88,17 @@ export function Home({
             🧠 {stats.strong} kata kuat dari {stats.seen} dipelajari · ketepatan{' '}
             {stats.accuracy}%
       </p>
-        {/* === BILAH KEMAJUAN === */}
+{/* === BILAH KEMAJUAN === */}
 <div style={{ marginTop: '12px', marginBottom: '4px' }}>
-  <div style={{ 
-    height: '12px', 
-    backgroundColor: '#e9ecef', 
+  <div style={{
+    height: '12px',
+    backgroundColor: '#e9ecef',
     borderRadius: '6px',
     overflow: 'hidden'
   }}>
-    <div style={{ 
-      height: '100%', 
-      width: ${stats.accuracy}%, 
+    <div style={{
+      height: '100%',
+      width: ${stats.accuracy}%,
       backgroundColor: '#28a745',
       borderRadius: '6px',
       transition: 'width 0.5s ease'
