@@ -86,7 +86,7 @@ export function Home({
         {stats.seen > 0 && (
           <p className="muted" style={{ fontSize: 15 }}>
             🧠 {stats.strong} kata kuat dari {stats.seen} dipelajari · ketepatan{' '}
-            {stats.accuracy}%
+           {stats.accuracy}%
       </p>
 {/* === BILAH KEMAJUAN === */}
 <div style={{ marginTop: '12px', marginBottom: '4px' }}>
@@ -98,7 +98,7 @@ export function Home({
   }}>
     <div style={{
       height: '100%',
-      width: ${stats.accuracy}%,
+      width: `${stats.accuracy}%`
       backgroundColor: '#28a745',
       borderRadius: '6px',
       transition: 'width 0.5s ease'
